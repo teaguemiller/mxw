@@ -1,0 +1,44 @@
+
+/* Error messages */
+"OK" = "OK";
+"Cancel" = "Cancel";
+"See Logs" = "See Logs";
+"You can't apply the Patch on this File !" = "You can't apply the Patch on this File !";
+"No Patch available for this Software" = "No Patch available for this Software";
+"Some of the files won't be patched !" = "Some of the files won't be patched !";
+"Continue (skip some files)" = "Continue (skip some files)";
+"Application is Locked (Non writable disk ?)" = "Application is Locked (Non writable disk ?)";
+"This Patch has been modified !" = "This Patch has been modified !";
+"There is a loop in the chain of patches !" = "There is a loop in the chain of patches !";
+"We will force the patch to stop now" = "We will force the patch to stop now";
+"There is already a file with the name of the patched application in this path !" = "There is already a file with the name of the patched application in this path !";
+"Do you want to overwrite it ?" = "Do you want to overwrite it ?";
+"Overwrite" = "Overwrite";
+
+//permissions
+"iPatch need to change permissions for these files :" = "iPatch need to change permissions for these files :";
+"Change Permissions" = "Change Permissions";
+"Changing permissions, please wait ..." = "Changing permissions, please wait ...";
+
+//Patching Message
+"Examining File : %@  -> OK\n" = "Examining File : %@  -> OK\n";
+"Examining File : %@  -> SHA1 Error\n" = "Examining File : %@  -> SHA1 Error\n";
+"File : %@  -> Locked\n" = "File : %@  -> Locked or permissions set as read only\n";
+"File : %@  -> Unlocked\n" = "File : %@  -> Unlocked\n";
+"File : %@  -> can't be unlocked\n" = "File : %@  -> can't be unlocked\n";
+
+"File  : %@ has been deleted\n" = "File  : %@ has been deleted\n";
+"File  : %@ has been created\n" = "File  : %@ has been created\n";
+
+"%@ has been patched (but %d files were skipped)" = "%@ has been patched (but %d files were skipped)";
+"%@ has been successfully patched"  = "%@ has been successfully patched";
+"Nothing has been patched" = "Nothing has been patched";
+
+"Data of file : %@ -> patched\n" = "Data of file : %@ -> patched\n";
+"Rsrc of file : %@ -> patched\n" = "Rsrc of file : %@ -> patched\n";
+"Data & Rsrc of file : %@ -> patched\n" = "Data & Rsrc of file : %@ -> patched\n";
+
+"Data of file : %@ can't be patched\n" = "Data of file : %@ can't be patched\n";
+"Rsrc of file : %@ can't be patched (Data ok)\n" = "Rsrc of file : %@ can't be patched (Data ok)\n";
+"Data & Rsrc of file : %@ can't be patched\n" = "Data & Rsrc of file : %@ can't be patched\n";
+

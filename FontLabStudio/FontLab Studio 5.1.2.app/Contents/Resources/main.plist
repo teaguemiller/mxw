@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NumberOfPatch</key>
+	<string>1</string>
+	<key>displayMenu</key>
+	<string>YES</string>
+	<key>interface</key>
+	<string>0</string>
+	<key>rtfFileMD5</key>
+	<string>44ca2f0d6c6c1d36442bb959c456e3a25ef905db</string>
+	<key>rtfdFileMD5</key>
+	<string>796b30fbe5e64f385214e617de02a2137781b42f</string>
+	<key>theApptoPatchName</key>
+	<string>FontLab Studio 5_App</string>
+	<key>windowPosition</key>
+	<string>615</string>
+	<key>windowSize</key>
+	<string>928</string>
+	<key>windowTitle</key>
+	<string>FontLab Studio 5_Updater</string>
+</dict>
+</plist>

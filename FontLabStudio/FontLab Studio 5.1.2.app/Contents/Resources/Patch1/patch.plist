@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Compression</key>
+	<string>YES</string>
+	<key>File1</key>
+	<dict>
+		<key>SHA1</key>
+		<string>&lt;17c3d6fe 1ea79a37 1fe5f4f0 981cf7b3 096dc01a&gt;</string>
+		<key>fileCreationDate</key>
+		<date>2012-05-04T12:43:20Z</date>
+		<key>fileModificationDate</key>
+		<date>2012-05-04T12:43:20Z</date>
+		<key>fileOwner</key>
+		<string>NSfileOwnerAccountName:NSfileGroupOwnerAccountName</string>
+		<key>filePosixPermissions</key>
+		<integer>509</integer>
+		<key>name</key>
+		<string>FontLab Studio 5</string>
+		<key>newPath</key>
+		<string>/Contents/MacOS/FontLab Studio 5</string>
+		<key>originalPath</key>
+		<string>/Contents/MacOS/FontLab Studio 5</string>
+		<key>type</key>
+		<string>DataForkCmp</string>
+	</dict>
+	<key>File2</key>
+	<dict>
+		<key>SHA1</key>
+		<string>0</string>
+		<key>name</key>
+		<string>com.fontlab.fs5m.lic</string>
+		<key>newPath</key>
+		<string>/Contents/MacOS/com.fontlab.fs5m.lic</string>
+		<key>originalPath</key>
+		<string>File will be created</string>
+		<key>type</key>
+		<string>Create</string>
+	</dict>
+	<key>NumberOfFile</key>
+	<string>2</string>
+	<key>NumberOfScripts</key>
+	<string>0</string>
+	<key>NumberOfSpecialFile</key>
+	<string>0</string>
+	<key>fileToChecksum</key>
+	<string>/Contents/MacOS/FontLab Studio 5</string>
+	<key>md5Checksum</key>
+	<string>0dfb102f57b4b1fef132873a656bf229</string>
+	<key>nameOfApp</key>
+	<string>FontLab Studio 5.app</string>
+	<key>prebindingSupport</key>
+	<string>NO</string>
+	<key>rsrcToChecksum</key>
+	<string>0</string>
+</dict>
+</plist>

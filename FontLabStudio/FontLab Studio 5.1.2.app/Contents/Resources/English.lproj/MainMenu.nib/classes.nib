@@ -1,0 +1,38 @@
+{
+    IBClasses = (
+        {
+            CLASS = DragView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {doneField = NSTextField; pathPassageToNSDocument = id; }; 
+            SUPERCLASS = NSImageView; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                "_patchLaunch" = id; 
+                closeInfos = id; 
+                closeLogs = id; 
+                openFile = id; 
+                saveLogs = id; 
+                seeInfos = id; 
+                seeLogs = id; 
+            }; 
+            CLASS = MainController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                dragView = DragView; 
+                infoView = NSTextView; 
+                informationsWindow = NSWindow; 
+                logView = NSTextView; 
+                logsWindow = NSWindow; 
+                nameAppSelect = NSButton; 
+                pathField = NSTextField; 
+                progressView = NSProgressIndicator; 
+                seeLogButton = NSButton; 
+                window = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
