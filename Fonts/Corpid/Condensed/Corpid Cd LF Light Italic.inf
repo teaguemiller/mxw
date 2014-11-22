@@ -1,0 +1,22 @@
+FontName (CorpidCdLF-LightItalic)
+FullName (Corpid Cd LF Light Italic)
+AppleName (CorpidCdLF-LightItalic)
+FamilyName (Corpid Cd LF)
+Version (001.000)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -9
+CapHeight 698
+UnderlinePosition 0
+UnderlineThickness 0
+StemWidth 193
+Serif false
+MSMenuName (Corpid Cd LF Light)
+VPMenuName (Corpid Cd LF Light)
+WORDMenuName (Corpid Cd LF Light)
+VPStyle (I)
+WindowsCharSet 200
+WindowsFirstChar 32
+WindowsLastChar 255

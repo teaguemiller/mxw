@@ -1,0 +1,23 @@
+FontName (CorpidCd-BlackItalic)
+FullName (Corpid Cd Black Italic)
+FamilyName (Corpid Cd)
+Version (001.000)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -9
+CapHeight 698
+UnderlinePosition 0
+UnderlineThickness 0
+StemWidth 193
+Serif false
+AppleName (Corpid Cd Black Italic)
+MSMenuName (Corpid Cd Black)
+VPMenuName (Corpid Cd Black)
+WORDMenuName (Corpid Cd Black)
+AppleFONDID 128
+VPStyle (I)
+WindowsCharSet 200
+WindowsFirstChar 32
+WindowsLastChar 255

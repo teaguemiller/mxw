@@ -1,0 +1,3691 @@
+StartFontMetrics 2.0
+Comment Copyright Copyright (c) Luc[as] de Groot, 1997/2002, Vers.1.72. All rights reserved. Corpid is available at <www.lucasfonts.com> For customized versions please contact <www.fontfabrik.com>
+Comment UniqueID 512523
+Comment Panose 2 11 0 3 4 5 2 6 2 4
+FullName Corpid Caps
+FontName CorpidCaps
+FamilyName Corpid Caps
+Weight Regular
+Notice Copyright [c] 1997, 2002 Luc(as) de Groot, published by LucasFonts.
+Version 001.072
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -92 -221 1132 895
+Ascender 750
+Descender -221
+XHeight 510
+CapHeight 698
+UnderlinePosition -186
+UnderlineThickness 70
+StdHW 77
+StdVW 98
+EncodingScheme FontSpecific
+StartCharMetrics 251
+C 5 ; WX 285 ; N Brevesmall ; B 0 651 282 807 ;
+C 6 ; WX 281 ; N Dotaccentsmall ; B 77 664 204 790 ;
+C 8 ; WX 271 ; N Ringsmall ; B 0 611 213 809 ;
+C 10 ; WX 465 ; N Hungarumlautsmall ; B 0 649 410 815 ;
+C 11 ; WX 293 ; N Ogoneksmall ; B 75 -205 274 0 ;
+C 12 ; WX 371 ; N Caronsmall ; B 0 653 286 818 ;
+C 13 ; WX 299 ; N Dotlessismall ; B 101 0 198 586 ;
+C 25 ; WX 374 ; N fraction ; B -92 -28 470 727 ;
+C 26 ; WX 772 ; N Fsmall_Ismall ; B 101 0 671 586 ;
+C 27 ; WX 921 ; N Fsmall_Lsmall ; B 101 0 897 586 ;
+C 28 ; WX 505 ; N Lslash.cap ; B 9 0 461 698 ;
+C 29 ; WX 479 ; N Lslashsmall ; B 32 0 437 586 ;
+C 30 ; WX 549 ; N Zcaron.cap ; B 31 0 486 892 ;
+C 31 ; WX 510 ; N Zcaronsmall ; B 44 0 464 818 ;
+C 32 ; WX 270 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 360 ; N exclam ; B 135 -11 265 750 ;
+C 34 ; WX 447 ; N quotedbl ; B 74 473 363 750 ;
+C 35 ; WX 550 ; N numbersign ; B 34 0 519 698 ;
+C 36 ; WX 550 ; N dollar.alt1 ; B 66 -116 487 755 ;
+C 37 ; WX 825 ; N percent ; B 44 -28 780 727 ;
+C 38 ; WX 727 ; N ampersand ; B 65 -14 698 710 ;
+C 39 ; WX 245 ; N quotesingle ; B 74 473 171 750 ;
+C 40 ; WX 336 ; N parenleft.cap ; B 71 -164 271 804 ;
+C 41 ; WX 336 ; N parenright.cap ; B 65 -164 265 804 ;
+C 42 ; WX 550 ; N asterisk ; B 79 362 469 762 ;
+C 43 ; WX 550 ; N plus ; B 42 62 508 560 ;
+C 44 ; WX 276 ; N comma ; B 31 -165 262 128 ;
+C 45 ; WX 335 ; N hyphen.cap ; B 39 264 296 343 ;
+C 46 ; WX 276 ; N period ; B 70 -7 207 131 ;
+C 47 ; WX 431 ; N slash ; B 2 -153 425 798 ;
+C 48 ; WX 550 ; N zero ; B 32 -10 517 677 ;
+C 49 ; WX 550 ; N one ; B 78 0 493 667 ;
+C 50 ; WX 550 ; N two ; B 48 0 499 677 ;
+C 51 ; WX 550 ; N three ; B 45 -10 477 677 ;
+C 52 ; WX 550 ; N four ; B 24 0 519 667 ;
+C 53 ; WX 550 ; N five ; B 53 -10 491 667 ;
+C 54 ; WX 550 ; N six ; B 53 -10 509 677 ;
+C 55 ; WX 550 ; N seven ; B 46 -24 498 667 ;
+C 56 ; WX 550 ; N eight ; B 39 -10 510 677 ;
+C 57 ; WX 550 ; N nine ; B 39 -10 495 677 ;
+C 58 ; WX 296 ; N colon ; B 90 -7 227 500 ;
+C 59 ; WX 296 ; N semicolon ; B 51 -165 282 500 ;
+C 60 ; WX 550 ; N less ; B 42 46 490 576 ;
+C 61 ; WX 550 ; N equal ; B 55 166 495 456 ;
+C 62 ; WX 550 ; N greater ; B 60 46 508 576 ;
+C 63 ; WX 464 ; N question ; B 68 -11 409 759 ;
+C 64 ; WX 1052 ; N at.alt1 ; B 74 0 943 782 ;
+C 65 ; WX 694 ; N A.cap ; B 25 0 639 698 ;
+C 66 ; WX 618 ; N B.cap ; B 91 0 541 698 ;
+C 67 ; WX 619 ; N C.cap ; B 54 -9 564 707 ;
+C 68 ; WX 731 ; N D.cap ; B 91 0 649 698 ;
+C 69 ; WX 575 ; N E.cap ; B 91 0 479 698 ;
+C 70 ; WX 534 ; N F.cap ; B 91 0 460 698 ;
+C 71 ; WX 717 ; N G.cap ; B 52 -11 614 707 ;
+C 72 ; WX 722 ; N H.cap ; B 91 0 601 698 ;
+C 73 ; WX 310 ; N I.cap ; B 91 0 189 698 ;
+C 74 ; WX 370 ; N J.cap ; B 21 -12 248 698 ;
+C 75 ; WX 642 ; N K.cap ; B 91 0 590 698 ;
+C 76 ; WX 495 ; N L.cap ; B 91 0 451 698 ;
+C 77 ; WX 953 ; N M.cap ; B 83 0 841 698 ;
+C 78 ; WX 741 ; N N.cap ; B 91 0 620 698 ;
+C 79 ; WX 800 ; N O.cap ; B 55 -12 715 710 ;
+C 80 ; WX 603 ; N P.cap ; B 91 0 526 698 ;
+C 81 ; WX 801 ; N Q.cap ; B 55 -70 757 710 ;
+C 82 ; WX 625 ; N R.cap ; B 91 0 555 698 ;
+C 83 ; WX 533 ; N S.cap ; B 50 -12 460 710 ;
+C 84 ; WX 569 ; N T.cap ; B 12 0 527 698 ;
+C 85 ; WX 738 ; N U.cap ; B 90 -11 619 698 ;
+C 86 ; WX 674 ; N V.cap ; B 18 0 630 698 ;
+C 87 ; WX 1041 ; N W.cap ; B 33 0 979 698 ;
+C 88 ; WX 650 ; N X.cap ; B 11 0 605 698 ;
+C 89 ; WX 616 ; N Y.cap ; B 9 0 578 698 ;
+C 90 ; WX 549 ; N Z.cap ; B 31 0 486 698 ;
+C 91 ; WX 341 ; N bracketleft.cap ; B 101 -144 289 786 ;
+C 92 ; WX 431 ; N backslash ; B 6 -153 430 798 ;
+C 93 ; WX 341 ; N bracketright.cap ; B 52 -144 240 786 ;
+C 94 ; WX 550 ; N asciicircum ; B 61 353 507 698 ;
+C 95 ; WX 550 ; N underscore ; B 0 -221 550 -151 ;
+C 96 ; WX 303 ; N Gravesmall ; B 0 649 197 815 ;
+C 97 ; WX 606 ; N Asmall ; B 34 0 572 586 ;
+C 98 ; WX 568 ; N Bsmall ; B 101 0 515 586 ;
+C 99 ; WX 560 ; N Csmall ; B 64 -8 516 594 ;
+C 100 ; WX 657 ; N Dsmall ; B 101 0 595 586 ;
+C 101 ; WX 512 ; N Esmall ; B 101 0 436 586 ;
+C 102 ; WX 473 ; N Fsmall ; B 101 0 421 586 ;
+C 103 ; WX 646 ; N Gsmall ; B 62 -10 563 594 ;
+C 104 ; WX 680 ; N Hsmall ; B 101 0 579 586 ;
+C 105 ; WX 299 ; N Ismall ; B 101 0 198 586 ;
+C 106 ; WX 343 ; N Jsmall ; B 31 -9 243 586 ;
+C 107 ; WX 591 ; N Ksmall ; B 101 0 559 586 ;
+C 108 ; WX 449 ; N Lsmall ; B 101 0 424 586 ;
+C 109 ; WX 891 ; N Msmall ; B 93 0 798 586 ;
+C 110 ; WX 691 ; N Nsmall ; B 101 0 590 586 ;
+C 111 ; WX 696 ; N Osmall ; B 65 -10 631 595 ;
+C 112 ; WX 540 ; N Psmall ; B 101 0 486 586 ;
+C 113 ; WX 696 ; N Qsmall ; B 65 -60 665 595 ;
+C 114 ; WX 566 ; N Rsmall ; B 100 0 514 586 ;
+C 115 ; WX 473 ; N Ssmall ; B 63 -10 418 595 ;
+C 116 ; WX 494 ; N Tsmall ; B 22 0 472 586 ;
+C 117 ; WX 674 ; N Usmall ; B 100 -9 574 586 ;
+C 118 ; WX 596 ; N Vsmall ; B 29 0 570 586 ;
+C 119 ; WX 907 ; N Wsmall ; B 44 0 864 586 ;
+C 120 ; WX 574 ; N Xsmall ; B 21 0 549 586 ;
+C 121 ; WX 556 ; N Ysmall ; B 18 0 538 586 ;
+C 122 ; WX 510 ; N Zsmall ; B 44 0 464 586 ;
+C 123 ; WX 351 ; N braceleft.cap ; B 49 -147 313 789 ;
+C 124 ; WX 510 ; N bar.cap ; B 211 -177 299 786 ;
+C 125 ; WX 351 ; N braceright.cap ; B 67 -147 331 789 ;
+C 126 ; WX 550 ; N asciitilde ; B 34 411 518 613 ;
+C 128 ; WX 550 ; N Euro.alt1 ; B 23 -9 507 677 ;
+C 130 ; WX 273 ; N quotesinglbase ; B 30 -163 257 125 ;
+C 131 ; WX 550 ; N florin ; B 18 -125 504 709 ;
+C 132 ; WX 466 ; N quotedblbase ; B 34 -158 450 123 ;
+C 133 ; WX 771 ; N ellipsis ; B 74 -11 697 127 ;
+C 134 ; WX 550 ; N dagger ; B 66 107 484 750 ;
+C 135 ; WX 550 ; N daggerdbl ; B 66 0 484 750 ;
+C 136 ; WX 395 ; N Circumflexsmall ; B 0 652 285 816 ;
+C 137 ; WX 1177 ; N perthousand ; B 44 -28 1132 727 ;
+C 138 ; WX 533 ; N Scaron.cap ; B 50 -12 460 892 ;
+C 139 ; WX 375 ; N guilsinglleft ; B 55 50 269 510 ;
+C 140 ; WX 968 ; N OE.cap ; B 55 -10 872 708 ;
+C 145 ; WX 273 ; N quoteleft.cap ; B 14 529 241 817 ;
+C 146 ; WX 273 ; N quoteright.cap ; B 30 497 257 785 ;
+C 147 ; WX 464 ; N quotedblleft.cap ; B 15 534 429 814 ;
+C 148 ; WX 464 ; N quotedblright.cap ; B 34 502 447 782 ;
+C 149 ; WX 550 ; N diamondrhombsolid ; B 87 159 463 534 ;
+C 150 ; WX 550 ; N endash ; B 0 264 550 346 ;
+C 151 ; WX 1000 ; N emdash ; B 84 264 916 347 ;
+C 152 ; WX 446 ; N Tildesmall ; B 0 664 350 789 ;
+C 153 ; WX 702 ; N trademark ; B 36 406 635 698 ;
+C 154 ; WX 473 ; N Scaronsmall ; B 63 -10 418 818 ;
+C 155 ; WX 375 ; N guilsinglright ; B 106 50 320 510 ;
+C 156 ; WX 842 ; N OEsmall ; B 65 -10 766 595 ;
+C 159 ; WX 616 ; N Ydieresis.cap ; B 9 0 578 860 ;
+C 160 ; WX 270 ; N nbspace ; B 0 0 0 0 ;
+C 161 ; WX 360 ; N exclamdown ; B 95 -163 225 598 ;
+C 162 ; WX 550 ; N cent.alt1 ; B 74 0 489 667 ;
+C 163 ; WX 550 ; N sterling.alt1 ; B 49 0 496 677 ;
+C 164 ; WX 550 ; N currency ; B 45 9 505 610 ;
+C 165 ; WX 550 ; N yen.alt1 ; B 26 0 523 667 ;
+C 166 ; WX 550 ; N brokenbar.cap ; B 230 -177 318 809 ;
+C 167 ; WX 567 ; N section ; B 76 -192 487 718 ;
+C 168 ; WX 408 ; N Dieresissmall ; B 0 676 306 779 ;
+C 169 ; WX 766 ; N copyright ; B 40 -3 723 678 ;
+C 170 ; WX 477 ; N Ordfeminine ; B 47 172 430 701 ;
+C 171 ; WX 569 ; N guillemotleft ; B 55 50 468 510 ;
+C 172 ; WX 550 ; N logicalnot ; B 37 156 498 349 ;
+C 173 ; WX 550 ; N minus ; B 42 271 508 350 ;
+C 174 ; WX 566 ; N registered ; B 64 313 499 749 ;
+C 175 ; WX 342 ; N Macronsmall ; B 0 695 278 760 ;
+C 176 ; WX 375 ; N degree ; B 54 482 321 735 ;
+C 177 ; WX 550 ; N plusminus ; B 45 0 505 637 ;
+C 178 ; WX 370 ; N twosuperior ; B 43 353 329 709 ;
+C 179 ; WX 370 ; N threesuperior ; B 65 341 320 709 ;
+C 180 ; WX 318 ; N Acutesmall ; B 0 649 199 815 ;
+C 181 ; WX 631 ; N mu ; B 83 -210 604 510 ;
+C 182 ; WX 602 ; N paragraph ; B 20 -115 517 698 ;
+C 183 ; WX 276 ; N periodcentered ; B 70 242 207 380 ;
+C 184 ; WX 293 ; N Cedillasmall ; B 43 -171 250 0 ;
+C 185 ; WX 370 ; N onesuperior ; B 57 353 322 698 ;
+C 186 ; WX 486 ; N Ordmasculine ; B 50 172 436 710 ;
+C 187 ; WX 569 ; N guillemotright ; B 100 50 514 510 ;
+C 188 ; WX 858 ; N onequarter ; B 54 -28 782 727 ;
+C 189 ; WX 873 ; N onehalf ; B 54 -28 802 727 ;
+C 190 ; WX 843 ; N threequarters ; B 62 -28 786 727 ;
+C 191 ; WX 464 ; N questiondown ; B 55 -172 396 598 ;
+C 192 ; WX 694 ; N Agrave.cap ; B 25 0 639 895 ;
+C 193 ; WX 694 ; N Aacute.cap ; B 25 0 639 895 ;
+C 194 ; WX 694 ; N Acircumflex.cap ; B 25 0 639 892 ;
+C 195 ; WX 694 ; N Atilde.cap ; B 25 0 639 870 ;
+C 196 ; WX 694 ; N Adieresis.cap ; B 25 0 639 860 ;
+C 197 ; WX 694 ; N Aring.cap ; B 25 0 639 853 ;
+C 198 ; WX 903 ; N AE.cap ; B -7 0 807 698 ;
+C 199 ; WX 619 ; N Ccedilla.cap ; B 54 -171 564 707 ;
+C 200 ; WX 575 ; N Egrave.cap ; B 91 0 479 895 ;
+C 201 ; WX 575 ; N Eacute.cap ; B 91 0 479 895 ;
+C 202 ; WX 575 ; N Ecircumflex.cap ; B 91 0 479 892 ;
+C 203 ; WX 575 ; N Edieresis.cap ; B 91 0 479 860 ;
+C 204 ; WX 310 ; N Igrave.cap ; B 0 0 218 895 ;
+C 205 ; WX 310 ; N Iacute.cap ; B 61 0 279 895 ;
+C 206 ; WX 310 ; N Icircumflex.cap ; B -1 0 283 892 ;
+C 207 ; WX 310 ; N Idieresis.cap ; B -6 0 288 860 ;
+C 208 ; WX 741 ; N Eth.cap ; B 17 0 659 698 ;
+C 209 ; WX 741 ; N Ntilde.cap ; B 91 0 620 870 ;
+C 210 ; WX 800 ; N Ograve.cap ; B 55 -12 715 895 ;
+C 211 ; WX 800 ; N Oacute.cap ; B 55 -12 715 895 ;
+C 212 ; WX 800 ; N Ocircumflex.cap ; B 55 -12 715 892 ;
+C 213 ; WX 800 ; N Otilde.cap ; B 55 -12 715 870 ;
+C 214 ; WX 800 ; N Odieresis.cap ; B 55 -12 715 860 ;
+C 215 ; WX 550 ; N multiply ; B 46 81 504 539 ;
+C 216 ; WX 800 ; N Oslash.cap ; B 55 -103 715 777 ;
+C 217 ; WX 738 ; N Ugrave.cap ; B 90 -11 619 895 ;
+C 218 ; WX 738 ; N Uacute.cap ; B 90 -11 619 895 ;
+C 219 ; WX 738 ; N Ucircumflex.cap ; B 90 -11 619 892 ;
+C 220 ; WX 738 ; N Udieresis.cap ; B 90 -11 619 860 ;
+C 221 ; WX 616 ; N Yacute.cap ; B 9 0 578 895 ;
+C 222 ; WX 603 ; N Thorn.cap ; B 91 0 526 698 ;
+C 223 ; WX 946 ; N Ssmall_Ssmall ; B 63 -10 890 595 ;
+C 224 ; WX 606 ; N Agravesmall ; B 34 0 572 815 ;
+C 225 ; WX 606 ; N Aacutesmall ; B 34 0 572 815 ;
+C 226 ; WX 606 ; N Acircumflexsmall ; B 34 0 572 816 ;
+C 227 ; WX 606 ; N Atildesmall ; B 34 0 572 789 ;
+C 228 ; WX 606 ; N Adieresissmall ; B 34 0 572 779 ;
+C 229 ; WX 606 ; N Aringsmall ; B 34 0 572 809 ;
+C 230 ; WX 783 ; N AEsmall ; B 4 0 707 586 ;
+C 231 ; WX 560 ; N Ccedillasmall ; B 64 -171 516 594 ;
+C 232 ; WX 512 ; N Egravesmall ; B 101 0 436 815 ;
+C 233 ; WX 512 ; N Eacutesmall ; B 101 0 436 815 ;
+C 234 ; WX 512 ; N Ecircumflexsmall ; B 101 0 436 816 ;
+C 235 ; WX 512 ; N Edieresissmall ; B 101 0 436 779 ;
+C 236 ; WX 299 ; N Igravesmall ; B 29 0 226 815 ;
+C 237 ; WX 299 ; N Iacutesmall ; B 72 0 271 815 ;
+C 238 ; WX 299 ; N Icircumflexsmall ; B 8 0 293 816 ;
+C 239 ; WX 299 ; N Idieresissmall ; B 1 0 298 781 ;
+C 240 ; WX 690 ; N Ethsmall ; B 33 0 607 586 ;
+C 241 ; WX 691 ; N Ntildesmall ; B 101 0 590 789 ;
+C 242 ; WX 696 ; N Ogravesmall ; B 65 -10 631 815 ;
+C 243 ; WX 696 ; N Oacutesmall ; B 65 -10 631 815 ;
+C 244 ; WX 696 ; N Ocircumflexsmall ; B 65 -10 631 816 ;
+C 245 ; WX 696 ; N Otildesmall ; B 65 -10 631 789 ;
+C 246 ; WX 696 ; N Odieresissmall ; B 65 -10 631 779 ;
+C 247 ; WX 550 ; N divide ; B 32 42 510 578 ;
+C 248 ; WX 696 ; N Oslashsmall ; B 65 -90 631 656 ;
+C 249 ; WX 674 ; N Ugravesmall ; B 100 -9 574 815 ;
+C 250 ; WX 674 ; N Uacutesmall ; B 100 -9 574 815 ;
+C 251 ; WX 674 ; N Ucircumflexsmall ; B 100 -9 574 816 ;
+C 252 ; WX 674 ; N Udieresissmall ; B 100 -9 574 779 ;
+C 253 ; WX 556 ; N Yacutesmall ; B 18 0 538 815 ;
+C 254 ; WX 540 ; N Thornsmall ; B 101 0 486 586 ;
+C 255 ; WX 556 ; N Ydieresissmall ; B 18 0 538 779 ;
+C -1 ; WX 350 ; N Acute ; B 0 749 218 895 ;
+C -1 ; WX 450 ; N Caron ; B 0 752 284 892 ;
+C -1 ; WX 450 ; N Circumflex ; B 0 752 284 892 ;
+C -1 ; WX 747 ; N Delta ; B 44 0 703 698 ;
+C -1 ; WX 450 ; N Dieresis ; B 0 755 322 860 ;
+C -1 ; WX 350 ; N Grave ; B 0 749 218 895 ;
+C -1 ; WX 772 ; N Omega ; B 45 0 726 709 ;
+C -1 ; WX 500 ; N Tilde ; B 0 748 356 870 ;
+C -1 ; WX 960 ; N apple ; B 79 -78 880 728 ;
+C -1 ; WX 550 ; N approxequal ; B 50 136 509 480 ;
+C -1 ; WX 550 ; N greaterequal ; B 50 0 500 647 ;
+C -1 ; WX 940 ; N infinity ; B 56 189 885 507 ;
+C -1 ; WX 405 ; N integral ; B 5 -220 376 720 ;
+C -1 ; WX 550 ; N lessequal ; B 50 0 500 647 ;
+C -1 ; WX 567 ; N lozenge ; B 33 0 525 709 ;
+C -1 ; WX 550 ; N notequal ; B 55 31 495 590 ;
+C -1 ; WX 586 ; N partialdiff ; B 48 -12 534 763 ;
+C -1 ; WX 627 ; N pi ; B 25 -9 569 510 ;
+C -1 ; WX 881 ; N product ; B 58 -207 805 709 ;
+C -1 ; WX 550 ; N radical ; B 13 0 528 698 ;
+C -1 ; WX 599 ; N summation ; B 43 -207 556 709 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 3284
+KPX Fsmall_Ismall Bsmall 14
+KPX Fsmall_Ismall Dsmall 14
+KPX Fsmall_Ismall Esmall 14
+KPX Fsmall_Ismall Fsmall 14
+KPX Fsmall_Ismall Hsmall 14
+KPX Fsmall_Ismall Ismall 14
+KPX Fsmall_Ismall Ksmall 14
+KPX Fsmall_Ismall Lsmall 14
+KPX Fsmall_Ismall Nsmall 14
+KPX Fsmall_Ismall Psmall 14
+KPX Fsmall_Ismall Rsmall 14
+KPX Fsmall_Ismall Fsmall_Ismall 14
+KPX Fsmall_Ismall Fsmall_Lsmall 11
+KPX Fsmall_Ismall Msmall 3
+KPX Fsmall_Ismall Usmall 3
+KPX Fsmall_Ismall Zsmall 3
+
+KPX Fsmall_Lsmall slash 28
+KPX Fsmall_Lsmall Csmall -26
+KPX Fsmall_Lsmall Gsmall -26
+KPX Fsmall_Lsmall Osmall -26
+KPX Fsmall_Lsmall Qsmall -26
+KPX Fsmall_Lsmall Tsmall -79
+KPX Fsmall_Lsmall Vsmall -55
+KPX Fsmall_Lsmall Wsmall -46
+KPX Fsmall_Lsmall Ysmall -80
+KPX Fsmall_Lsmall Ccedillasmall -22
+KPX Fsmall_Lsmall Oacutesmall -25
+KPX Fsmall_Lsmall Ogravesmall -26
+KPX Fsmall_Lsmall Ocircumflexsmall -26
+KPX Fsmall_Lsmall Odieresissmall -26
+KPX Fsmall_Lsmall Otildesmall -26
+KPX Fsmall_Lsmall guillemotleft -26
+KPX Fsmall_Lsmall OEsmall -26
+KPX Fsmall_Lsmall quotedblleft.cap -112
+KPX Fsmall_Lsmall quotedblright.cap -88
+KPX Fsmall_Lsmall quoteleft.cap -112
+KPX Fsmall_Lsmall quoteright.cap -100
+KPX Fsmall_Lsmall Ydieresissmall -86
+KPX Fsmall_Lsmall guilsinglleft -26
+KPX Fsmall_Lsmall periodcentered -74
+KPX Fsmall_Lsmall Asmall 1
+KPX Fsmall_Lsmall Jsmall 2
+KPX Fsmall_Lsmall Usmall -5
+KPX Fsmall_Lsmall Zsmall 3
+KPX Fsmall_Lsmall Uacutesmall -5
+KPX Fsmall_Lsmall Ugravesmall -5
+KPX Fsmall_Lsmall Ucircumflexsmall -5
+KPX Fsmall_Lsmall Udieresissmall -5
+KPX Fsmall_Lsmall Oslashsmall -4
+
+KPX space V.cap -5
+KPX space Y.cap -4
+KPX space Vsmall -8
+KPX space Ysmall -6
+KPX space Ydieresissmall -6
+
+KPX comma A.cap 10
+KPX comma C.cap -42
+KPX comma G.cap -50
+KPX comma M.cap -10
+KPX comma O.cap -30
+KPX comma Q.cap -32
+KPX comma T.cap -72
+KPX comma U.cap -10
+KPX comma V.cap -74
+KPX comma W.cap -21
+KPX comma Y.cap -91
+KPX comma Z.cap 16
+KPX comma Asmall 10
+KPX comma Csmall -42
+KPX comma Gsmall -50
+KPX comma Msmall -10
+KPX comma Osmall -30
+KPX comma Qsmall -30
+KPX comma Tsmall -72
+KPX comma Usmall -10
+KPX comma Vsmall -74
+KPX comma Wsmall -21
+KPX comma Ysmall -91
+KPX comma Zsmall 16
+KPX comma Adieresis.cap 10
+KPX comma Odieresis.cap -30
+KPX comma Udieresis.cap -10
+KPX comma Agrave.cap 10
+KPX comma Otilde.cap -30
+KPX comma OE.cap -30
+KPX comma quotedblleft.cap -105
+KPX comma quotedblright.cap -102
+KPX comma quoteleft.cap -105
+KPX comma quoteright.cap -102
+KPX comma Ydieresis.cap -73
+KPX comma Oacute.cap -30
+KPX comma Ocircumflex.cap -30
+KPX comma Ograve.cap -30
+KPX comma Ugrave.cap -10
+KPX comma J.cap 8
+KPX comma X.cap 6
+KPX comma Jsmall 8
+KPX comma Xsmall 6
+KPX comma Ydieresissmall -18
+
+KPX hyphen.cap zero 25
+KPX hyphen.cap seven -65
+KPX hyphen.cap C.cap 25
+KPX hyphen.cap G.cap 21
+KPX hyphen.cap O.cap 21
+KPX hyphen.cap Q.cap 16
+KPX hyphen.cap Ccedilla.cap 25
+KPX hyphen.cap Odieresis.cap 21
+KPX hyphen.cap Oslash.cap 21
+KPX hyphen.cap Otilde.cap 21
+KPX hyphen.cap OE.cap 21
+KPX hyphen.cap Oacute.cap 21
+KPX hyphen.cap Ocircumflex.cap 21
+KPX hyphen.cap Ograve.cap 21
+KPX hyphen.cap one -8
+KPX hyphen.cap two -3
+KPX hyphen.cap four 4
+KPX hyphen.cap six 4
+KPX hyphen.cap nine 2
+KPX hyphen.cap T.cap -7
+KPX hyphen.cap Tsmall -3
+
+KPX period C.cap -39
+KPX period G.cap -32
+KPX period J.cap 30
+KPX period O.cap -26
+KPX period Q.cap -42
+KPX period T.cap -86
+KPX period U.cap -35
+KPX period V.cap -96
+KPX period W.cap -64
+KPX period Y.cap -112
+KPX period Z.cap 10
+KPX period Csmall -43
+KPX period Gsmall -36
+KPX period Jsmall 29
+KPX period Osmall -29
+KPX period Qsmall -29
+KPX period Tsmall -86
+KPX period Usmall -37
+KPX period Vsmall -97
+KPX period Wsmall -65
+KPX period Ysmall -114
+KPX period Zsmall 10
+KPX period Ccedilla.cap -39
+KPX period Odieresis.cap -26
+KPX period Ccedillasmall -39
+KPX period quotedblleft.cap -106
+KPX period quotedblright.cap -96
+KPX period quoteleft.cap -106
+KPX period quoteright.cap -96
+KPX period Ydieresissmall -97
+KPX period Ydieresis.cap -108
+KPX period X.cap 5
+KPX period Xsmall 3
+
+KPX slash A.cap -48
+KPX slash T.cap 63
+KPX slash V.cap 21
+KPX slash W.cap 31
+KPX slash X.cap 29
+KPX slash Y.cap 43
+KPX slash Asmall -53
+KPX slash Tsmall 52
+KPX slash Vsmall 21
+KPX slash Wsmall 25
+KPX slash Xsmall 23
+KPX slash Ysmall 35
+KPX slash AE.cap -86
+KPX slash AEsmall -22
+KPX slash Ydieresissmall 35
+KPX slash Ydieresis.cap 35
+KPX slash Aacute.cap -38
+KPX slash slash -27
+KPX slash Z.cap 6
+
+KPX one hyphen.cap -6
+KPX one quotedblleft.cap -16
+KPX one quoteleft.cap -15
+
+KPX six hyphen.cap 2
+
+KPX seven hyphen.cap -50
+
+KPX eight hyphen.cap 1
+
+KPX A.cap comma 22
+KPX A.cap hyphen.cap -24
+KPX A.cap question -37
+KPX A.cap C.cap -32
+KPX A.cap G.cap -31
+KPX A.cap O.cap -28
+KPX A.cap Q.cap -31
+KPX A.cap T.cap -77
+KPX A.cap U.cap -22
+KPX A.cap V.cap -68
+KPX A.cap W.cap -58
+KPX A.cap X.cap -9
+KPX A.cap Y.cap -99
+KPX A.cap Z.cap -6
+KPX A.cap Csmall -8
+KPX A.cap Gsmall -13
+KPX A.cap Tsmall -34
+KPX A.cap Usmall -11
+KPX A.cap Vsmall -39
+KPX A.cap Wsmall -33
+KPX A.cap Ysmall -64
+KPX A.cap Ccedilla.cap -32
+KPX A.cap Odieresis.cap -28
+KPX A.cap Udieresis.cap -22
+KPX A.cap Ccedillasmall -11
+KPX A.cap Uacutesmall -11
+KPX A.cap Ugravesmall -11
+KPX A.cap Ucircumflexsmall -11
+KPX A.cap Udieresissmall -11
+KPX A.cap Oslash.cap -23
+KPX A.cap guillemotleft -12
+KPX A.cap Otilde.cap -28
+KPX A.cap OE.cap -26
+KPX A.cap quotedblleft.cap -150
+KPX A.cap quotedblright.cap -111
+KPX A.cap quoteleft.cap -150
+KPX A.cap quoteright.cap -106
+KPX A.cap Ydieresissmall -60
+KPX A.cap Ydieresis.cap -99
+KPX A.cap guilsinglleft -12
+KPX A.cap Oacute.cap -28
+KPX A.cap Ocircumflex.cap -28
+KPX A.cap Ograve.cap -28
+KPX A.cap Uacute.cap -22
+KPX A.cap Ucircumflex.cap -22
+KPX A.cap Ugrave.cap -22
+KPX A.cap J.cap 3
+KPX A.cap S.cap -1
+
+KPX B.cap comma -8
+KPX B.cap period -21
+KPX B.cap question -16
+KPX B.cap A.cap -17
+KPX B.cap B.cap 9
+KPX B.cap D.cap 9
+KPX B.cap E.cap 9
+KPX B.cap F.cap 9
+KPX B.cap H.cap 9
+KPX B.cap I.cap 9
+KPX B.cap K.cap 9
+KPX B.cap L.cap 9
+KPX B.cap M.cap 4
+KPX B.cap N.cap 9
+KPX B.cap P.cap 9
+KPX B.cap R.cap 9
+KPX B.cap T.cap -14
+KPX B.cap V.cap -18
+KPX B.cap W.cap -9
+KPX B.cap X.cap -20
+KPX B.cap Y.cap -27
+KPX B.cap Z.cap -6
+KPX B.cap Adieresis.cap -16
+KPX B.cap Aring.cap -16
+KPX B.cap Eacute.cap 7
+KPX B.cap Ntilde.cap 7
+KPX B.cap AE.cap -11
+KPX B.cap Agrave.cap -16
+KPX B.cap Atilde.cap -16
+KPX B.cap Ydieresis.cap -24
+KPX B.cap Acircumflex.cap -16
+KPX B.cap Ecircumflex.cap 7
+KPX B.cap Aacute.cap -16
+KPX B.cap Edieresis.cap 7
+KPX B.cap Egrave.cap 7
+KPX B.cap Iacute.cap 7
+KPX B.cap Icircumflex.cap 7
+KPX B.cap Idieresis.cap 7
+KPX B.cap Igrave.cap 7
+KPX B.cap U.cap 1
+KPX B.cap quotedblleft.cap -4
+KPX B.cap quotedblright.cap -4
+KPX B.cap quoteleft.cap -4
+KPX B.cap quoteright.cap -4
+
+KPX C.cap comma 32
+KPX C.cap hyphen.cap -26
+KPX C.cap period 36
+KPX C.cap C.cap -18
+KPX C.cap O.cap -14
+KPX C.cap Q.cap -14
+KPX C.cap V.cap 9
+KPX C.cap Z.cap 16
+KPX C.cap Csmall -12
+KPX C.cap Gsmall -7
+KPX C.cap Osmall -9
+KPX C.cap Qsmall -13
+KPX C.cap Ccedilla.cap -18
+KPX C.cap Odieresis.cap -14
+KPX C.cap Ccedillasmall -12
+KPX C.cap Oacutesmall -3
+KPX C.cap AE.cap 19
+KPX C.cap Oslash.cap -14
+KPX C.cap AEsmall 23
+KPX C.cap guillemotleft -16
+KPX C.cap Otilde.cap -14
+KPX C.cap OE.cap -14
+KPX C.cap OEsmall -3
+KPX C.cap guilsinglleft -16
+KPX C.cap Oacute.cap -14
+KPX C.cap Ocircumflex.cap -14
+KPX C.cap Ograve.cap -14
+KPX C.cap G.cap -4
+
+KPX D.cap comma -60
+KPX D.cap period -53
+KPX D.cap A.cap -29
+KPX D.cap V.cap -17
+KPX D.cap Y.cap -27
+KPX D.cap Z.cap -14
+KPX D.cap Jsmall -6
+KPX D.cap Adieresis.cap -23
+KPX D.cap Aring.cap -23
+KPX D.cap AE.cap -32
+KPX D.cap AEsmall -13
+KPX D.cap Agrave.cap -23
+KPX D.cap Atilde.cap -23
+KPX D.cap quotedblleft.cap -16
+KPX D.cap quoteleft.cap -16
+KPX D.cap Ydieresis.cap -27
+KPX D.cap Acircumflex.cap -23
+KPX D.cap Aacute.cap -23
+KPX D.cap G.cap -1
+KPX D.cap J.cap -4
+KPX D.cap T.cap -3
+KPX D.cap W.cap -3
+KPX D.cap X.cap -9
+KPX D.cap Asmall -5
+KPX D.cap Aacutesmall -3
+KPX D.cap Agravesmall -3
+KPX D.cap Acircumflexsmall -3
+KPX D.cap Adieresissmall -3
+KPX D.cap Atildesmall -3
+KPX D.cap Aringsmall -3
+
+KPX E.cap A.cap -13
+KPX E.cap O.cap -23
+KPX E.cap Q.cap -23
+KPX E.cap W.cap -9
+KPX E.cap Csmall -13
+KPX E.cap Gsmall -8
+KPX E.cap Osmall -8
+KPX E.cap Qsmall -8
+KPX E.cap Adieresis.cap -13
+KPX E.cap Aring.cap -13
+KPX E.cap Odieresis.cap -23
+KPX E.cap Ccedillasmall -20
+KPX E.cap Oacutesmall -8
+KPX E.cap Ogravesmall -8
+KPX E.cap Ocircumflexsmall -8
+KPX E.cap Odieresissmall -8
+KPX E.cap Otildesmall -8
+KPX E.cap Oslash.cap -23
+KPX E.cap Oslashsmall -8
+KPX E.cap Agrave.cap -13
+KPX E.cap Atilde.cap -13
+KPX E.cap Otilde.cap -23
+KPX E.cap OE.cap -23
+KPX E.cap OEsmall -8
+KPX E.cap Acircumflex.cap -13
+KPX E.cap Aacute.cap -13
+KPX E.cap Oacute.cap -23
+KPX E.cap Ocircumflex.cap -23
+KPX E.cap Ograve.cap -23
+KPX E.cap C.cap -4
+KPX E.cap G.cap -4
+KPX E.cap V.cap -3
+KPX E.cap Y.cap -3
+KPX E.cap Ccedilla.cap -4
+KPX E.cap Ydieresis.cap -3
+
+KPX F.cap comma -112
+KPX F.cap period -133
+KPX F.cap A.cap -64
+KPX F.cap C.cap -12
+KPX F.cap G.cap -11
+KPX F.cap O.cap -11
+KPX F.cap Asmall -46
+KPX F.cap Csmall -19
+KPX F.cap Gsmall -7
+KPX F.cap Jsmall -27
+KPX F.cap Osmall -25
+KPX F.cap Tsmall 3
+KPX F.cap Adieresis.cap -60
+KPX F.cap Aring.cap -60
+KPX F.cap Ccedilla.cap -12
+KPX F.cap Aacutesmall -35
+KPX F.cap Agravesmall -38
+KPX F.cap Acircumflexsmall -35
+KPX F.cap Adieresissmall -35
+KPX F.cap Atildesmall -35
+KPX F.cap Aringsmall -35
+KPX F.cap Ccedillasmall -16
+KPX F.cap AE.cap -77
+KPX F.cap AEsmall -43
+KPX F.cap Agrave.cap -60
+KPX F.cap Atilde.cap -60
+KPX F.cap Otilde.cap -11
+KPX F.cap quotedblright.cap 14
+KPX F.cap quoteright.cap 14
+KPX F.cap Acircumflex.cap -60
+KPX F.cap Aacute.cap -60
+KPX F.cap slash -10
+KPX F.cap J.cap -12
+KPX F.cap Q.cap -2
+KPX F.cap X.cap -5
+KPX F.cap Qsmall -6
+KPX F.cap Odieresis.cap -2
+KPX F.cap Oacutesmall -5
+KPX F.cap Ogravesmall -5
+KPX F.cap Ocircumflexsmall -5
+KPX F.cap Odieresissmall -5
+KPX F.cap Otildesmall -5
+KPX F.cap Oslash.cap -2
+KPX F.cap Oslashsmall -5
+KPX F.cap OE.cap -2
+KPX F.cap OEsmall -5
+KPX F.cap quotedblleft.cap 1
+KPX F.cap quoteleft.cap 1
+KPX F.cap Oacute.cap -2
+KPX F.cap Ocircumflex.cap -2
+KPX F.cap Ograve.cap -2
+
+KPX G.cap A.cap -18
+KPX G.cap X.cap -10
+KPX G.cap Y.cap -14
+KPX G.cap Adieresis.cap -16
+KPX G.cap Aring.cap -16
+KPX G.cap AE.cap -6
+KPX G.cap Agrave.cap -16
+KPX G.cap Atilde.cap -16
+KPX G.cap Ydieresis.cap -14
+KPX G.cap Acircumflex.cap -16
+KPX G.cap Aacute.cap -16
+KPX G.cap B.cap 2
+KPX G.cap E.cap 2
+KPX G.cap F.cap 2
+KPX G.cap H.cap 2
+KPX G.cap I.cap 2
+KPX G.cap K.cap 2
+KPX G.cap L.cap 2
+KPX G.cap M.cap 1
+KPX G.cap N.cap 2
+KPX G.cap P.cap 2
+KPX G.cap R.cap 2
+KPX G.cap S.cap 3
+KPX G.cap U.cap 1
+KPX G.cap V.cap -1
+KPX G.cap Ysmall -5
+KPX G.cap Eacute.cap 2
+KPX G.cap Ntilde.cap 2
+KPX G.cap quotedblleft.cap -8
+KPX G.cap quoteleft.cap -6
+KPX G.cap Ydieresissmall -5
+KPX G.cap Ecircumflex.cap 2
+KPX G.cap Edieresis.cap 2
+KPX G.cap Egrave.cap 2
+KPX G.cap Iacute.cap 2
+KPX G.cap Icircumflex.cap 2
+KPX G.cap Idieresis.cap 2
+KPX G.cap Igrave.cap 2
+
+KPX H.cap B.cap 16
+KPX H.cap D.cap 16
+KPX H.cap E.cap 16
+KPX H.cap F.cap 16
+KPX H.cap H.cap 16
+KPX H.cap I.cap 16
+KPX H.cap K.cap 16
+KPX H.cap L.cap 16
+KPX H.cap N.cap 16
+KPX H.cap P.cap 16
+KPX H.cap R.cap 16
+KPX H.cap Eacute.cap 16
+KPX H.cap Ntilde.cap 16
+KPX H.cap Udieresis.cap 2
+KPX H.cap Ecircumflex.cap 16
+KPX H.cap Edieresis.cap 16
+KPX H.cap Egrave.cap 16
+KPX H.cap Iacute.cap 16
+KPX H.cap Icircumflex.cap 16
+KPX H.cap Idieresis.cap 16
+KPX H.cap Igrave.cap 16
+KPX H.cap M.cap 3
+KPX H.cap U.cap 5
+KPX H.cap Z.cap 3
+KPX H.cap Uacute.cap 5
+KPX H.cap Ucircumflex.cap 5
+KPX H.cap Ugrave.cap 5
+
+KPX I.cap B.cap 16
+KPX I.cap D.cap 16
+KPX I.cap E.cap 16
+KPX I.cap F.cap 16
+KPX I.cap H.cap 16
+KPX I.cap I.cap 16
+KPX I.cap K.cap 16
+KPX I.cap L.cap 16
+KPX I.cap M.cap 7
+KPX I.cap N.cap 16
+KPX I.cap P.cap 16
+KPX I.cap R.cap 16
+KPX I.cap Eacute.cap 16
+KPX I.cap Ntilde.cap 16
+KPX I.cap Ecircumflex.cap 16
+KPX I.cap Edieresis.cap 16
+KPX I.cap Egrave.cap 16
+KPX I.cap U.cap 3
+KPX I.cap Z.cap 3
+KPX I.cap Udieresis.cap 3
+KPX I.cap Iacute.cap 3
+KPX I.cap Icircumflex.cap 3
+KPX I.cap Idieresis.cap 3
+KPX I.cap Igrave.cap 3
+KPX I.cap Uacute.cap 3
+KPX I.cap Ucircumflex.cap 3
+KPX I.cap Ugrave.cap 3
+
+KPX J.cap comma -13
+KPX J.cap period -16
+KPX J.cap A.cap -29
+KPX J.cap Adieresis.cap -22
+KPX J.cap Aring.cap -25
+KPX J.cap AE.cap -16
+KPX J.cap Agrave.cap -22
+KPX J.cap Atilde.cap -25
+KPX J.cap Acircumflex.cap -25
+KPX J.cap Aacute.cap -25
+KPX J.cap B.cap 2
+KPX J.cap D.cap 2
+KPX J.cap E.cap 2
+KPX J.cap F.cap 2
+KPX J.cap H.cap 2
+KPX J.cap I.cap 2
+KPX J.cap K.cap 2
+KPX J.cap L.cap 2
+KPX J.cap N.cap 2
+KPX J.cap P.cap 2
+KPX J.cap R.cap 2
+KPX J.cap Ntilde.cap 2
+KPX J.cap Ydieresis.cap -2
+KPX J.cap Iacute.cap 2
+KPX J.cap Icircumflex.cap 2
+KPX J.cap Idieresis.cap 2
+KPX J.cap Igrave.cap 2
+
+KPX K.cap hyphen.cap -43
+KPX K.cap A.cap -19
+KPX K.cap C.cap -39
+KPX K.cap G.cap -49
+KPX K.cap O.cap -55
+KPX K.cap Q.cap -54
+KPX K.cap S.cap -16
+KPX K.cap U.cap -11
+KPX K.cap V.cap -19
+KPX K.cap W.cap -6
+KPX K.cap Csmall -32
+KPX K.cap Gsmall -24
+KPX K.cap Osmall -36
+KPX K.cap Qsmall -43
+KPX K.cap Usmall -25
+KPX K.cap Vsmall -25
+KPX K.cap Wsmall -11
+KPX K.cap Ysmall -23
+KPX K.cap Adieresis.cap -19
+KPX K.cap Aring.cap -19
+KPX K.cap Ccedilla.cap -39
+KPX K.cap Odieresis.cap -55
+KPX K.cap Udieresis.cap -11
+KPX K.cap Ccedillasmall -35
+KPX K.cap Oacutesmall -39
+KPX K.cap Ogravesmall -25
+KPX K.cap Ocircumflexsmall -25
+KPX K.cap Odieresissmall -25
+KPX K.cap Otildesmall -25
+KPX K.cap Uacutesmall -12
+KPX K.cap Ugravesmall -12
+KPX K.cap Ucircumflexsmall -12
+KPX K.cap Udieresissmall -12
+KPX K.cap Oslash.cap -52
+KPX K.cap Oslashsmall -24
+KPX K.cap guillemotleft -40
+KPX K.cap guillemotright -10
+KPX K.cap Agrave.cap -19
+KPX K.cap Atilde.cap -19
+KPX K.cap Otilde.cap -55
+KPX K.cap OE.cap -55
+KPX K.cap OEsmall -24
+KPX K.cap guilsinglleft -40
+KPX K.cap guilsinglright -10
+KPX K.cap Acircumflex.cap -19
+KPX K.cap Aacute.cap -19
+KPX K.cap Oacute.cap -55
+KPX K.cap Ocircumflex.cap -55
+KPX K.cap Ograve.cap -55
+KPX K.cap Uacute.cap -11
+KPX K.cap Ucircumflex.cap -11
+KPX K.cap Ugrave.cap -11
+KPX K.cap comma 4
+KPX K.cap X.cap 3
+KPX K.cap Y.cap -4
+KPX K.cap quotedblright.cap -3
+KPX K.cap quoteright.cap -3
+KPX K.cap Ydieresissmall -8
+
+KPX L.cap comma 32
+KPX L.cap hyphen.cap -52
+KPX L.cap period 32
+KPX L.cap slash 28
+KPX L.cap semicolon 16
+KPX L.cap C.cap -25
+KPX L.cap G.cap -25
+KPX L.cap O.cap -25
+KPX L.cap Q.cap -26
+KPX L.cap T.cap -87
+KPX L.cap V.cap -81
+KPX L.cap W.cap -60
+KPX L.cap Y.cap -111
+KPX L.cap Csmall -24
+KPX L.cap Gsmall -20
+KPX L.cap Osmall -17
+KPX L.cap Qsmall -17
+KPX L.cap Tsmall -51
+KPX L.cap Usmall -10
+KPX L.cap Vsmall -55
+KPX L.cap Wsmall -55
+KPX L.cap Ysmall -85
+KPX L.cap Ccedilla.cap -26
+KPX L.cap Odieresis.cap -25
+KPX L.cap Ccedillasmall -24
+KPX L.cap Oacutesmall -17
+KPX L.cap Ogravesmall -17
+KPX L.cap Ocircumflexsmall -17
+KPX L.cap Odieresissmall -17
+KPX L.cap Otildesmall -17
+KPX L.cap Oslash.cap -21
+KPX L.cap AEsmall 20
+KPX L.cap guillemotleft -30
+KPX L.cap Otilde.cap -25
+KPX L.cap OE.cap -25
+KPX L.cap OEsmall -17
+KPX L.cap quotedblleft.cap -131
+KPX L.cap quotedblright.cap -126
+KPX L.cap quoteleft.cap -131
+KPX L.cap quoteright.cap -126
+KPX L.cap Ydieresissmall -74
+KPX L.cap Ydieresis.cap -107
+KPX L.cap guilsinglleft -30
+KPX L.cap periodcentered -74
+KPX L.cap Oacute.cap -25
+KPX L.cap Ocircumflex.cap -25
+KPX L.cap Ograve.cap -25
+KPX L.cap J.cap 4
+KPX L.cap U.cap -5
+KPX L.cap Z.cap 3
+
+KPX M.cap B.cap 7
+KPX M.cap E.cap 7
+KPX M.cap F.cap 7
+KPX M.cap H.cap 7
+KPX M.cap I.cap 7
+KPX M.cap K.cap 7
+KPX M.cap L.cap 7
+KPX M.cap N.cap 7
+KPX M.cap P.cap 7
+KPX M.cap R.cap 7
+KPX M.cap V.cap -11
+KPX M.cap Y.cap -15
+KPX M.cap Csmall -14
+KPX M.cap Gsmall -7
+KPX M.cap Tsmall -8
+KPX M.cap Vsmall -8
+KPX M.cap Wsmall -4
+KPX M.cap Ysmall -11
+KPX M.cap Eacute.cap 7
+KPX M.cap Ntilde.cap 7
+KPX M.cap Ccedillasmall -11
+KPX M.cap guillemotleft -16
+KPX M.cap quotedblleft.cap -17
+KPX M.cap quoteleft.cap -17
+KPX M.cap Ydieresissmall -8
+KPX M.cap Ydieresis.cap -15
+KPX M.cap guilsinglleft -16
+KPX M.cap Ecircumflex.cap 7
+KPX M.cap Edieresis.cap 7
+KPX M.cap Egrave.cap 7
+KPX M.cap Iacute.cap 7
+KPX M.cap Icircumflex.cap 7
+KPX M.cap Idieresis.cap 7
+KPX M.cap Igrave.cap 7
+KPX M.cap D.cap 3
+KPX M.cap G.cap -2
+KPX M.cap T.cap -1
+KPX M.cap U.cap 1
+KPX M.cap Z.cap 3
+KPX M.cap Osmall -2
+KPX M.cap Udieresis.cap 1
+KPX M.cap quotedblright.cap -1
+KPX M.cap quoteright.cap -1
+
+KPX N.cap B.cap 16
+KPX N.cap D.cap 16
+KPX N.cap E.cap 16
+KPX N.cap F.cap 16
+KPX N.cap H.cap 16
+KPX N.cap I.cap 16
+KPX N.cap K.cap 16
+KPX N.cap L.cap 16
+KPX N.cap M.cap 7
+KPX N.cap N.cap 16
+KPX N.cap P.cap 16
+KPX N.cap R.cap 16
+KPX N.cap Eacute.cap 16
+KPX N.cap Ntilde.cap 16
+KPX N.cap Ecircumflex.cap 16
+KPX N.cap Edieresis.cap 16
+KPX N.cap Egrave.cap 16
+KPX N.cap Iacute.cap 16
+KPX N.cap Icircumflex.cap 16
+KPX N.cap Idieresis.cap 16
+KPX N.cap Igrave.cap 16
+KPX N.cap U.cap 3
+KPX N.cap Z.cap 3
+KPX N.cap Udieresis.cap 3
+KPX N.cap Uacute.cap 3
+KPX N.cap Ucircumflex.cap 3
+KPX N.cap Ugrave.cap 3
+
+KPX O.cap comma -41
+KPX O.cap period -52
+KPX O.cap A.cap -28
+KPX O.cap J.cap -14
+KPX O.cap T.cap -25
+KPX O.cap V.cap -14
+KPX O.cap W.cap -8
+KPX O.cap X.cap -31
+KPX O.cap Y.cap -36
+KPX O.cap Z.cap -13
+KPX O.cap Jsmall -8
+KPX O.cap Adieresis.cap -28
+KPX O.cap Aring.cap -28
+KPX O.cap AE.cap -31
+KPX O.cap Agrave.cap -28
+KPX O.cap Atilde.cap -28
+KPX O.cap quotedblleft.cap -24
+KPX O.cap quoteleft.cap -24
+KPX O.cap Ydieresis.cap -36
+KPX O.cap Acircumflex.cap -28
+KPX O.cap Aacute.cap -28
+KPX O.cap Asmall -5
+KPX O.cap Xsmall -6
+KPX O.cap Aacutesmall -4
+KPX O.cap Agravesmall -2
+KPX O.cap Acircumflexsmall -2
+KPX O.cap Adieresissmall -2
+KPX O.cap Atildesmall -2
+KPX O.cap Aringsmall -2
+
+KPX P.cap comma -149
+KPX P.cap period -155
+KPX P.cap slash -47
+KPX P.cap A.cap -74
+KPX P.cap J.cap -47
+KPX P.cap M.cap -7
+KPX P.cap X.cap -20
+KPX P.cap Y.cap -8
+KPX P.cap Z.cap -13
+KPX P.cap Asmall -55
+KPX P.cap Csmall -17
+KPX P.cap Jsmall -21
+KPX P.cap Msmall -16
+KPX P.cap Osmall -6
+KPX P.cap Adieresis.cap -67
+KPX P.cap Aring.cap -67
+KPX P.cap Aacutesmall -40
+KPX P.cap Agravesmall -36
+KPX P.cap Acircumflexsmall -36
+KPX P.cap Adieresissmall -36
+KPX P.cap Atildesmall -43
+KPX P.cap Aringsmall -52
+KPX P.cap Ccedillasmall -8
+KPX P.cap AE.cap -100
+KPX P.cap AEsmall -73
+KPX P.cap Agrave.cap -67
+KPX P.cap Atilde.cap -67
+KPX P.cap quotedblright.cap 27
+KPX P.cap quoteright.cap 27
+KPX P.cap Ydieresis.cap -8
+KPX P.cap Acircumflex.cap -66
+KPX P.cap Aacute.cap -66
+KPX P.cap C.cap 2
+KPX P.cap G.cap 1
+KPX P.cap O.cap 4
+KPX P.cap Q.cap 4
+KPX P.cap S.cap 3
+KPX P.cap T.cap 6
+KPX P.cap U.cap 3
+KPX P.cap V.cap 1
+KPX P.cap W.cap 4
+KPX P.cap Ccedilla.cap 2
+KPX P.cap Odieresis.cap 4
+KPX P.cap Udieresis.cap 3
+KPX P.cap Oslash.cap 4
+KPX P.cap Otilde.cap 4
+KPX P.cap OE.cap 4
+KPX P.cap quotedblleft.cap 6
+KPX P.cap quoteleft.cap 6
+KPX P.cap Oacute.cap 4
+KPX P.cap Ocircumflex.cap 4
+KPX P.cap Ograve.cap 4
+KPX P.cap Uacute.cap 3
+KPX P.cap Ucircumflex.cap 3
+KPX P.cap Ugrave.cap 3
+
+KPX Q.cap parenright.cap 26
+KPX Q.cap slash 32
+KPX Q.cap T.cap -20
+KPX Q.cap V.cap -17
+KPX Q.cap X.cap 13
+KPX Q.cap Y.cap -39
+KPX Q.cap Z.cap 16
+KPX Q.cap bracketright.cap 16
+KPX Q.cap quotedblleft.cap -32
+KPX Q.cap quoteleft.cap -32
+KPX Q.cap Ydieresis.cap -39
+KPX Q.cap A.cap 3
+KPX Q.cap J.cap 3
+KPX Q.cap W.cap -1
+
+KPX R.cap A.cap -19
+KPX R.cap C.cap -9
+KPX R.cap O.cap -12
+KPX R.cap Q.cap -12
+KPX R.cap V.cap -14
+KPX R.cap Y.cap -20
+KPX R.cap Csmall -14
+KPX R.cap Gsmall -12
+KPX R.cap Usmall -9
+KPX R.cap Ysmall -17
+KPX R.cap Adieresis.cap -19
+KPX R.cap Aring.cap -19
+KPX R.cap Ccedilla.cap -9
+KPX R.cap Odieresis.cap -9
+KPX R.cap Uacutesmall -9
+KPX R.cap Ugravesmall -8
+KPX R.cap Ucircumflexsmall -8
+KPX R.cap Udieresissmall -8
+KPX R.cap AE.cap -19
+KPX R.cap Oslash.cap -9
+KPX R.cap Agrave.cap -19
+KPX R.cap Atilde.cap -19
+KPX R.cap Otilde.cap -9
+KPX R.cap OE.cap -9
+KPX R.cap quotedblleft.cap -32
+KPX R.cap quoteleft.cap -32
+KPX R.cap Ydieresis.cap -18
+KPX R.cap Acircumflex.cap -19
+KPX R.cap Aacute.cap -19
+KPX R.cap Oacute.cap -9
+KPX R.cap Ocircumflex.cap -9
+KPX R.cap Ograve.cap -9
+KPX R.cap hyphen.cap -7
+KPX R.cap G.cap -2
+KPX R.cap H.cap 2
+KPX R.cap I.cap 1
+KPX R.cap M.cap 3
+KPX R.cap S.cap 2
+KPX R.cap W.cap -1
+KPX R.cap Iacute.cap 1
+KPX R.cap Icircumflex.cap 1
+KPX R.cap Idieresis.cap 1
+KPX R.cap Igrave.cap 1
+
+KPX S.cap comma -16
+KPX S.cap period -15
+KPX S.cap A.cap -11
+KPX S.cap T.cap -6
+KPX S.cap V.cap -5
+KPX S.cap Y.cap -23
+KPX S.cap Z.cap 3
+KPX S.cap quotedblleft.cap -36
+KPX S.cap quotedblright.cap -29
+KPX S.cap quoteleft.cap -36
+KPX S.cap quoteright.cap -29
+KPX S.cap Ydieresis.cap -14
+KPX S.cap hyphen.cap 4
+KPX S.cap X.cap -3
+KPX S.cap Tsmall -5
+KPX S.cap Vsmall -6
+KPX S.cap Ysmall -4
+KPX S.cap Adieresis.cap -2
+KPX S.cap Aring.cap -2
+KPX S.cap Agrave.cap -2
+KPX S.cap Atilde.cap -2
+KPX S.cap Ydieresissmall -4
+KPX S.cap Acircumflex.cap -2
+KPX S.cap Aacute.cap -2
+
+KPX T.cap comma -104
+KPX T.cap hyphen.cap -82
+KPX T.cap period -111
+KPX T.cap slash -37
+KPX T.cap colon -42
+KPX T.cap semicolon -42
+KPX T.cap A.cap -83
+KPX T.cap C.cap -30
+KPX T.cap G.cap -33
+KPX T.cap J.cap -30
+KPX T.cap O.cap -27
+KPX T.cap Q.cap -26
+KPX T.cap T.cap 27
+KPX T.cap V.cap 15
+KPX T.cap Y.cap 11
+KPX T.cap Asmall -68
+KPX T.cap Csmall -56
+KPX T.cap Gsmall -41
+KPX T.cap Jsmall -46
+KPX T.cap Msmall -16
+KPX T.cap Osmall -65
+KPX T.cap Qsmall -49
+KPX T.cap Ssmall -26
+KPX T.cap Usmall -16
+KPX T.cap Adieresis.cap -80
+KPX T.cap Aring.cap -80
+KPX T.cap Ccedilla.cap -30
+KPX T.cap Odieresis.cap -25
+KPX T.cap Aacutesmall -72
+KPX T.cap Agravesmall -56
+KPX T.cap Acircumflexsmall -55
+KPX T.cap Adieresissmall -55
+KPX T.cap Atildesmall -55
+KPX T.cap Aringsmall -55
+KPX T.cap Ccedillasmall -53
+KPX T.cap Oacutesmall -49
+KPX T.cap Ogravesmall -44
+KPX T.cap Ocircumflexsmall -44
+KPX T.cap Odieresissmall -44
+KPX T.cap Otildesmall -44
+KPX T.cap Uacutesmall -6
+KPX T.cap Ugravesmall -6
+KPX T.cap Ucircumflexsmall -6
+KPX T.cap Udieresissmall -6
+KPX T.cap AE.cap -97
+KPX T.cap Oslash.cap -26
+KPX T.cap AEsmall -59
+KPX T.cap Oslashsmall -46
+KPX T.cap guillemotleft -61
+KPX T.cap guillemotright -32
+KPX T.cap Agrave.cap -66
+KPX T.cap Atilde.cap -66
+KPX T.cap Otilde.cap -25
+KPX T.cap OE.cap -26
+KPX T.cap OEsmall -48
+KPX T.cap quotedblright.cap 19
+KPX T.cap quoteright.cap 19
+KPX T.cap Ydieresis.cap 9
+KPX T.cap guilsinglleft -61
+KPX T.cap guilsinglright -16
+KPX T.cap Acircumflex.cap -66
+KPX T.cap Aacute.cap -66
+KPX T.cap Oacute.cap -25
+KPX T.cap Ocircumflex.cap -25
+KPX T.cap Ograve.cap -25
+
+KPX U.cap comma -40
+KPX U.cap period -45
+KPX U.cap slash -20
+KPX U.cap A.cap -22
+KPX U.cap J.cap -13
+KPX U.cap X.cap -11
+KPX U.cap Adieresis.cap -22
+KPX U.cap Aring.cap -22
+KPX U.cap AE.cap -34
+KPX U.cap Agrave.cap -22
+KPX U.cap Atilde.cap -22
+KPX U.cap quotedblright.cap -10
+KPX U.cap quoteright.cap -10
+KPX U.cap Acircumflex.cap -22
+KPX U.cap Aacute.cap -22
+KPX U.cap B.cap 2
+KPX U.cap D.cap 2
+KPX U.cap E.cap 2
+KPX U.cap F.cap 2
+KPX U.cap H.cap 2
+KPX U.cap I.cap 2
+KPX U.cap K.cap 2
+KPX U.cap L.cap 2
+KPX U.cap M.cap 1
+KPX U.cap N.cap 2
+KPX U.cap P.cap 2
+KPX U.cap R.cap 2
+KPX U.cap V.cap -3
+KPX U.cap W.cap -1
+KPX U.cap Asmall -2
+KPX U.cap Eacute.cap 2
+KPX U.cap Ntilde.cap 2
+KPX U.cap Aacutesmall -4
+KPX U.cap Agravesmall -4
+KPX U.cap Acircumflexsmall -4
+KPX U.cap Adieresissmall -4
+KPX U.cap Atildesmall -4
+KPX U.cap Aringsmall -4
+KPX U.cap Ecircumflex.cap 2
+KPX U.cap Edieresis.cap 2
+KPX U.cap Egrave.cap 2
+KPX U.cap Iacute.cap 2
+KPX U.cap Icircumflex.cap 2
+KPX U.cap Idieresis.cap 2
+KPX U.cap Igrave.cap 2
+
+KPX V.cap comma -119
+KPX V.cap hyphen.cap -45
+KPX V.cap period -140
+KPX V.cap slash -51
+KPX V.cap A.cap -73
+KPX V.cap C.cap -20
+KPX V.cap G.cap -21
+KPX V.cap J.cap -31
+KPX V.cap M.cap -10
+KPX V.cap O.cap -18
+KPX V.cap Q.cap -21
+KPX V.cap T.cap 13
+KPX V.cap Asmall -43
+KPX V.cap Csmall -19
+KPX V.cap Gsmall -8
+KPX V.cap Jsmall -12
+KPX V.cap Msmall -6
+KPX V.cap Osmall -11
+KPX V.cap Qsmall -11
+KPX V.cap Adieresis.cap -71
+KPX V.cap Aring.cap -71
+KPX V.cap Ccedilla.cap -20
+KPX V.cap Odieresis.cap -18
+KPX V.cap Aacutesmall -45
+KPX V.cap Agravesmall -43
+KPX V.cap Acircumflexsmall -43
+KPX V.cap Adieresissmall -43
+KPX V.cap Atildesmall -43
+KPX V.cap Aringsmall -43
+KPX V.cap Ccedillasmall -12
+KPX V.cap Oacutesmall -11
+KPX V.cap Ogravesmall -10
+KPX V.cap Ocircumflexsmall -10
+KPX V.cap Odieresissmall -10
+KPX V.cap Otildesmall -10
+KPX V.cap AE.cap -82
+KPX V.cap Oslash.cap -18
+KPX V.cap AEsmall -40
+KPX V.cap Oslashsmall -10
+KPX V.cap guillemotleft -19
+KPX V.cap guillemotright -19
+KPX V.cap Agrave.cap -65
+KPX V.cap Atilde.cap -65
+KPX V.cap Otilde.cap -18
+KPX V.cap OE.cap -18
+KPX V.cap OEsmall -10
+KPX V.cap quotedblright.cap 20
+KPX V.cap quoteright.cap 20
+KPX V.cap Ydieresissmall 12
+KPX V.cap guilsinglleft -19
+KPX V.cap guilsinglright -19
+KPX V.cap Acircumflex.cap -65
+KPX V.cap Aacute.cap -71
+KPX V.cap Oacute.cap -18
+KPX V.cap Ocircumflex.cap -18
+KPX V.cap Ograve.cap -18
+KPX V.cap colon -3
+KPX V.cap semicolon -3
+KPX V.cap U.cap -3
+KPX V.cap V.cap 3
+KPX V.cap Y.cap 2
+KPX V.cap Udieresis.cap -3
+KPX V.cap Ydieresis.cap 2
+KPX V.cap Uacute.cap -3
+KPX V.cap Ucircumflex.cap -3
+KPX V.cap Ugrave.cap -3
+
+KPX W.cap comma -77
+KPX W.cap hyphen.cap -37
+KPX W.cap period -105
+KPX W.cap slash -43
+KPX W.cap A.cap -66
+KPX W.cap C.cap -13
+KPX W.cap G.cap -12
+KPX W.cap J.cap -23
+KPX W.cap O.cap -12
+KPX W.cap Q.cap -11
+KPX W.cap Asmall -42
+KPX W.cap Csmall -16
+KPX W.cap Gsmall -12
+KPX W.cap Jsmall -20
+KPX W.cap Msmall -8
+KPX W.cap Osmall -12
+KPX W.cap Qsmall -12
+KPX W.cap Adieresis.cap -66
+KPX W.cap Aring.cap -66
+KPX W.cap Ccedilla.cap -13
+KPX W.cap Odieresis.cap -12
+KPX W.cap Aacutesmall -42
+KPX W.cap Agravesmall -42
+KPX W.cap Acircumflexsmall -42
+KPX W.cap Adieresissmall -42
+KPX W.cap Atildesmall -42
+KPX W.cap Aringsmall -42
+KPX W.cap Ccedillasmall -16
+KPX W.cap Oacutesmall -12
+KPX W.cap Ogravesmall -12
+KPX W.cap Ocircumflexsmall -12
+KPX W.cap Odieresissmall -12
+KPX W.cap Otildesmall -12
+KPX W.cap AE.cap -73
+KPX W.cap Oslash.cap -12
+KPX W.cap AEsmall -43
+KPX W.cap Oslashsmall -12
+KPX W.cap guillemotleft -24
+KPX W.cap Agrave.cap -66
+KPX W.cap Atilde.cap -66
+KPX W.cap Otilde.cap -12
+KPX W.cap OE.cap -12
+KPX W.cap OEsmall -12
+KPX W.cap quotedblright.cap 13
+KPX W.cap quoteright.cap 13
+KPX W.cap Ydieresissmall 4
+KPX W.cap guilsinglleft -24
+KPX W.cap Acircumflex.cap -66
+KPX W.cap Aacute.cap -66
+KPX W.cap Oacute.cap -12
+KPX W.cap Ocircumflex.cap -12
+KPX W.cap Ograve.cap -12
+KPX W.cap colon -1
+KPX W.cap semicolon -2
+KPX W.cap S.cap -1
+KPX W.cap T.cap 2
+KPX W.cap X.cap -4
+
+KPX X.cap comma 16
+KPX X.cap hyphen.cap -49
+KPX X.cap slash 23
+KPX X.cap A.cap -13
+KPX X.cap C.cap -33
+KPX X.cap G.cap -29
+KPX X.cap O.cap -32
+KPX X.cap Q.cap -35
+KPX X.cap W.cap -13
+KPX X.cap Ccedilla.cap -34
+KPX X.cap Odieresis.cap -32
+KPX X.cap Oslash.cap -32
+KPX X.cap guillemotleft -20
+KPX X.cap guillemotright -16
+KPX X.cap Otilde.cap -32
+KPX X.cap OE.cap -32
+KPX X.cap guilsinglleft -20
+KPX X.cap guilsinglright -16
+KPX X.cap Oacute.cap -32
+KPX X.cap Ocircumflex.cap -32
+KPX X.cap Ograve.cap -32
+KPX X.cap S.cap -1
+KPX X.cap U.cap -2
+KPX X.cap Osmall -12
+KPX X.cap Qsmall -12
+KPX X.cap Udieresis.cap -2
+KPX X.cap Oacutesmall -10
+KPX X.cap Ogravesmall -8
+KPX X.cap Ocircumflexsmall -8
+KPX X.cap Odieresissmall -8
+KPX X.cap Otildesmall -8
+KPX X.cap Oslashsmall -7
+KPX X.cap OEsmall -8
+KPX X.cap Uacute.cap -2
+KPX X.cap Ucircumflex.cap -2
+KPX X.cap Ugrave.cap -2
+
+KPX Y.cap comma -128
+KPX Y.cap hyphen.cap -91
+KPX Y.cap period -141
+KPX Y.cap slash -73
+KPX Y.cap colon -38
+KPX Y.cap semicolon -43
+KPX Y.cap A.cap -93
+KPX Y.cap C.cap -45
+KPX Y.cap G.cap -29
+KPX Y.cap J.cap -39
+KPX Y.cap M.cap -13
+KPX Y.cap O.cap -42
+KPX Y.cap Q.cap -45
+KPX Y.cap S.cap -16
+KPX Y.cap T.cap 6
+KPX Y.cap Asmall -76
+KPX Y.cap Csmall -60
+KPX Y.cap Gsmall -28
+KPX Y.cap Jsmall -27
+KPX Y.cap Msmall -26
+KPX Y.cap Osmall -58
+KPX Y.cap Qsmall -46
+KPX Y.cap Tsmall 4
+KPX Y.cap Adieresis.cap -86
+KPX Y.cap Aring.cap -86
+KPX Y.cap Ccedilla.cap -45
+KPX Y.cap Odieresis.cap -42
+KPX Y.cap Aacutesmall -67
+KPX Y.cap Agravesmall -55
+KPX Y.cap Acircumflexsmall -52
+KPX Y.cap Adieresissmall -52
+KPX Y.cap Atildesmall -52
+KPX Y.cap Aringsmall -52
+KPX Y.cap Ccedillasmall -54
+KPX Y.cap Oacutesmall -60
+KPX Y.cap Ogravesmall -36
+KPX Y.cap Ocircumflexsmall -36
+KPX Y.cap Odieresissmall -36
+KPX Y.cap Otildesmall -36
+KPX Y.cap AE.cap -123
+KPX Y.cap Oslash.cap -42
+KPX Y.cap Oslashsmall -37
+KPX Y.cap guillemotleft -53
+KPX Y.cap guillemotright -32
+KPX Y.cap Agrave.cap -85
+KPX Y.cap Atilde.cap -86
+KPX Y.cap Otilde.cap -42
+KPX Y.cap OE.cap -41
+KPX Y.cap OEsmall -38
+KPX Y.cap guilsinglleft -53
+KPX Y.cap guilsinglright -32
+KPX Y.cap Acircumflex.cap -86
+KPX Y.cap Aacute.cap -85
+KPX Y.cap Oacute.cap -42
+KPX Y.cap Ocircumflex.cap -42
+KPX Y.cap Ograve.cap -42
+KPX Y.cap U.cap -1
+KPX Y.cap V.cap 2
+KPX Y.cap W.cap -2
+KPX Y.cap X.cap -1
+KPX Y.cap Y.cap 2
+KPX Y.cap Bsmall -4
+KPX Y.cap Dsmall -4
+KPX Y.cap Esmall -4
+KPX Y.cap Fsmall -4
+KPX Y.cap Hsmall -4
+KPX Y.cap Ismall -4
+KPX Y.cap Ksmall -4
+KPX Y.cap Lsmall -4
+KPX Y.cap Nsmall -4
+KPX Y.cap Psmall -4
+KPX Y.cap Rsmall -4
+KPX Y.cap Ssmall -6
+KPX Y.cap Usmall -2
+KPX Y.cap Udieresis.cap -1
+KPX Y.cap Uacutesmall -3
+KPX Y.cap Ugravesmall -2
+KPX Y.cap Ucircumflexsmall -2
+KPX Y.cap Udieresissmall -2
+KPX Y.cap Ssmall_Ssmall -6
+KPX Y.cap Uacute.cap -1
+KPX Y.cap Ucircumflex.cap -1
+KPX Y.cap Ugrave.cap -1
+
+KPX Z.cap hyphen.cap -23
+KPX Z.cap A.cap -11
+KPX Z.cap C.cap -16
+KPX Z.cap G.cap -14
+KPX Z.cap O.cap -18
+KPX Z.cap Csmall -14
+KPX Z.cap Gsmall -8
+KPX Z.cap Osmall -22
+KPX Z.cap Qsmall -6
+KPX Z.cap Ccedilla.cap -16
+KPX Z.cap Odieresis.cap -18
+KPX Z.cap Ccedillasmall -19
+KPX Z.cap Oacutesmall -6
+KPX Z.cap Ogravesmall -6
+KPX Z.cap Ocircumflexsmall -6
+KPX Z.cap Odieresissmall -6
+KPX Z.cap Otildesmall -6
+KPX Z.cap Oslash.cap -16
+KPX Z.cap Oslashsmall -6
+KPX Z.cap guillemotleft -16
+KPX Z.cap Otilde.cap -18
+KPX Z.cap OE.cap -18
+KPX Z.cap OEsmall -6
+KPX Z.cap guilsinglleft -16
+KPX Z.cap Oacute.cap -18
+KPX Z.cap Ocircumflex.cap -18
+KPX Z.cap Ograve.cap -18
+KPX Z.cap B.cap 1
+KPX Z.cap D.cap 1
+KPX Z.cap E.cap 1
+KPX Z.cap F.cap 1
+KPX Z.cap H.cap 1
+KPX Z.cap I.cap 1
+KPX Z.cap K.cap 1
+KPX Z.cap L.cap 1
+KPX Z.cap M.cap 3
+KPX Z.cap N.cap 1
+KPX Z.cap P.cap 1
+KPX Z.cap Q.cap -2
+KPX Z.cap R.cap 1
+
+KPX Asmall comma 22
+KPX Asmall hyphen.cap -27
+KPX Asmall question -20
+KPX Asmall Csmall -30
+KPX Asmall Gsmall -29
+KPX Asmall Osmall -28
+KPX Asmall Qsmall -28
+KPX Asmall Tsmall -63
+KPX Asmall Usmall -25
+KPX Asmall Vsmall -47
+KPX Asmall Wsmall -44
+KPX Asmall Xsmall -9
+KPX Asmall Ysmall -73
+KPX Asmall Zsmall -9
+KPX Asmall Ccedillasmall -30
+KPX Asmall Oacutesmall -28
+KPX Asmall Ogravesmall -28
+KPX Asmall Ocircumflexsmall -28
+KPX Asmall Odieresissmall -28
+KPX Asmall Otildesmall -28
+KPX Asmall Uacutesmall -25
+KPX Asmall Ugravesmall -25
+KPX Asmall Ucircumflexsmall -25
+KPX Asmall Udieresissmall -25
+KPX Asmall Oslashsmall -26
+KPX Asmall guillemotleft -9
+KPX Asmall OEsmall -28
+KPX Asmall quotedblleft.cap -153
+KPX Asmall quotedblright.cap -108
+KPX Asmall quoteleft.cap -153
+KPX Asmall quoteright.cap -108
+KPX Asmall Ydieresissmall -73
+KPX Asmall guilsinglleft -12
+KPX Asmall Jsmall 3
+KPX Asmall Ssmall -1
+
+KPX Bsmall comma -8
+KPX Bsmall period -9
+KPX Bsmall Bsmall 9
+KPX Bsmall Dsmall 9
+KPX Bsmall Esmall 9
+KPX Bsmall Fsmall 9
+KPX Bsmall Hsmall 9
+KPX Bsmall Ismall 9
+KPX Bsmall Ksmall 9
+KPX Bsmall Lsmall 9
+KPX Bsmall Nsmall 9
+KPX Bsmall Psmall 9
+KPX Bsmall Rsmall 9
+KPX Bsmall Tsmall -17
+KPX Bsmall Vsmall -25
+KPX Bsmall Wsmall -12
+KPX Bsmall Ysmall -26
+KPX Bsmall AEsmall -9
+KPX Bsmall Ydieresissmall -26
+KPX Bsmall Fsmall_Ismall 7
+KPX Bsmall Fsmall_Lsmall 7
+KPX Bsmall Asmall -1
+KPX Bsmall Msmall 1
+KPX Bsmall Xsmall -7
+KPX Bsmall Ccedillasmall 1
+KPX Bsmall quotedblleft.cap -4
+KPX Bsmall quoteleft.cap -4
+
+KPX Csmall comma 19
+KPX Csmall hyphen.cap -23
+KPX Csmall period 16
+KPX Csmall Csmall -21
+KPX Csmall Gsmall -14
+KPX Csmall Osmall -12
+KPX Csmall Qsmall -12
+KPX Csmall Vsmall 13
+KPX Csmall Ccedillasmall -21
+KPX Csmall Oacutesmall -12
+KPX Csmall Ogravesmall -12
+KPX Csmall Ocircumflexsmall -12
+KPX Csmall Odieresissmall -12
+KPX Csmall Otildesmall -12
+KPX Csmall AEsmall 9
+KPX Csmall Oslashsmall -12
+KPX Csmall guillemotleft -16
+KPX Csmall OEsmall -12
+KPX Csmall quotedblleft.cap 19
+KPX Csmall quotedblright.cap 29
+KPX Csmall quoteleft.cap 19
+KPX Csmall quoteright.cap 29
+KPX Csmall guilsinglleft -16
+KPX Csmall Jsmall 2
+KPX Csmall Wsmall 1
+KPX Csmall Xsmall 3
+KPX Csmall Zsmall 1
+
+KPX Dsmall comma -60
+KPX Dsmall period -53
+KPX Dsmall question -24
+KPX Dsmall Asmall -29
+KPX Dsmall Jsmall -15
+KPX Dsmall Vsmall -15
+KPX Dsmall Ysmall -27
+KPX Dsmall Zsmall -13
+KPX Dsmall Aacutesmall -29
+KPX Dsmall Agravesmall -29
+KPX Dsmall Acircumflexsmall -29
+KPX Dsmall Adieresissmall -29
+KPX Dsmall Atildesmall -29
+KPX Dsmall Aringsmall -29
+KPX Dsmall AEsmall -36
+KPX Dsmall quotedblleft.cap -13
+KPX Dsmall quoteleft.cap -13
+KPX Dsmall Ydieresissmall -27
+KPX Dsmall slash -4
+KPX Dsmall Gsmall -1
+KPX Dsmall Tsmall -3
+KPX Dsmall Wsmall -3
+KPX Dsmall Xsmall -9
+
+KPX Esmall Asmall -9
+KPX Esmall Ccedillasmall -10
+KPX Esmall Csmall -4
+KPX Esmall Gsmall -4
+KPX Esmall Osmall -4
+KPX Esmall Qsmall -4
+KPX Esmall Vsmall -3
+KPX Esmall Wsmall -3
+KPX Esmall Oacutesmall -4
+KPX Esmall Ogravesmall -4
+KPX Esmall Ocircumflexsmall -4
+KPX Esmall Odieresissmall -4
+KPX Esmall Otildesmall -4
+KPX Esmall Oslashsmall -4
+KPX Esmall OEsmall -4
+
+KPX Fsmall comma -112
+KPX Fsmall period -124
+KPX Fsmall slash -25
+KPX Fsmall Asmall -32
+KPX Fsmall Csmall -15
+KPX Fsmall Gsmall -11
+KPX Fsmall Jsmall -21
+KPX Fsmall Osmall -6
+KPX Fsmall Qsmall -6
+KPX Fsmall Vsmall 3
+KPX Fsmall Wsmall 3
+KPX Fsmall Xsmall -1
+KPX Fsmall Ysmall 5
+KPX Fsmall Aacutesmall -32
+KPX Fsmall Agravesmall -32
+KPX Fsmall Acircumflexsmall -32
+KPX Fsmall Adieresissmall -32
+KPX Fsmall Atildesmall -32
+KPX Fsmall Aringsmall -32
+KPX Fsmall Ccedillasmall -15
+KPX Fsmall Oacutesmall -6
+KPX Fsmall Ogravesmall -6
+KPX Fsmall Ocircumflexsmall -6
+KPX Fsmall Odieresissmall -6
+KPX Fsmall Otildesmall -6
+KPX Fsmall AEsmall -47
+KPX Fsmall Oslashsmall -6
+KPX Fsmall OEsmall -6
+KPX Fsmall quotedblright.cap 14
+KPX Fsmall quoteright.cap 14
+KPX Fsmall Ydieresissmall 5
+
+KPX Gsmall Asmall -21
+KPX Gsmall Xsmall -10
+KPX Gsmall Ysmall -14
+KPX Gsmall Aacutesmall -21
+KPX Gsmall Agravesmall -21
+KPX Gsmall Acircumflexsmall -21
+KPX Gsmall Adieresissmall -21
+KPX Gsmall Atildesmall -21
+KPX Gsmall Aringsmall -21
+KPX Gsmall Ydieresissmall -14
+KPX Gsmall Vsmall -1
+KPX Gsmall Wsmall -2
+KPX Gsmall quotedblleft.cap -1
+KPX Gsmall quoteleft.cap -1
+
+KPX Hsmall Bsmall 14
+KPX Hsmall Dsmall 14
+KPX Hsmall Esmall 14
+KPX Hsmall Fsmall 14
+KPX Hsmall Hsmall 14
+KPX Hsmall Ismall 14
+KPX Hsmall Ksmall 14
+KPX Hsmall Lsmall 14
+KPX Hsmall Nsmall 14
+KPX Hsmall Psmall 14
+KPX Hsmall Rsmall 14
+KPX Hsmall Fsmall_Ismall 14
+KPX Hsmall Fsmall_Lsmall 14
+KPX Hsmall Msmall 3
+KPX Hsmall Usmall 3
+KPX Hsmall Zsmall 3
+KPX Hsmall Uacutesmall 3
+KPX Hsmall Ugravesmall 3
+KPX Hsmall Ucircumflexsmall 3
+KPX Hsmall Udieresissmall 3
+
+KPX Ismall Bsmall 14
+KPX Ismall Dsmall 14
+KPX Ismall Esmall 14
+KPX Ismall Fsmall 14
+KPX Ismall Hsmall 14
+KPX Ismall Ismall 14
+KPX Ismall Ksmall 14
+KPX Ismall Lsmall 14
+KPX Ismall Nsmall 14
+KPX Ismall Psmall 14
+KPX Ismall Rsmall 14
+KPX Ismall Fsmall_Ismall 14
+KPX Ismall Fsmall_Lsmall 14
+KPX Ismall Msmall 3
+KPX Ismall Usmall 3
+KPX Ismall Zsmall 3
+KPX Ismall Uacutesmall 3
+KPX Ismall Ugravesmall 3
+KPX Ismall Ucircumflexsmall 3
+KPX Ismall Udieresissmall 3
+
+KPX Jsmall comma -13
+KPX Jsmall period -16
+KPX Jsmall Asmall -9
+KPX Jsmall Aacutesmall -9
+KPX Jsmall Agravesmall -9
+KPX Jsmall Acircumflexsmall -9
+KPX Jsmall Adieresissmall -9
+KPX Jsmall Atildesmall -9
+KPX Jsmall Aringsmall -9
+KPX Jsmall AEsmall -16
+KPX Jsmall Bsmall 2
+KPX Jsmall Dsmall 2
+KPX Jsmall Esmall 2
+KPX Jsmall Fsmall 2
+KPX Jsmall Hsmall 2
+KPX Jsmall Ismall 2
+KPX Jsmall Ksmall 2
+KPX Jsmall Lsmall 2
+KPX Jsmall Nsmall 2
+KPX Jsmall Psmall 2
+KPX Jsmall Rsmall 2
+KPX Jsmall Xsmall -1
+KPX Jsmall Ysmall -2
+KPX Jsmall Ydieresissmall -2
+KPX Jsmall Fsmall_Ismall 2
+KPX Jsmall Fsmall_Lsmall 2
+
+KPX Ksmall hyphen.cap -75
+KPX Ksmall Asmall -12
+KPX Ksmall Csmall -30
+KPX Ksmall Gsmall -27
+KPX Ksmall Osmall -23
+KPX Ksmall Qsmall -23
+KPX Ksmall Usmall -9
+KPX Ksmall Vsmall -5
+KPX Ksmall Wsmall -6
+KPX Ksmall Aacutesmall -12
+KPX Ksmall Agravesmall -12
+KPX Ksmall Acircumflexsmall -12
+KPX Ksmall Adieresissmall -12
+KPX Ksmall Atildesmall -12
+KPX Ksmall Aringsmall -12
+KPX Ksmall Ccedillasmall -30
+KPX Ksmall Oacutesmall -23
+KPX Ksmall Ogravesmall -23
+KPX Ksmall Ocircumflexsmall -23
+KPX Ksmall Odieresissmall -23
+KPX Ksmall Otildesmall -23
+KPX Ksmall Uacutesmall -9
+KPX Ksmall Ugravesmall -9
+KPX Ksmall Ucircumflexsmall -9
+KPX Ksmall Udieresissmall -9
+KPX Ksmall Oslashsmall -18
+KPX Ksmall guillemotleft -40
+KPX Ksmall guillemotright -10
+KPX Ksmall OEsmall -22
+KPX Ksmall guilsinglleft -40
+KPX Ksmall guilsinglright -10
+KPX Ksmall comma 4
+KPX Ksmall slash 4
+KPX Ksmall Jsmall 1
+KPX Ksmall Ssmall -3
+KPX Ksmall Xsmall 3
+KPX Ksmall Ysmall -4
+KPX Ksmall Ydieresissmall -4
+
+KPX Lsmall comma 37
+KPX Lsmall hyphen.cap -62
+KPX Lsmall period 34
+KPX Lsmall slash 31
+KPX Lsmall semicolon 19
+KPX Lsmall Csmall -26
+KPX Lsmall Gsmall -26
+KPX Lsmall Osmall -26
+KPX Lsmall Qsmall -26
+KPX Lsmall Tsmall -69
+KPX Lsmall Vsmall -77
+KPX Lsmall Wsmall -59
+KPX Lsmall Ysmall -80
+KPX Lsmall Ccedillasmall -29
+KPX Lsmall Oacutesmall -26
+KPX Lsmall Ogravesmall -26
+KPX Lsmall Ocircumflexsmall -26
+KPX Lsmall Odieresissmall -26
+KPX Lsmall Otildesmall -20
+KPX Lsmall Oslashsmall -23
+KPX Lsmall guillemotleft -30
+KPX Lsmall OEsmall -23
+KPX Lsmall quotedblleft.cap -131
+KPX Lsmall quotedblright.cap -121
+KPX Lsmall quoteleft.cap -131
+KPX Lsmall quoteright.cap -121
+KPX Lsmall Ydieresissmall -80
+KPX Lsmall guilsinglleft -30
+KPX Lsmall periodcentered -74
+KPX Lsmall Asmall 1
+KPX Lsmall Jsmall 2
+KPX Lsmall Usmall -5
+KPX Lsmall Zsmall 3
+KPX Lsmall Aacutesmall 1
+KPX Lsmall Agravesmall 1
+KPX Lsmall Acircumflexsmall 1
+KPX Lsmall Adieresissmall 1
+KPX Lsmall Atildesmall 1
+KPX Lsmall Aringsmall 1
+KPX Lsmall Uacutesmall -5
+KPX Lsmall Ugravesmall -5
+KPX Lsmall Ucircumflexsmall -5
+KPX Lsmall Udieresissmall -5
+
+KPX Msmall Csmall -9
+KPX Msmall Gsmall -5
+KPX Msmall Osmall -5
+KPX Msmall Qsmall -5
+KPX Msmall Tsmall -7
+KPX Msmall Usmall -4
+KPX Msmall Vsmall -13
+KPX Msmall Wsmall -8
+KPX Msmall Ysmall -19
+KPX Msmall Ccedillasmall -9
+KPX Msmall Uacutesmall -4
+KPX Msmall Ugravesmall -4
+KPX Msmall Ucircumflexsmall -4
+KPX Msmall Udieresissmall -4
+KPX Msmall guillemotleft -16
+KPX Msmall quotedblleft.cap -16
+KPX Msmall quoteleft.cap -16
+KPX Msmall Ydieresissmall -19
+KPX Msmall guilsinglleft -16
+KPX Msmall Bsmall 2
+KPX Msmall Dsmall 2
+KPX Msmall Esmall 2
+KPX Msmall Fsmall 2
+KPX Msmall Hsmall 2
+KPX Msmall Ismall 2
+KPX Msmall Ksmall 2
+KPX Msmall Lsmall 2
+KPX Msmall Nsmall 2
+KPX Msmall Psmall 2
+KPX Msmall Rsmall 2
+KPX Msmall Zsmall 3
+KPX Msmall Oacutesmall -2
+KPX Msmall Ogravesmall -2
+KPX Msmall Ocircumflexsmall -2
+KPX Msmall Odieresissmall -2
+KPX Msmall Otildesmall -2
+KPX Msmall Oslashsmall -2
+KPX Msmall OEsmall -2
+
+KPX Nsmall Bsmall 14
+KPX Nsmall Dsmall 14
+KPX Nsmall Esmall 14
+KPX Nsmall Fsmall 14
+KPX Nsmall Hsmall 14
+KPX Nsmall Ismall 14
+KPX Nsmall Ksmall 14
+KPX Nsmall Lsmall 14
+KPX Nsmall Nsmall 14
+KPX Nsmall Psmall 14
+KPX Nsmall Rsmall 14
+KPX Nsmall Fsmall_Ismall 14
+KPX Nsmall Fsmall_Lsmall 14
+KPX Nsmall Msmall 3
+KPX Nsmall Usmall 3
+KPX Nsmall Zsmall 3
+KPX Nsmall Uacutesmall 3
+KPX Nsmall Ugravesmall 3
+KPX Nsmall Ucircumflexsmall 3
+KPX Nsmall Udieresissmall 3
+
+KPX Osmall comma -41
+KPX Osmall period -52
+KPX Osmall Asmall -28
+KPX Osmall Jsmall -17
+KPX Osmall Tsmall -22
+KPX Osmall Vsmall -14
+KPX Osmall Wsmall -8
+KPX Osmall Xsmall -25
+KPX Osmall Ysmall -33
+KPX Osmall Zsmall -13
+KPX Osmall Aacutesmall -28
+KPX Osmall Agravesmall -28
+KPX Osmall Acircumflexsmall -28
+KPX Osmall Adieresissmall -28
+KPX Osmall Atildesmall -28
+KPX Osmall Aringsmall -28
+KPX Osmall AEsmall -31
+KPX Osmall quotedblleft.cap -22
+KPX Osmall quoteleft.cap -22
+KPX Osmall Ydieresissmall -33
+KPX Osmall slash -4
+
+KPX Psmall comma -149
+KPX Psmall period -156
+KPX Psmall slash -47
+KPX Psmall Asmall -54
+KPX Psmall Csmall -3
+KPX Psmall Jsmall -50
+KPX Psmall Msmall -7
+KPX Psmall Xsmall -17
+KPX Psmall Ysmall -10
+KPX Psmall Zsmall -13
+KPX Psmall Aacutesmall -54
+KPX Psmall Agravesmall -54
+KPX Psmall Acircumflexsmall -54
+KPX Psmall Adieresissmall -54
+KPX Psmall Atildesmall -54
+KPX Psmall Aringsmall -54
+KPX Psmall Ccedillasmall -3
+KPX Psmall AEsmall -85
+KPX Psmall quotedblright.cap 22
+KPX Psmall quoteright.cap 22
+KPX Psmall Ydieresissmall -10
+KPX Psmall Gsmall 1
+KPX Psmall Ssmall 2
+KPX Psmall Tsmall 2
+KPX Psmall Usmall 1
+KPX Psmall Vsmall 1
+KPX Psmall Wsmall 4
+KPX Psmall quotedblleft.cap 4
+KPX Psmall quoteleft.cap 4
+
+KPX Qsmall parenright.cap 33
+KPX Qsmall slash 42
+KPX Qsmall bracketright.cap 16
+KPX Qsmall Asmall -6
+KPX Qsmall Tsmall -25
+KPX Qsmall Vsmall -13
+KPX Qsmall Wsmall -6
+KPX Qsmall Ysmall -34
+KPX Qsmall quotedblleft.cap -32
+KPX Qsmall quoteleft.cap -32
+KPX Qsmall Ydieresissmall -24
+KPX Qsmall comma 6
+KPX Qsmall period 3
+KPX Qsmall semicolon 3
+KPX Qsmall Csmall 1
+KPX Qsmall Gsmall 1
+KPX Qsmall Jsmall 3
+KPX Qsmall Osmall 1
+KPX Qsmall Qsmall 1
+KPX Qsmall Ssmall 1
+KPX Qsmall Zsmall 3
+
+KPX Rsmall Asmall -20
+KPX Rsmall Csmall -17
+KPX Rsmall Gsmall -13
+KPX Rsmall Osmall -6
+KPX Rsmall Qsmall -6
+KPX Rsmall Tsmall -6
+KPX Rsmall Usmall -6
+KPX Rsmall Vsmall -14
+KPX Rsmall Ysmall -20
+KPX Rsmall Aacutesmall -20
+KPX Rsmall Agravesmall -20
+KPX Rsmall Acircumflexsmall -20
+KPX Rsmall Adieresissmall -20
+KPX Rsmall Atildesmall -20
+KPX Rsmall Aringsmall -20
+KPX Rsmall Ccedillasmall -17
+KPX Rsmall Oacutesmall -6
+KPX Rsmall Ogravesmall -6
+KPX Rsmall Ocircumflexsmall -6
+KPX Rsmall Odieresissmall -6
+KPX Rsmall Otildesmall -6
+KPX Rsmall Uacutesmall -6
+KPX Rsmall Ugravesmall -6
+KPX Rsmall Ucircumflexsmall -6
+KPX Rsmall Udieresissmall -6
+KPX Rsmall AEsmall -19
+KPX Rsmall Oslashsmall -6
+KPX Rsmall OEsmall -6
+KPX Rsmall quotedblleft.cap -32
+KPX Rsmall quoteleft.cap -32
+KPX Rsmall Ydieresissmall -20
+KPX Rsmall comma 4
+KPX Rsmall hyphen.cap -7
+KPX Rsmall period 3
+KPX Rsmall slash 6
+KPX Rsmall Msmall 2
+KPX Rsmall Wsmall -1
+
+KPX Ssmall comma -16
+KPX Ssmall period -15
+KPX Ssmall Asmall -12
+KPX Ssmall Tsmall -7
+KPX Ssmall Ysmall -18
+KPX Ssmall Aacutesmall -12
+KPX Ssmall Agravesmall -12
+KPX Ssmall Acircumflexsmall -12
+KPX Ssmall Adieresissmall -12
+KPX Ssmall Atildesmall -12
+KPX Ssmall Aringsmall -12
+KPX Ssmall quotedblleft.cap -36
+KPX Ssmall quotedblright.cap -27
+KPX Ssmall quoteleft.cap -36
+KPX Ssmall quoteright.cap -27
+KPX Ssmall Ydieresissmall -21
+KPX Ssmall hyphen.cap 4
+KPX Ssmall Vsmall -2
+KPX Ssmall Wsmall -1
+KPX Ssmall Xsmall -5
+KPX Ssmall AEsmall -4
+KPX Ssmall guillemotleft 3
+KPX Ssmall guilsinglleft 3
+
+KPX Tsmall comma -106
+KPX Tsmall hyphen.cap -73
+KPX Tsmall period -111
+KPX Tsmall slash -37
+KPX Tsmall colon -47
+KPX Tsmall semicolon -43
+KPX Tsmall question 8
+KPX Tsmall Asmall -45
+KPX Tsmall Csmall -30
+KPX Tsmall Gsmall -28
+KPX Tsmall Jsmall -30
+KPX Tsmall Osmall -26
+KPX Tsmall Qsmall -26
+KPX Tsmall Tsmall 25
+KPX Tsmall Ysmall 7
+KPX Tsmall Aacutesmall -43
+KPX Tsmall Agravesmall -43
+KPX Tsmall Acircumflexsmall -43
+KPX Tsmall Adieresissmall -43
+KPX Tsmall Atildesmall -43
+KPX Tsmall Aringsmall -43
+KPX Tsmall Ccedillasmall -30
+KPX Tsmall Oacutesmall -25
+KPX Tsmall Ogravesmall -15
+KPX Tsmall Ocircumflexsmall -15
+KPX Tsmall Odieresissmall -15
+KPX Tsmall Otildesmall -15
+KPX Tsmall AEsmall -62
+KPX Tsmall Oslashsmall -15
+KPX Tsmall guillemotleft -55
+KPX Tsmall guillemotright -16
+KPX Tsmall OEsmall -15
+KPX Tsmall quotedblright.cap 19
+KPX Tsmall quoteright.cap 28
+KPX Tsmall Ydieresissmall 7
+KPX Tsmall guilsinglleft -55
+KPX Tsmall guilsinglright -16
+KPX Tsmall Msmall -1
+KPX Tsmall Vsmall 3
+KPX Tsmall quotedblleft.cap 4
+KPX Tsmall quoteleft.cap 4
+
+KPX Usmall comma -40
+KPX Usmall period -45
+KPX Usmall slash -20
+KPX Usmall Asmall -24
+KPX Usmall Jsmall -16
+KPX Usmall Xsmall -11
+KPX Usmall Aacutesmall -24
+KPX Usmall Agravesmall -24
+KPX Usmall Acircumflexsmall -24
+KPX Usmall Adieresissmall -24
+KPX Usmall Atildesmall -24
+KPX Usmall Aringsmall -24
+KPX Usmall AEsmall -47
+KPX Usmall quotedblright.cap -10
+KPX Usmall quoteright.cap -10
+KPX Usmall Bsmall 2
+KPX Usmall Dsmall 2
+KPX Usmall Esmall 2
+KPX Usmall Fsmall 2
+KPX Usmall Hsmall 2
+KPX Usmall Ismall 2
+KPX Usmall Ksmall 2
+KPX Usmall Lsmall 2
+KPX Usmall Msmall 1
+KPX Usmall Nsmall 2
+KPX Usmall Psmall 2
+KPX Usmall Rsmall 2
+KPX Usmall Wsmall -1
+KPX Usmall Ysmall -3
+KPX Usmall Ydieresissmall -3
+KPX Usmall Fsmall_Ismall 2
+KPX Usmall Fsmall_Lsmall 2
+
+KPX Vsmall comma -119
+KPX Vsmall hyphen.cap -45
+KPX Vsmall period -140
+KPX Vsmall slash -51
+KPX Vsmall colon -13
+KPX Vsmall Asmall -40
+KPX Vsmall Csmall -20
+KPX Vsmall Gsmall -17
+KPX Vsmall Jsmall -28
+KPX Vsmall Msmall -10
+KPX Vsmall Osmall -15
+KPX Vsmall Qsmall -15
+KPX Vsmall Aacutesmall -40
+KPX Vsmall Agravesmall -34
+KPX Vsmall Acircumflexsmall -34
+KPX Vsmall Adieresissmall -34
+KPX Vsmall Atildesmall -34
+KPX Vsmall Aringsmall -34
+KPX Vsmall Ccedillasmall -20
+KPX Vsmall Oacutesmall -15
+KPX Vsmall Ogravesmall -15
+KPX Vsmall Ocircumflexsmall -15
+KPX Vsmall Odieresissmall -15
+KPX Vsmall Otildesmall -15
+KPX Vsmall AEsmall -61
+KPX Vsmall Oslashsmall -15
+KPX Vsmall guillemotleft -16
+KPX Vsmall guillemotright -19
+KPX Vsmall OEsmall -15
+KPX Vsmall quotedblright.cap 26
+KPX Vsmall quoteright.cap 26
+KPX Vsmall guilsinglleft -16
+KPX Vsmall guilsinglright -19
+KPX Vsmall Tsmall 4
+KPX Vsmall Usmall -3
+KPX Vsmall Vsmall 3
+KPX Vsmall Ysmall 2
+KPX Vsmall quotedblleft.cap 4
+KPX Vsmall quoteleft.cap 4
+KPX Vsmall Ydieresissmall 2
+
+KPX Wsmall comma -77
+KPX Wsmall hyphen.cap -47
+KPX Wsmall period -105
+KPX Wsmall slash -43
+KPX Wsmall colon -14
+KPX Wsmall semicolon -9
+KPX Wsmall Asmall -37
+KPX Wsmall Csmall -16
+KPX Wsmall Gsmall -12
+KPX Wsmall Jsmall -24
+KPX Wsmall Osmall -11
+KPX Wsmall Qsmall -11
+KPX Wsmall Aacutesmall -37
+KPX Wsmall Agravesmall -31
+KPX Wsmall Acircumflexsmall -31
+KPX Wsmall Adieresissmall -31
+KPX Wsmall Atildesmall -31
+KPX Wsmall Aringsmall -31
+KPX Wsmall Ccedillasmall -16
+KPX Wsmall Oacutesmall -9
+KPX Wsmall Ogravesmall -9
+KPX Wsmall Ocircumflexsmall -9
+KPX Wsmall Odieresissmall -9
+KPX Wsmall Otildesmall -9
+KPX Wsmall AEsmall -59
+KPX Wsmall Oslashsmall -9
+KPX Wsmall guillemotleft -22
+KPX Wsmall OEsmall -8
+KPX Wsmall quotedblright.cap 16
+KPX Wsmall quoteright.cap 16
+KPX Wsmall guilsinglleft -22
+KPX Wsmall Ssmall -1
+KPX Wsmall Tsmall 2
+KPX Wsmall Xsmall -4
+KPX Wsmall quotedblleft.cap 4
+KPX Wsmall quoteleft.cap 4
+
+KPX Xsmall comma 16
+KPX Xsmall hyphen.cap -52
+KPX Xsmall slash 23
+KPX Xsmall Asmall -13
+KPX Xsmall Csmall -30
+KPX Xsmall Gsmall -29
+KPX Xsmall Osmall -25
+KPX Xsmall Qsmall -25
+KPX Xsmall Usmall -11
+KPX Xsmall Wsmall -16
+KPX Xsmall Ccedillasmall -29
+KPX Xsmall Oacutesmall -25
+KPX Xsmall Ogravesmall -25
+KPX Xsmall Ocircumflexsmall -25
+KPX Xsmall Odieresissmall -25
+KPX Xsmall Otildesmall -25
+KPX Xsmall Oslashsmall -21
+KPX Xsmall guillemotleft -17
+KPX Xsmall guillemotright -16
+KPX Xsmall OEsmall -24
+KPX Xsmall quotedblleft.cap -23
+KPX Xsmall quoteleft.cap -23
+KPX Xsmall guilsinglleft -17
+KPX Xsmall guilsinglright -16
+KPX Xsmall period 2
+KPX Xsmall Ssmall -1
+KPX Xsmall Uacutesmall -2
+KPX Xsmall Ugravesmall -2
+KPX Xsmall Ucircumflexsmall -2
+KPX Xsmall Udieresissmall -2
+
+KPX Ysmall comma -128
+KPX Ysmall hyphen.cap -84
+KPX Ysmall period -141
+KPX Ysmall slash -64
+KPX Ysmall colon -32
+KPX Ysmall semicolon -35
+KPX Ysmall Asmall -70
+KPX Ysmall Csmall -42
+KPX Ysmall Gsmall -34
+KPX Ysmall Jsmall -39
+KPX Ysmall Msmall -13
+KPX Ysmall Osmall -34
+KPX Ysmall Qsmall -34
+KPX Ysmall Ssmall -17
+KPX Ysmall Tsmall 6
+KPX Ysmall Aacutesmall -64
+KPX Ysmall Agravesmall -62
+KPX Ysmall Acircumflexsmall -62
+KPX Ysmall Adieresissmall -62
+KPX Ysmall Atildesmall -62
+KPX Ysmall Aringsmall -62
+KPX Ysmall Ccedillasmall -42
+KPX Ysmall Oacutesmall -32
+KPX Ysmall Ogravesmall -28
+KPX Ysmall Ocircumflexsmall -28
+KPX Ysmall Odieresissmall -28
+KPX Ysmall Otildesmall -28
+KPX Ysmall AEsmall -82
+KPX Ysmall Oslashsmall -31
+KPX Ysmall guillemotleft -44
+KPX Ysmall guillemotright -32
+KPX Ysmall OEsmall -33
+KPX Ysmall guilsinglleft -44
+KPX Ysmall guilsinglright -32
+KPX Ysmall Usmall -1
+KPX Ysmall Vsmall 2
+KPX Ysmall Wsmall -2
+KPX Ysmall Ssmall_Ssmall -3
+KPX Ysmall quotedblleft.cap 4
+KPX Ysmall quotedblright.cap 3
+KPX Ysmall quoteleft.cap 4
+KPX Ysmall quoteright.cap 3
+
+KPX Zsmall hyphen.cap -32
+KPX Zsmall period 13
+KPX Zsmall Bsmall 3
+KPX Zsmall Csmall -20
+KPX Zsmall Dsmall 3
+KPX Zsmall Esmall 3
+KPX Zsmall Fsmall 3
+KPX Zsmall Gsmall -15
+KPX Zsmall Hsmall 3
+KPX Zsmall Ismall 3
+KPX Zsmall Ksmall 3
+KPX Zsmall Lsmall 3
+KPX Zsmall Nsmall 3
+KPX Zsmall Osmall -17
+KPX Zsmall Psmall 3
+KPX Zsmall Qsmall -17
+KPX Zsmall Rsmall 3
+KPX Zsmall Ccedillasmall -20
+KPX Zsmall Oacutesmall -17
+KPX Zsmall Ogravesmall -17
+KPX Zsmall Ocircumflexsmall -17
+KPX Zsmall Odieresissmall -17
+KPX Zsmall Otildesmall -17
+KPX Zsmall Oslashsmall -17
+KPX Zsmall guillemotleft -16
+KPX Zsmall OEsmall -20
+KPX Zsmall guilsinglleft -16
+KPX Zsmall Asmall -2
+KPX Zsmall Aacutesmall -1
+KPX Zsmall Agravesmall -1
+KPX Zsmall Acircumflexsmall -1
+KPX Zsmall Adieresissmall -1
+KPX Zsmall Atildesmall -1
+KPX Zsmall Aringsmall -1
+
+KPX braceleft.cap J.cap 13
+KPX braceleft.cap Y.cap 13
+KPX braceleft.cap Ydieresis.cap 21
+KPX braceleft.cap T.cap 5
+KPX braceleft.cap Tsmall 3
+
+KPX quotesinglbase C.cap -40
+KPX quotesinglbase G.cap -46
+KPX quotesinglbase I.cap 3
+KPX quotesinglbase O.cap -66
+KPX quotesinglbase Q.cap -40
+KPX quotesinglbase T.cap -115
+KPX quotesinglbase U.cap -37
+KPX quotesinglbase V.cap -154
+KPX quotesinglbase W.cap -125
+KPX quotesinglbase Y.cap -172
+KPX quotesinglbase Csmall -40
+KPX quotesinglbase Gsmall -47
+KPX quotesinglbase Osmall -65
+KPX quotesinglbase Qsmall -65
+KPX quotesinglbase Tsmall -107
+KPX quotesinglbase Usmall -37
+KPX quotesinglbase Vsmall -159
+KPX quotesinglbase Wsmall -127
+KPX quotesinglbase Ysmall -169
+KPX quotesinglbase Ccedilla.cap -37
+KPX quotesinglbase Odieresis.cap -44
+KPX quotesinglbase Udieresis.cap -28
+KPX quotesinglbase Odieresissmall -30
+KPX quotesinglbase Udieresissmall -37
+KPX quotesinglbase AE.cap 36
+KPX quotesinglbase AEsmall 32
+KPX quotesinglbase Otilde.cap -28
+KPX quotesinglbase OE.cap -63
+KPX quotesinglbase OEsmall -32
+KPX quotesinglbase Ydieresis.cap -141
+KPX quotesinglbase A.cap 6
+KPX quotesinglbase J.cap 6
+KPX quotesinglbase X.cap 7
+KPX quotesinglbase Z.cap 6
+KPX quotesinglbase Asmall 6
+KPX quotesinglbase Jsmall 6
+KPX quotesinglbase Xsmall 1
+KPX quotesinglbase Zsmall 6
+KPX quotesinglbase Adieresis.cap 6
+KPX quotesinglbase Adieresissmall 6
+
+KPX quotedblbase C.cap -37
+KPX quotedblbase G.cap -43
+KPX quotedblbase I.cap 3
+KPX quotedblbase O.cap -63
+KPX quotedblbase Q.cap -37
+KPX quotedblbase T.cap -112
+KPX quotedblbase U.cap -37
+KPX quotedblbase V.cap -159
+KPX quotedblbase W.cap -122
+KPX quotedblbase Y.cap -172
+KPX quotedblbase Csmall -40
+KPX quotedblbase Gsmall -47
+KPX quotedblbase Osmall -65
+KPX quotedblbase Qsmall -65
+KPX quotedblbase Tsmall -107
+KPX quotedblbase Usmall -37
+KPX quotedblbase Vsmall -159
+KPX quotedblbase Wsmall -127
+KPX quotedblbase Ysmall -169
+KPX quotedblbase Odieresis.cap -63
+KPX quotedblbase Udieresis.cap -37
+KPX quotedblbase Odieresissmall -65
+KPX quotedblbase Udieresissmall -37
+KPX quotedblbase AE.cap 36
+KPX quotedblbase AEsmall 32
+KPX quotedblbase OE.cap -51
+KPX quotedblbase OEsmall -41
+KPX quotedblbase Ydieresis.cap -109
+KPX quotedblbase A.cap 9
+KPX quotedblbase J.cap 8
+KPX quotedblbase X.cap 9
+KPX quotedblbase Z.cap 9
+KPX quotedblbase Asmall 6
+KPX quotedblbase Jsmall 6
+KPX quotedblbase Xsmall 1
+KPX quotedblbase Zsmall 6
+KPX quotedblbase Adieresis.cap 6
+KPX quotedblbase Adieresissmall 6
+KPX quotedblbase Ydieresissmall -20
+
+KPX ellipsis quotedblleft.cap -159
+KPX ellipsis quotedblright.cap -118
+KPX ellipsis quoteleft.cap -96
+KPX ellipsis quoteright.cap -80
+
+KPX guilsinglleft T.cap -47
+KPX guilsinglleft V.cap -19
+KPX guilsinglleft X.cap -16
+KPX guilsinglleft Y.cap -32
+KPX guilsinglleft Tsmall -38
+KPX guilsinglleft Vsmall -19
+KPX guilsinglleft Xsmall -13
+KPX guilsinglleft Ysmall -28
+KPX guilsinglleft Ydieresissmall -25
+
+KPX OE.cap A.cap -13
+KPX OE.cap O.cap -23
+KPX OE.cap Q.cap -23
+KPX OE.cap W.cap -9
+KPX OE.cap Csmall -20
+KPX OE.cap Gsmall -8
+KPX OE.cap Osmall -8
+KPX OE.cap Qsmall -8
+KPX OE.cap C.cap -4
+KPX OE.cap G.cap -4
+KPX OE.cap V.cap -3
+KPX OE.cap Y.cap -3
+KPX OE.cap Ccedilla.cap -4
+
+KPX quoteleft.cap comma -103
+KPX quoteleft.cap period -113
+KPX quoteleft.cap A.cap -118
+KPX quoteleft.cap C.cap -21
+KPX quoteleft.cap G.cap -28
+KPX quoteleft.cap J.cap -61
+KPX quoteleft.cap M.cap -27
+KPX quoteleft.cap O.cap -36
+KPX quoteleft.cap Q.cap -34
+KPX quoteleft.cap Asmall -127
+KPX quoteleft.cap Csmall -26
+KPX quoteleft.cap Gsmall -29
+KPX quoteleft.cap Jsmall -61
+KPX quoteleft.cap Msmall -27
+KPX quoteleft.cap Osmall -36
+KPX quoteleft.cap Qsmall -36
+KPX quoteleft.cap Ccedilla.cap -21
+KPX quoteleft.cap Aacutesmall -89
+KPX quoteleft.cap Ccedillasmall -21
+KPX quoteleft.cap Oacutesmall -37
+KPX quoteleft.cap AE.cap -134
+KPX quoteleft.cap AEsmall -144
+KPX quoteleft.cap Oslashsmall -25
+KPX quoteleft.cap OE.cap -21
+KPX quoteleft.cap OEsmall -36
+KPX quoteleft.cap T.cap 13
+KPX quoteleft.cap V.cap 3
+KPX quoteleft.cap W.cap 5
+KPX quoteleft.cap Y.cap 3
+KPX quoteleft.cap Tsmall 8
+KPX quoteleft.cap Vsmall 5
+KPX quoteleft.cap Wsmall 5
+KPX quoteleft.cap Ysmall 3
+KPX quoteleft.cap Oslash.cap 4
+KPX quoteleft.cap Ydieresissmall 6
+KPX quoteleft.cap Ydieresis.cap 10
+
+KPX quoteright.cap comma -145
+KPX quoteright.cap period -158
+KPX quoteright.cap A.cap -158
+KPX quoteright.cap B.cap -13
+KPX quoteright.cap C.cap -37
+KPX quoteright.cap D.cap -13
+KPX quoteright.cap E.cap -13
+KPX quoteright.cap F.cap -13
+KPX quoteright.cap G.cap -69
+KPX quoteright.cap H.cap -13
+KPX quoteright.cap I.cap -16
+KPX quoteright.cap J.cap -47
+KPX quoteright.cap K.cap -16
+KPX quoteright.cap L.cap -16
+KPX quoteright.cap M.cap -43
+KPX quoteright.cap N.cap -16
+KPX quoteright.cap O.cap -59
+KPX quoteright.cap P.cap -13
+KPX quoteright.cap Q.cap -70
+KPX quoteright.cap R.cap -32
+KPX quoteright.cap S.cap -16
+KPX quoteright.cap U.cap -37
+KPX quoteright.cap Y.cap -6
+KPX quoteright.cap Asmall -158
+KPX quoteright.cap Csmall -37
+KPX quoteright.cap Dsmall -13
+KPX quoteright.cap Esmall -13
+KPX quoteright.cap Fsmall -13
+KPX quoteright.cap Gsmall -69
+KPX quoteright.cap Hsmall -13
+KPX quoteright.cap Ismall -13
+KPX quoteright.cap Jsmall -56
+KPX quoteright.cap Ksmall -13
+KPX quoteright.cap Lsmall -13
+KPX quoteright.cap Msmall -41
+KPX quoteright.cap Nsmall -13
+KPX quoteright.cap Osmall -59
+KPX quoteright.cap Psmall -13
+KPX quoteright.cap Qsmall -59
+KPX quoteright.cap Rsmall -13
+KPX quoteright.cap Ssmall -16
+KPX quoteright.cap Usmall -37
+KPX quoteright.cap Ysmall -6
+KPX quoteright.cap Ccedilla.cap -29
+KPX quoteright.cap Aacutesmall -114
+KPX quoteright.cap Ccedillasmall -38
+KPX quoteright.cap Oacutesmall -43
+KPX quoteright.cap AE.cap -143
+KPX quoteright.cap Oslash.cap -28
+KPX quoteright.cap AEsmall -165
+KPX quoteright.cap Oslashsmall -51
+KPX quoteright.cap OE.cap -43
+KPX quoteright.cap OEsmall -54
+KPX quoteright.cap T.cap 6
+KPX quoteright.cap V.cap 4
+KPX quoteright.cap W.cap 7
+KPX quoteright.cap Tsmall 5
+KPX quoteright.cap Vsmall 4
+KPX quoteright.cap Wsmall 7
+
+KPX quotedblleft.cap comma -115
+KPX quotedblleft.cap period -130
+KPX quotedblleft.cap A.cap -122
+KPX quotedblleft.cap C.cap -21
+KPX quotedblleft.cap G.cap -27
+KPX quotedblleft.cap J.cap -61
+KPX quotedblleft.cap M.cap -27
+KPX quotedblleft.cap O.cap -34
+KPX quotedblleft.cap Q.cap -32
+KPX quotedblleft.cap Asmall -127
+KPX quotedblleft.cap Csmall -26
+KPX quotedblleft.cap Gsmall -29
+KPX quotedblleft.cap Jsmall -61
+KPX quotedblleft.cap Msmall -27
+KPX quotedblleft.cap Osmall -36
+KPX quotedblleft.cap Qsmall -36
+KPX quotedblleft.cap Ccedilla.cap -21
+KPX quotedblleft.cap Aacutesmall -50
+KPX quotedblleft.cap Ccedillasmall -26
+KPX quotedblleft.cap Oacutesmall -28
+KPX quotedblleft.cap AE.cap -146
+KPX quotedblleft.cap Oslash.cap -18
+KPX quotedblleft.cap AEsmall -152
+KPX quotedblleft.cap Oslashsmall -18
+KPX quotedblleft.cap OE.cap -19
+KPX quotedblleft.cap OEsmall -34
+KPX quotedblleft.cap T.cap 8
+KPX quotedblleft.cap V.cap 6
+KPX quotedblleft.cap W.cap 7
+KPX quotedblleft.cap Y.cap 6
+KPX quotedblleft.cap Tsmall 8
+KPX quotedblleft.cap Vsmall 5
+KPX quotedblleft.cap Wsmall 5
+KPX quotedblleft.cap Ysmall 3
+KPX quotedblleft.cap Adieresis.cap -9
+KPX quotedblleft.cap Aring.cap -7
+KPX quotedblleft.cap Ydieresissmall 5
+KPX quotedblleft.cap Ydieresis.cap 9
+
+KPX quotedblright.cap comma -152
+KPX quotedblright.cap period -170
+KPX quotedblright.cap A.cap -163
+KPX quotedblright.cap B.cap -13
+KPX quotedblright.cap C.cap -35
+KPX quotedblright.cap D.cap -13
+KPX quotedblright.cap E.cap -13
+KPX quotedblright.cap F.cap -13
+KPX quotedblright.cap G.cap -69
+KPX quotedblright.cap H.cap -13
+KPX quotedblright.cap I.cap -16
+KPX quotedblright.cap J.cap -47
+KPX quotedblright.cap K.cap -16
+KPX quotedblright.cap L.cap -16
+KPX quotedblright.cap M.cap -41
+KPX quotedblright.cap N.cap -16
+KPX quotedblright.cap O.cap -59
+KPX quotedblright.cap P.cap -13
+KPX quotedblright.cap Q.cap -69
+KPX quotedblright.cap R.cap -32
+KPX quotedblright.cap S.cap -16
+KPX quotedblright.cap U.cap -37
+KPX quotedblright.cap Y.cap -6
+KPX quotedblright.cap Asmall -161
+KPX quotedblright.cap Bsmall -13
+KPX quotedblright.cap Csmall -40
+KPX quotedblright.cap Dsmall -13
+KPX quotedblright.cap Esmall -13
+KPX quotedblright.cap Fsmall -13
+KPX quotedblright.cap Gsmall -69
+KPX quotedblright.cap Hsmall -13
+KPX quotedblright.cap Ismall -13
+KPX quotedblright.cap Jsmall -56
+KPX quotedblright.cap Ksmall -13
+KPX quotedblright.cap Lsmall -13
+KPX quotedblright.cap Msmall -41
+KPX quotedblright.cap Nsmall -13
+KPX quotedblright.cap Osmall -59
+KPX quotedblright.cap Psmall -13
+KPX quotedblright.cap Qsmall -59
+KPX quotedblright.cap Rsmall -13
+KPX quotedblright.cap Ssmall -16
+KPX quotedblright.cap Usmall -37
+KPX quotedblright.cap Ysmall -6
+KPX quotedblright.cap Adieresis.cap -54
+KPX quotedblright.cap Ccedilla.cap -23
+KPX quotedblright.cap Ccedillasmall -40
+KPX quotedblright.cap AE.cap -177
+KPX quotedblright.cap Oslash.cap -53
+KPX quotedblright.cap AEsmall -180
+KPX quotedblright.cap Oslashsmall -43
+KPX quotedblright.cap OE.cap -44
+KPX quotedblright.cap OEsmall -59
+KPX quotedblright.cap T.cap 5
+KPX quotedblright.cap V.cap 7
+KPX quotedblright.cap W.cap 7
+KPX quotedblright.cap Tsmall 5
+KPX quotedblright.cap Vsmall 4
+KPX quotedblright.cap Wsmall 7
+KPX quotedblright.cap Aacutesmall -16
+KPX quotedblright.cap Oacutesmall -3
+
+KPX guilsinglright A.cap -16
+KPX guilsinglright J.cap -9
+KPX guilsinglright M.cap -16
+KPX guilsinglright S.cap -19
+KPX guilsinglright T.cap -45
+KPX guilsinglright V.cap -22
+KPX guilsinglright W.cap -19
+KPX guilsinglright X.cap -17
+KPX guilsinglright Y.cap -57
+KPX guilsinglright Z.cap -9
+KPX guilsinglright Asmall -17
+KPX guilsinglright Jsmall -9
+KPX guilsinglright Msmall -16
+KPX guilsinglright Ssmall -19
+KPX guilsinglright Tsmall -45
+KPX guilsinglright Vsmall -22
+KPX guilsinglright Wsmall -19
+KPX guilsinglright Xsmall -17
+KPX guilsinglright Ysmall -54
+KPX guilsinglright Zsmall -9
+KPX guilsinglright Aacutesmall -16
+KPX guilsinglright Ydieresissmall -25
+
+KPX OEsmall Csmall -23
+KPX OEsmall Gsmall -19
+KPX OEsmall Osmall -11
+KPX OEsmall Qsmall -4
+KPX OEsmall Vsmall -3
+KPX OEsmall Wsmall -3
+
+KPX Ydieresis.cap comma -128
+KPX Ydieresis.cap hyphen.cap -85
+KPX Ydieresis.cap period -141
+KPX Ydieresis.cap A.cap -86
+KPX Ydieresis.cap C.cap -45
+KPX Ydieresis.cap G.cap -29
+KPX Ydieresis.cap J.cap -39
+KPX Ydieresis.cap M.cap -13
+KPX Ydieresis.cap O.cap -42
+KPX Ydieresis.cap Q.cap -45
+KPX Ydieresis.cap S.cap -16
+KPX Ydieresis.cap T.cap 6
+KPX Ydieresis.cap Asmall -56
+KPX Ydieresis.cap Csmall -44
+KPX Ydieresis.cap Gsmall -28
+KPX Ydieresis.cap Jsmall -24
+KPX Ydieresis.cap Msmall -26
+KPX Ydieresis.cap Osmall -36
+KPX Ydieresis.cap Qsmall -36
+KPX Ydieresis.cap Tsmall 4
+KPX Ydieresis.cap Ccedilla.cap -45
+KPX Ydieresis.cap AE.cap -123
+KPX Ydieresis.cap slash -14
+KPX Ydieresis.cap colon -7
+KPX Ydieresis.cap semicolon -11
+KPX Ydieresis.cap U.cap -1
+KPX Ydieresis.cap V.cap 2
+KPX Ydieresis.cap W.cap -2
+KPX Ydieresis.cap X.cap -1
+KPX Ydieresis.cap Y.cap 2
+KPX Ydieresis.cap Bsmall -4
+KPX Ydieresis.cap Dsmall -4
+KPX Ydieresis.cap Esmall -4
+KPX Ydieresis.cap Fsmall -4
+KPX Ydieresis.cap Hsmall -4
+KPX Ydieresis.cap Ismall -4
+KPX Ydieresis.cap Ksmall -4
+KPX Ydieresis.cap Lsmall -4
+KPX Ydieresis.cap Nsmall -4
+KPX Ydieresis.cap Psmall -4
+KPX Ydieresis.cap Rsmall -4
+KPX Ydieresis.cap Ssmall -6
+KPX Ydieresis.cap Usmall -2
+KPX Ydieresis.cap Oslash.cap -10
+KPX Ydieresis.cap guillemotleft -8
+KPX Ydieresis.cap OE.cap -10
+KPX Ydieresis.cap guilsinglleft -8
+
+KPX exclamdown V.cap -28
+KPX exclamdown Y.cap -22
+KPX exclamdown Vsmall -28
+KPX exclamdown Ysmall -22
+
+KPX guillemotleft T.cap -47
+KPX guillemotleft V.cap -19
+KPX guillemotleft X.cap -16
+KPX guillemotleft Y.cap -32
+KPX guillemotleft Tsmall -41
+KPX guillemotleft Vsmall -19
+KPX guillemotleft Xsmall -16
+KPX guillemotleft Ysmall -32
+KPX guillemotleft Ydieresissmall -32
+
+KPX guillemotright A.cap -16
+KPX guillemotright J.cap -9
+KPX guillemotright M.cap -16
+KPX guillemotright S.cap -19
+KPX guillemotright T.cap -48
+KPX guillemotright V.cap -22
+KPX guillemotright W.cap -19
+KPX guillemotright X.cap -17
+KPX guillemotright Y.cap -54
+KPX guillemotright Z.cap -9
+KPX guillemotright Asmall -20
+KPX guillemotright Jsmall -9
+KPX guillemotright Msmall -16
+KPX guillemotright Ssmall -19
+KPX guillemotright Tsmall -45
+KPX guillemotright Vsmall -22
+KPX guillemotright Wsmall -19
+KPX guillemotright Xsmall -17
+KPX guillemotright Ysmall -54
+KPX guillemotright Zsmall -9
+KPX guillemotright Ydieresissmall -32
+
+KPX questiondown A.cap -28
+KPX questiondown C.cap -13
+KPX questiondown G.cap -6
+KPX questiondown T.cap -25
+KPX questiondown U.cap -16
+KPX questiondown V.cap -22
+KPX questiondown W.cap -16
+KPX questiondown Y.cap -22
+KPX questiondown Asmall -22
+KPX questiondown Csmall -13
+KPX questiondown Gsmall -6
+KPX questiondown Tsmall -25
+KPX questiondown Usmall -16
+KPX questiondown Vsmall -22
+KPX questiondown Wsmall -16
+KPX questiondown Ysmall -22
+KPX questiondown Ccedilla.cap -13
+
+KPX Agrave.cap comma 22
+KPX Agrave.cap C.cap -32
+KPX Agrave.cap G.cap -31
+KPX Agrave.cap O.cap -28
+KPX Agrave.cap Q.cap -31
+KPX Agrave.cap T.cap -77
+KPX Agrave.cap U.cap -22
+KPX Agrave.cap V.cap -68
+KPX Agrave.cap W.cap -58
+KPX Agrave.cap X.cap -13
+KPX Agrave.cap Y.cap -99
+KPX Agrave.cap Z.cap -9
+KPX Agrave.cap Csmall -8
+KPX Agrave.cap Gsmall -4
+KPX Agrave.cap Tsmall -34
+KPX Agrave.cap Usmall -11
+KPX Agrave.cap Vsmall -32
+KPX Agrave.cap Wsmall -24
+KPX Agrave.cap Ysmall -60
+KPX Agrave.cap Ccedilla.cap -25
+KPX Agrave.cap Ccedillasmall -8
+KPX Agrave.cap guillemotleft -12
+KPX Agrave.cap OE.cap -21
+KPX Agrave.cap hyphen.cap -6
+KPX Agrave.cap question -6
+KPX Agrave.cap J.cap 3
+KPX Agrave.cap S.cap -1
+KPX Agrave.cap quotedblleft.cap -18
+KPX Agrave.cap quotedblright.cap -12
+KPX Agrave.cap quoteleft.cap -16
+KPX Agrave.cap quoteright.cap -11
+KPX Agrave.cap guilsinglleft -3
+
+KPX Aacute.cap C.cap -32
+KPX Aacute.cap G.cap -31
+KPX Aacute.cap O.cap -28
+KPX Aacute.cap Q.cap -31
+KPX Aacute.cap T.cap -77
+KPX Aacute.cap U.cap -22
+KPX Aacute.cap V.cap -68
+KPX Aacute.cap W.cap -58
+KPX Aacute.cap X.cap -13
+KPX Aacute.cap Y.cap -99
+KPX Aacute.cap Z.cap -9
+KPX Aacute.cap Csmall -8
+KPX Aacute.cap Gsmall -4
+KPX Aacute.cap Tsmall -32
+KPX Aacute.cap Usmall -11
+KPX Aacute.cap Vsmall -33
+KPX Aacute.cap Wsmall -24
+KPX Aacute.cap Ysmall -60
+KPX Aacute.cap Ccedilla.cap -32
+KPX Aacute.cap comma 3
+KPX Aacute.cap J.cap 3
+KPX Aacute.cap S.cap -1
+
+KPX Acircumflex.cap C.cap -32
+KPX Acircumflex.cap G.cap -31
+KPX Acircumflex.cap O.cap -28
+KPX Acircumflex.cap Q.cap -31
+KPX Acircumflex.cap T.cap -77
+KPX Acircumflex.cap U.cap -22
+KPX Acircumflex.cap V.cap -68
+KPX Acircumflex.cap W.cap -58
+KPX Acircumflex.cap X.cap -13
+KPX Acircumflex.cap Y.cap -99
+KPX Acircumflex.cap Z.cap -9
+KPX Acircumflex.cap Csmall -8
+KPX Acircumflex.cap Gsmall -4
+KPX Acircumflex.cap Tsmall -41
+KPX Acircumflex.cap Usmall -11
+KPX Acircumflex.cap Vsmall -32
+KPX Acircumflex.cap Wsmall -24
+KPX Acircumflex.cap Ccedilla.cap -32
+KPX Acircumflex.cap Ccedillasmall -8
+KPX Acircumflex.cap OE.cap -28
+KPX Acircumflex.cap comma 3
+KPX Acircumflex.cap hyphen.cap -6
+KPX Acircumflex.cap J.cap 3
+KPX Acircumflex.cap S.cap -1
+KPX Acircumflex.cap Ysmall -13
+
+KPX Atilde.cap C.cap -32
+KPX Atilde.cap G.cap -31
+KPX Atilde.cap O.cap -28
+KPX Atilde.cap Q.cap -37
+KPX Atilde.cap T.cap -77
+KPX Atilde.cap V.cap -68
+KPX Atilde.cap W.cap -58
+KPX Atilde.cap X.cap -13
+KPX Atilde.cap Y.cap -99
+KPX Atilde.cap Z.cap -9
+KPX Atilde.cap Csmall -8
+KPX Atilde.cap Gsmall -4
+KPX Atilde.cap Tsmall -48
+KPX Atilde.cap Usmall -11
+KPX Atilde.cap Vsmall -33
+KPX Atilde.cap Wsmall -24
+KPX Atilde.cap Ysmall -62
+KPX Atilde.cap Ccedilla.cap -31
+KPX Atilde.cap comma 3
+KPX Atilde.cap hyphen.cap -6
+KPX Atilde.cap question -6
+KPX Atilde.cap J.cap 3
+KPX Atilde.cap S.cap -1
+KPX Atilde.cap U.cap -6
+KPX Atilde.cap OE.cap -5
+
+KPX Adieresis.cap comma 19
+KPX Adieresis.cap C.cap -32
+KPX Adieresis.cap G.cap -31
+KPX Adieresis.cap O.cap -28
+KPX Adieresis.cap Q.cap -31
+KPX Adieresis.cap T.cap -77
+KPX Adieresis.cap U.cap -22
+KPX Adieresis.cap V.cap -68
+KPX Adieresis.cap W.cap -58
+KPX Adieresis.cap X.cap -13
+KPX Adieresis.cap Y.cap -99
+KPX Adieresis.cap Z.cap -9
+KPX Adieresis.cap Csmall -8
+KPX Adieresis.cap Gsmall -4
+KPX Adieresis.cap Tsmall -32
+KPX Adieresis.cap Usmall -11
+KPX Adieresis.cap Vsmall -32
+KPX Adieresis.cap Wsmall -24
+KPX Adieresis.cap Ysmall -60
+KPX Adieresis.cap Ccedilla.cap -32
+KPX Adieresis.cap Odieresis.cap -28
+KPX Adieresis.cap Udieresis.cap -22
+KPX Adieresis.cap guillemotleft -12
+KPX Adieresis.cap quotedblleft.cap -87
+KPX Adieresis.cap quotedblright.cap -37
+KPX Adieresis.cap quoteleft.cap -86
+KPX Adieresis.cap quoteright.cap -43
+KPX Adieresis.cap guilsinglleft -12
+KPX Adieresis.cap hyphen.cap -6
+KPX Adieresis.cap J.cap 3
+KPX Adieresis.cap S.cap -1
+
+KPX Aring.cap C.cap -32
+KPX Aring.cap G.cap -31
+KPX Aring.cap O.cap -28
+KPX Aring.cap Q.cap -31
+KPX Aring.cap T.cap -77
+KPX Aring.cap U.cap -22
+KPX Aring.cap V.cap -68
+KPX Aring.cap W.cap -58
+KPX Aring.cap X.cap -13
+KPX Aring.cap Y.cap -99
+KPX Aring.cap Z.cap -9
+KPX Aring.cap Csmall -8
+KPX Aring.cap Gsmall -4
+KPX Aring.cap Tsmall -36
+KPX Aring.cap Usmall -11
+KPX Aring.cap Vsmall -33
+KPX Aring.cap Wsmall -24
+KPX Aring.cap Ysmall -61
+KPX Aring.cap Ccedilla.cap -25
+KPX Aring.cap guillemotleft -9
+KPX Aring.cap guilsinglleft -9
+KPX Aring.cap hyphen.cap -6
+KPX Aring.cap J.cap 3
+KPX Aring.cap S.cap -1
+KPX Aring.cap Oslash.cap -5
+
+KPX AE.cap A.cap -13
+KPX AE.cap O.cap -23
+KPX AE.cap Q.cap -23
+KPX AE.cap W.cap -9
+KPX AE.cap C.cap -4
+KPX AE.cap G.cap -4
+KPX AE.cap V.cap -3
+KPX AE.cap Y.cap -3
+KPX AE.cap Otilde.cap -4
+
+KPX Ccedilla.cap hyphen.cap -26
+KPX Ccedilla.cap C.cap -17
+KPX Ccedilla.cap O.cap -14
+KPX Ccedilla.cap Q.cap -14
+KPX Ccedilla.cap V.cap 9
+KPX Ccedilla.cap Z.cap 16
+KPX Ccedilla.cap Osmall -6
+KPX Ccedilla.cap Odieresis.cap -13
+KPX Ccedilla.cap Ocircumflexsmall -9
+KPX Ccedilla.cap AE.cap 19
+KPX Ccedilla.cap guillemotleft -16
+KPX Ccedilla.cap guilsinglleft -16
+KPX Ccedilla.cap comma 3
+KPX Ccedilla.cap G.cap -4
+KPX Ccedilla.cap Ccedilla.cap -5
+KPX Ccedilla.cap Oslash.cap -4
+KPX Ccedilla.cap OE.cap -4
+KPX Ccedilla.cap Oacute.cap -4
+KPX Ccedilla.cap Ocircumflex.cap -4
+KPX Ccedilla.cap Ograve.cap -4
+
+KPX Egrave.cap A.cap -13
+KPX Egrave.cap O.cap -23
+KPX Egrave.cap Q.cap -23
+KPX Egrave.cap W.cap -9
+KPX Egrave.cap Csmall -20
+KPX Egrave.cap Gsmall -8
+KPX Egrave.cap Osmall -8
+KPX Egrave.cap Qsmall -8
+KPX Egrave.cap Ccedillasmall -20
+KPX Egrave.cap C.cap -4
+KPX Egrave.cap G.cap -4
+KPX Egrave.cap V.cap -3
+KPX Egrave.cap Y.cap -3
+KPX Egrave.cap Ccedilla.cap -4
+
+KPX Eacute.cap A.cap -13
+KPX Eacute.cap O.cap -23
+KPX Eacute.cap Q.cap -23
+KPX Eacute.cap W.cap -9
+KPX Eacute.cap Csmall -20
+KPX Eacute.cap Gsmall -8
+KPX Eacute.cap Osmall -8
+KPX Eacute.cap Qsmall -8
+KPX Eacute.cap Ccedillasmall -20
+KPX Eacute.cap C.cap -4
+KPX Eacute.cap G.cap -4
+KPX Eacute.cap V.cap -3
+KPX Eacute.cap Y.cap -3
+KPX Eacute.cap Ccedilla.cap -4
+KPX Eacute.cap OE.cap -4
+
+KPX Ecircumflex.cap A.cap -13
+KPX Ecircumflex.cap O.cap -23
+KPX Ecircumflex.cap Q.cap -23
+KPX Ecircumflex.cap W.cap -9
+KPX Ecircumflex.cap Csmall -20
+KPX Ecircumflex.cap Gsmall -8
+KPX Ecircumflex.cap Osmall -8
+KPX Ecircumflex.cap Qsmall -8
+KPX Ecircumflex.cap Ccedillasmall -20
+KPX Ecircumflex.cap C.cap -4
+KPX Ecircumflex.cap G.cap -4
+KPX Ecircumflex.cap V.cap -3
+KPX Ecircumflex.cap Y.cap -3
+KPX Ecircumflex.cap Ccedilla.cap -4
+KPX Ecircumflex.cap OE.cap -4
+
+KPX Edieresis.cap A.cap -13
+KPX Edieresis.cap O.cap -23
+KPX Edieresis.cap Q.cap -23
+KPX Edieresis.cap W.cap -9
+KPX Edieresis.cap Csmall -20
+KPX Edieresis.cap Gsmall -8
+KPX Edieresis.cap Osmall -8
+KPX Edieresis.cap Qsmall -8
+KPX Edieresis.cap Ccedillasmall -20
+KPX Edieresis.cap C.cap -4
+KPX Edieresis.cap G.cap -4
+KPX Edieresis.cap V.cap -3
+KPX Edieresis.cap Y.cap -3
+KPX Edieresis.cap Bsmall 4
+KPX Edieresis.cap Dsmall 4
+KPX Edieresis.cap Esmall 4
+KPX Edieresis.cap Fsmall 4
+KPX Edieresis.cap Hsmall 4
+KPX Edieresis.cap Ismall 4
+KPX Edieresis.cap Ksmall 4
+KPX Edieresis.cap Lsmall 4
+KPX Edieresis.cap Msmall 4
+KPX Edieresis.cap Nsmall 4
+KPX Edieresis.cap Psmall 4
+KPX Edieresis.cap Rsmall 4
+KPX Edieresis.cap Ssmall 2
+KPX Edieresis.cap Usmall 2
+KPX Edieresis.cap Wsmall 2
+KPX Edieresis.cap Ssmall_Ssmall 2
+KPX Edieresis.cap Fsmall_Ismall 4
+KPX Edieresis.cap Fsmall_Lsmall 4
+
+KPX Igrave.cap B.cap 16
+KPX Igrave.cap D.cap 16
+KPX Igrave.cap E.cap 16
+KPX Igrave.cap F.cap 16
+KPX Igrave.cap H.cap 16
+KPX Igrave.cap K.cap 16
+KPX Igrave.cap L.cap 16
+KPX Igrave.cap M.cap 7
+KPX Igrave.cap N.cap 16
+KPX Igrave.cap P.cap 16
+KPX Igrave.cap R.cap 16
+KPX Igrave.cap I.cap 3
+KPX Igrave.cap U.cap 3
+KPX Igrave.cap Z.cap 3
+
+KPX Iacute.cap B.cap 16
+KPX Iacute.cap D.cap 16
+KPX Iacute.cap E.cap 16
+KPX Iacute.cap F.cap 16
+KPX Iacute.cap H.cap 16
+KPX Iacute.cap K.cap 16
+KPX Iacute.cap L.cap 16
+KPX Iacute.cap M.cap 7
+KPX Iacute.cap N.cap 16
+KPX Iacute.cap P.cap 16
+KPX Iacute.cap R.cap 16
+KPX Iacute.cap I.cap 3
+KPX Iacute.cap U.cap 3
+KPX Iacute.cap Z.cap 3
+KPX Iacute.cap Eacute.cap 3
+
+KPX Icircumflex.cap B.cap 13
+KPX Icircumflex.cap D.cap 13
+KPX Icircumflex.cap E.cap 16
+KPX Icircumflex.cap F.cap 16
+KPX Icircumflex.cap H.cap 16
+KPX Icircumflex.cap K.cap 16
+KPX Icircumflex.cap L.cap 16
+KPX Icircumflex.cap M.cap 7
+KPX Icircumflex.cap N.cap 16
+KPX Icircumflex.cap P.cap 16
+KPX Icircumflex.cap R.cap 16
+KPX Icircumflex.cap I.cap 3
+KPX Icircumflex.cap U.cap 3
+KPX Icircumflex.cap Z.cap 3
+
+KPX Idieresis.cap B.cap 16
+KPX Idieresis.cap D.cap 16
+KPX Idieresis.cap E.cap 16
+KPX Idieresis.cap F.cap 16
+KPX Idieresis.cap H.cap 16
+KPX Idieresis.cap K.cap 16
+KPX Idieresis.cap L.cap 16
+KPX Idieresis.cap M.cap 7
+KPX Idieresis.cap N.cap 16
+KPX Idieresis.cap P.cap 16
+KPX Idieresis.cap R.cap 16
+KPX Idieresis.cap I.cap 3
+KPX Idieresis.cap U.cap 3
+KPX Idieresis.cap Z.cap 3
+
+KPX Ntilde.cap B.cap 16
+KPX Ntilde.cap D.cap 16
+KPX Ntilde.cap E.cap 16
+KPX Ntilde.cap F.cap 16
+KPX Ntilde.cap H.cap 16
+KPX Ntilde.cap I.cap 16
+KPX Ntilde.cap K.cap 16
+KPX Ntilde.cap L.cap 16
+KPX Ntilde.cap M.cap 7
+KPX Ntilde.cap N.cap 16
+KPX Ntilde.cap P.cap 16
+KPX Ntilde.cap R.cap 16
+KPX Ntilde.cap Ntilde.cap 16
+KPX Ntilde.cap U.cap 3
+KPX Ntilde.cap Z.cap 3
+KPX Ntilde.cap Eacute.cap 3
+
+KPX Ograve.cap comma -41
+KPX Ograve.cap period -52
+KPX Ograve.cap A.cap -28
+KPX Ograve.cap T.cap -26
+KPX Ograve.cap V.cap -14
+KPX Ograve.cap W.cap -8
+KPX Ograve.cap X.cap -31
+KPX Ograve.cap Y.cap -36
+KPX Ograve.cap Z.cap -13
+KPX Ograve.cap Jsmall -8
+KPX Ograve.cap J.cap -4
+KPX Ograve.cap Asmall -4
+KPX Ograve.cap Xsmall -8
+
+KPX Oacute.cap comma -41
+KPX Oacute.cap period -52
+KPX Oacute.cap A.cap -28
+KPX Oacute.cap T.cap -26
+KPX Oacute.cap V.cap -14
+KPX Oacute.cap W.cap -8
+KPX Oacute.cap X.cap -31
+KPX Oacute.cap Y.cap -36
+KPX Oacute.cap Z.cap -13
+KPX Oacute.cap Jsmall -8
+KPX Oacute.cap slash -4
+KPX Oacute.cap J.cap -4
+KPX Oacute.cap Asmall -4
+KPX Oacute.cap Xsmall -5
+
+KPX Ocircumflex.cap comma -41
+KPX Ocircumflex.cap period -52
+KPX Ocircumflex.cap A.cap -28
+KPX Ocircumflex.cap T.cap -26
+KPX Ocircumflex.cap V.cap -14
+KPX Ocircumflex.cap W.cap -8
+KPX Ocircumflex.cap X.cap -31
+KPX Ocircumflex.cap Y.cap -36
+KPX Ocircumflex.cap Z.cap -13
+KPX Ocircumflex.cap Jsmall -8
+KPX Ocircumflex.cap slash -4
+KPX Ocircumflex.cap J.cap -4
+KPX Ocircumflex.cap Asmall -2
+KPX Ocircumflex.cap Xsmall -4
+
+KPX Otilde.cap comma -41
+KPX Otilde.cap T.cap -26
+KPX Otilde.cap V.cap -14
+KPX Otilde.cap W.cap -8
+KPX Otilde.cap X.cap -31
+KPX Otilde.cap Y.cap -36
+KPX Otilde.cap Z.cap -13
+KPX Otilde.cap Jsmall -8
+KPX Otilde.cap period -5
+KPX Otilde.cap slash -4
+KPX Otilde.cap A.cap -7
+KPX Otilde.cap J.cap -4
+KPX Otilde.cap Asmall -4
+KPX Otilde.cap Xsmall -7
+
+KPX Odieresis.cap comma -41
+KPX Odieresis.cap hyphen.cap 3
+KPX Odieresis.cap period -52
+KPX Odieresis.cap A.cap -28
+KPX Odieresis.cap J.cap -14
+KPX Odieresis.cap T.cap -26
+KPX Odieresis.cap V.cap -14
+KPX Odieresis.cap W.cap -8
+KPX Odieresis.cap X.cap -31
+KPX Odieresis.cap Y.cap -36
+KPX Odieresis.cap Z.cap -13
+KPX Odieresis.cap Jsmall -8
+KPX Odieresis.cap Adieresis.cap -28
+KPX Odieresis.cap quotedblleft.cap -13
+KPX Odieresis.cap quoteleft.cap -16
+KPX Odieresis.cap slash -4
+KPX Odieresis.cap Asmall -4
+KPX Odieresis.cap Xsmall -4
+KPX Odieresis.cap Adieresissmall -4
+
+KPX Oslash.cap comma -41
+KPX Oslash.cap period -52
+KPX Oslash.cap A.cap -25
+KPX Oslash.cap T.cap -14
+KPX Oslash.cap X.cap -21
+KPX Oslash.cap Y.cap -24
+KPX Oslash.cap Z.cap -9
+KPX Oslash.cap slash -4
+KPX Oslash.cap V.cap -5
+KPX Oslash.cap W.cap -2
+KPX Oslash.cap Asmall -3
+KPX Oslash.cap Xsmall -4
+KPX Oslash.cap Adieresis.cap -5
+KPX Oslash.cap Aring.cap -2
+
+KPX Ugrave.cap A.cap -22
+KPX Ugrave.cap J.cap -13
+KPX Ugrave.cap comma -3
+KPX Ugrave.cap period -4
+KPX Ugrave.cap slash -4
+KPX Ugrave.cap B.cap 2
+KPX Ugrave.cap D.cap 2
+KPX Ugrave.cap E.cap 2
+KPX Ugrave.cap F.cap 2
+KPX Ugrave.cap H.cap 2
+KPX Ugrave.cap I.cap 2
+KPX Ugrave.cap K.cap 2
+KPX Ugrave.cap L.cap 2
+KPX Ugrave.cap M.cap 1
+KPX Ugrave.cap N.cap 2
+KPX Ugrave.cap P.cap 2
+KPX Ugrave.cap R.cap 2
+KPX Ugrave.cap V.cap -3
+KPX Ugrave.cap W.cap -1
+KPX Ugrave.cap X.cap -2
+KPX Ugrave.cap Y.cap -3
+KPX Ugrave.cap Asmall -4
+
+KPX Uacute.cap A.cap -22
+KPX Uacute.cap J.cap -13
+KPX Uacute.cap X.cap -11
+KPX Uacute.cap comma -3
+KPX Uacute.cap period -4
+KPX Uacute.cap slash -4
+KPX Uacute.cap B.cap 2
+KPX Uacute.cap D.cap 2
+KPX Uacute.cap E.cap 2
+KPX Uacute.cap F.cap 2
+KPX Uacute.cap H.cap 2
+KPX Uacute.cap I.cap 2
+KPX Uacute.cap K.cap 2
+KPX Uacute.cap L.cap 2
+KPX Uacute.cap M.cap 1
+KPX Uacute.cap N.cap 2
+KPX Uacute.cap P.cap 2
+KPX Uacute.cap R.cap 2
+KPX Uacute.cap V.cap -3
+KPX Uacute.cap W.cap -1
+KPX Uacute.cap Asmall -4
+KPX Uacute.cap AE.cap -5
+
+KPX Ucircumflex.cap A.cap -22
+KPX Ucircumflex.cap J.cap -13
+KPX Ucircumflex.cap X.cap -11
+KPX Ucircumflex.cap comma -3
+KPX Ucircumflex.cap period -4
+KPX Ucircumflex.cap slash -4
+KPX Ucircumflex.cap B.cap 2
+KPX Ucircumflex.cap D.cap 2
+KPX Ucircumflex.cap E.cap 2
+KPX Ucircumflex.cap F.cap 2
+KPX Ucircumflex.cap H.cap 2
+KPX Ucircumflex.cap I.cap 2
+KPX Ucircumflex.cap K.cap 2
+KPX Ucircumflex.cap L.cap 2
+KPX Ucircumflex.cap M.cap 1
+KPX Ucircumflex.cap N.cap 2
+KPX Ucircumflex.cap P.cap 2
+KPX Ucircumflex.cap R.cap 2
+KPX Ucircumflex.cap V.cap -3
+KPX Ucircumflex.cap W.cap -1
+KPX Ucircumflex.cap Asmall -5
+KPX Ucircumflex.cap AE.cap -5
+
+KPX Udieresis.cap A.cap -22
+KPX Udieresis.cap J.cap -13
+KPX Udieresis.cap X.cap -9
+KPX Udieresis.cap Y.cap 3
+KPX Udieresis.cap comma -3
+KPX Udieresis.cap period -4
+KPX Udieresis.cap slash -4
+KPX Udieresis.cap B.cap 2
+KPX Udieresis.cap D.cap 2
+KPX Udieresis.cap E.cap 2
+KPX Udieresis.cap F.cap 2
+KPX Udieresis.cap H.cap 2
+KPX Udieresis.cap I.cap 2
+KPX Udieresis.cap K.cap 2
+KPX Udieresis.cap L.cap 2
+KPX Udieresis.cap M.cap 1
+KPX Udieresis.cap N.cap 2
+KPX Udieresis.cap P.cap 2
+KPX Udieresis.cap R.cap 2
+KPX Udieresis.cap V.cap -3
+KPX Udieresis.cap W.cap -1
+KPX Udieresis.cap Asmall -3
+KPX Udieresis.cap Adieresis.cap -6
+
+KPX Ssmall_Ssmall comma -16
+KPX Ssmall_Ssmall period -15
+KPX Ssmall_Ssmall Ysmall -13
+KPX Ssmall_Ssmall quotedblleft.cap -32
+KPX Ssmall_Ssmall quotedblright.cap -21
+KPX Ssmall_Ssmall Asmall -4
+KPX Ssmall_Ssmall Tsmall -3
+KPX Ssmall_Ssmall Vsmall -2
+
+KPX Agravesmall comma 19
+KPX Agravesmall Csmall -30
+KPX Agravesmall Gsmall -29
+KPX Agravesmall Osmall -28
+KPX Agravesmall Qsmall -28
+KPX Agravesmall Tsmall -63
+KPX Agravesmall Usmall -25
+KPX Agravesmall Vsmall -47
+KPX Agravesmall Wsmall -44
+KPX Agravesmall Xsmall -9
+KPX Agravesmall Ysmall -73
+KPX Agravesmall Zsmall -9
+KPX Agravesmall Ccedillasmall -29
+KPX Agravesmall Jsmall 3
+KPX Agravesmall Ssmall -1
+
+KPX Aacutesmall comma 19
+KPX Aacutesmall Csmall -30
+KPX Aacutesmall Gsmall -29
+KPX Aacutesmall Osmall -28
+KPX Aacutesmall Qsmall -28
+KPX Aacutesmall Tsmall -63
+KPX Aacutesmall Usmall -29
+KPX Aacutesmall Vsmall -47
+KPX Aacutesmall Wsmall -44
+KPX Aacutesmall Xsmall -9
+KPX Aacutesmall Ysmall -76
+KPX Aacutesmall Zsmall -9
+KPX Aacutesmall Jsmall 3
+KPX Aacutesmall Ssmall -1
+KPX Aacutesmall Ccedillasmall -4
+
+KPX Acircumflexsmall Csmall -30
+KPX Acircumflexsmall Gsmall -29
+KPX Acircumflexsmall Osmall -28
+KPX Acircumflexsmall Qsmall -28
+KPX Acircumflexsmall Tsmall -63
+KPX Acircumflexsmall Usmall -25
+KPX Acircumflexsmall Vsmall -47
+KPX Acircumflexsmall Wsmall -44
+KPX Acircumflexsmall Xsmall -9
+KPX Acircumflexsmall Ysmall -73
+KPX Acircumflexsmall Zsmall -9
+KPX Acircumflexsmall Ccedillasmall -28
+KPX Acircumflexsmall Jsmall 3
+KPX Acircumflexsmall Ssmall -1
+
+KPX Atildesmall Csmall -30
+KPX Atildesmall Gsmall -29
+KPX Atildesmall Osmall -28
+KPX Atildesmall Qsmall -28
+KPX Atildesmall Tsmall -63
+KPX Atildesmall Usmall -25
+KPX Atildesmall Vsmall -47
+KPX Atildesmall Wsmall -44
+KPX Atildesmall Xsmall -9
+KPX Atildesmall Ysmall -73
+KPX Atildesmall Jsmall 3
+KPX Atildesmall Ssmall -1
+
+KPX Adieresissmall Csmall -30
+KPX Adieresissmall Gsmall -29
+KPX Adieresissmall Osmall -28
+KPX Adieresissmall Qsmall -28
+KPX Adieresissmall Tsmall -63
+KPX Adieresissmall Usmall -25
+KPX Adieresissmall Vsmall -47
+KPX Adieresissmall Wsmall -44
+KPX Adieresissmall Xsmall -9
+KPX Adieresissmall Ysmall -73
+KPX Adieresissmall Zsmall -9
+KPX Adieresissmall Odieresissmall -28
+KPX Adieresissmall quotedblleft.cap -38
+KPX Adieresissmall quoteleft.cap -66
+KPX Adieresissmall Jsmall 3
+KPX Adieresissmall Ssmall -1
+
+KPX Aringsmall Csmall -30
+KPX Aringsmall Gsmall -29
+KPX Aringsmall Osmall -28
+KPX Aringsmall Qsmall -28
+KPX Aringsmall Tsmall -63
+KPX Aringsmall Usmall -25
+KPX Aringsmall Vsmall -47
+KPX Aringsmall Wsmall -44
+KPX Aringsmall Xsmall -9
+KPX Aringsmall Ysmall -73
+KPX Aringsmall Zsmall -9
+KPX Aringsmall Oslashsmall -21
+KPX Aringsmall Jsmall 3
+KPX Aringsmall Ssmall -1
+
+KPX AEsmall Csmall -23
+KPX AEsmall Gsmall -19
+KPX AEsmall Msmall -6
+KPX AEsmall Osmall -17
+KPX AEsmall Qsmall -17
+KPX AEsmall Usmall -3
+KPX AEsmall Wsmall -9
+KPX AEsmall Vsmall -3
+
+KPX Ccedillasmall hyphen.cap -20
+KPX Ccedillasmall question 8
+KPX Ccedillasmall Csmall -21
+KPX Ccedillasmall Gsmall -14
+KPX Ccedillasmall Osmall -12
+KPX Ccedillasmall Qsmall -12
+KPX Ccedillasmall Vsmall 9
+KPX Ccedillasmall braceright.cap 37
+KPX Ccedillasmall Ocircumflexsmall -11
+KPX Ccedillasmall guillemotleft -16
+KPX Ccedillasmall quotedblright.cap 13
+KPX Ccedillasmall quoteright.cap 26
+KPX Ccedillasmall guilsinglleft -16
+KPX Ccedillasmall Jsmall 2
+
+KPX Egravesmall Ccedillasmall -23
+KPX Egravesmall Csmall -4
+KPX Egravesmall Gsmall -4
+KPX Egravesmall Osmall -4
+KPX Egravesmall Qsmall -4
+KPX Egravesmall Vsmall -3
+KPX Egravesmall Wsmall -3
+
+KPX Eacutesmall Asmall -3
+KPX Eacutesmall Csmall -10
+KPX Eacutesmall Gsmall -11
+KPX Eacutesmall Msmall -6
+KPX Eacutesmall Osmall -8
+KPX Eacutesmall Wsmall -9
+KPX Eacutesmall Qsmall -4
+KPX Eacutesmall Vsmall -3
+KPX Eacutesmall Ccedillasmall -4
+
+KPX Ecircumflexsmall Asmall -3
+KPX Ecircumflexsmall Csmall -20
+KPX Ecircumflexsmall Gsmall -12
+KPX Ecircumflexsmall Osmall -11
+KPX Ecircumflexsmall Qsmall -11
+KPX Ecircumflexsmall Ccedillasmall -22
+KPX Ecircumflexsmall Vsmall -3
+KPX Ecircumflexsmall Wsmall -3
+
+KPX Edieresissmall Csmall -17
+KPX Edieresissmall Gsmall -15
+KPX Edieresissmall Osmall -11
+KPX Edieresissmall Ccedillasmall -19
+KPX Edieresissmall Qsmall -4
+KPX Edieresissmall Vsmall -3
+KPX Edieresissmall Wsmall -3
+
+KPX Ogravesmall comma -36
+KPX Ogravesmall period -47
+KPX Ogravesmall Asmall -21
+KPX Ogravesmall Jsmall -17
+KPX Ogravesmall Tsmall -22
+KPX Ogravesmall Vsmall -14
+KPX Ogravesmall Wsmall -8
+KPX Ogravesmall Xsmall -25
+KPX Ogravesmall Ysmall -33
+KPX Ogravesmall Zsmall -13
+
+KPX Oacutesmall comma -36
+KPX Oacutesmall period -47
+KPX Oacutesmall Asmall -28
+KPX Oacutesmall Jsmall -17
+KPX Oacutesmall Tsmall -22
+KPX Oacutesmall Vsmall -14
+KPX Oacutesmall Wsmall -8
+KPX Oacutesmall Xsmall -25
+KPX Oacutesmall Ysmall -33
+KPX Oacutesmall Zsmall -13
+
+KPX Ocircumflexsmall comma -36
+KPX Ocircumflexsmall period -47
+KPX Ocircumflexsmall Asmall -28
+KPX Ocircumflexsmall Jsmall -17
+KPX Ocircumflexsmall Tsmall -22
+KPX Ocircumflexsmall Vsmall -14
+KPX Ocircumflexsmall Wsmall -8
+KPX Ocircumflexsmall Xsmall -25
+KPX Ocircumflexsmall Ysmall -33
+KPX Ocircumflexsmall Zsmall -13
+
+KPX Otildesmall comma -36
+KPX Otildesmall period -47
+KPX Otildesmall Asmall -28
+KPX Otildesmall Jsmall -17
+KPX Otildesmall Tsmall -22
+KPX Otildesmall Vsmall -14
+KPX Otildesmall Wsmall -8
+KPX Otildesmall Xsmall -25
+KPX Otildesmall Ysmall -33
+KPX Otildesmall Zsmall -13
+
+KPX Odieresissmall comma -36
+KPX Odieresissmall period -47
+KPX Odieresissmall Asmall -28
+KPX Odieresissmall Jsmall -17
+KPX Odieresissmall Tsmall -22
+KPX Odieresissmall Vsmall -14
+KPX Odieresissmall Wsmall -8
+KPX Odieresissmall Xsmall -25
+KPX Odieresissmall Ysmall -33
+KPX Odieresissmall Zsmall -13
+KPX Odieresissmall Adieresissmall -28
+KPX Odieresissmall quotedblleft.cap -22
+KPX Odieresissmall quoteleft.cap -22
+
+KPX Oslashsmall comma -27
+KPX Oslashsmall period -47
+KPX Oslashsmall Asmall -27
+KPX Oslashsmall Jsmall -15
+KPX Oslashsmall Tsmall -22
+KPX Oslashsmall Vsmall -14
+KPX Oslashsmall Wsmall -8
+KPX Oslashsmall Xsmall -25
+KPX Oslashsmall Ysmall -33
+KPX Oslashsmall Zsmall -13
+
+KPX Ugravesmall comma -37
+KPX Ugravesmall period -40
+KPX Ugravesmall Asmall -24
+KPX Ugravesmall Jsmall -16
+KPX Ugravesmall Xsmall -11
+KPX Ugravesmall Bsmall 2
+KPX Ugravesmall Dsmall 2
+KPX Ugravesmall Esmall 2
+KPX Ugravesmall Fsmall 2
+KPX Ugravesmall Hsmall 2
+KPX Ugravesmall Ismall 2
+KPX Ugravesmall Ksmall 2
+KPX Ugravesmall Lsmall 2
+KPX Ugravesmall Msmall 1
+KPX Ugravesmall Nsmall 2
+KPX Ugravesmall Psmall 2
+KPX Ugravesmall Rsmall 2
+KPX Ugravesmall Wsmall -1
+KPX Ugravesmall Ysmall -3
+
+KPX Uacutesmall comma -37
+KPX Uacutesmall period -40
+KPX Uacutesmall Asmall -24
+KPX Uacutesmall Jsmall -16
+KPX Uacutesmall Xsmall -11
+KPX Uacutesmall Bsmall 2
+KPX Uacutesmall Dsmall 2
+KPX Uacutesmall Esmall 2
+KPX Uacutesmall Fsmall 2
+KPX Uacutesmall Hsmall 2
+KPX Uacutesmall Ismall 2
+KPX Uacutesmall Ksmall 2
+KPX Uacutesmall Lsmall 2
+KPX Uacutesmall Msmall 1
+KPX Uacutesmall Nsmall 2
+KPX Uacutesmall Psmall 2
+KPX Uacutesmall Rsmall 2
+KPX Uacutesmall Wsmall -1
+KPX Uacutesmall Ysmall -3
+
+KPX Ucircumflexsmall comma -37
+KPX Ucircumflexsmall period -40
+KPX Ucircumflexsmall Asmall -24
+KPX Ucircumflexsmall Jsmall -16
+KPX Ucircumflexsmall Xsmall -11
+KPX Ucircumflexsmall Bsmall 2
+KPX Ucircumflexsmall Dsmall 2
+KPX Ucircumflexsmall Esmall 2
+KPX Ucircumflexsmall Fsmall 2
+KPX Ucircumflexsmall Hsmall 2
+KPX Ucircumflexsmall Ismall 2
+KPX Ucircumflexsmall Ksmall 2
+KPX Ucircumflexsmall Lsmall 2
+KPX Ucircumflexsmall Msmall 1
+KPX Ucircumflexsmall Nsmall 2
+KPX Ucircumflexsmall Psmall 2
+KPX Ucircumflexsmall Rsmall 2
+KPX Ucircumflexsmall Wsmall -1
+KPX Ucircumflexsmall Ysmall -3
+
+KPX Udieresissmall comma -37
+KPX Udieresissmall period -40
+KPX Udieresissmall Asmall -24
+KPX Udieresissmall Jsmall -16
+KPX Udieresissmall Xsmall -11
+KPX Udieresissmall Bsmall 2
+KPX Udieresissmall Dsmall 2
+KPX Udieresissmall Esmall 2
+KPX Udieresissmall Fsmall 2
+KPX Udieresissmall Hsmall 2
+KPX Udieresissmall Ismall 2
+KPX Udieresissmall Ksmall 2
+KPX Udieresissmall Lsmall 2
+KPX Udieresissmall Msmall 1
+KPX Udieresissmall Nsmall 2
+KPX Udieresissmall Psmall 2
+KPX Udieresissmall Rsmall 2
+KPX Udieresissmall Wsmall -1
+KPX Udieresissmall Ysmall -3
+
+KPX Ydieresissmall comma -122
+KPX Ydieresissmall hyphen.cap -54
+KPX Ydieresissmall period -136
+KPX Ydieresissmall Asmall -69
+KPX Ydieresissmall Csmall -42
+KPX Ydieresissmall Gsmall -34
+KPX Ydieresissmall Jsmall -39
+KPX Ydieresissmall Msmall -13
+KPX Ydieresissmall Osmall -34
+KPX Ydieresissmall Qsmall -34
+KPX Ydieresissmall Ssmall -18
+KPX Ydieresissmall Tsmall 6
+KPX Ydieresissmall guillemotleft -44
+KPX Ydieresissmall guillemotright -32
+KPX Ydieresissmall guilsinglleft -44
+KPX Ydieresissmall guilsinglright -32
+KPX Ydieresissmall Usmall -1
+KPX Ydieresissmall Ssmall_Ssmall -5
+KPX Ydieresissmall quotedblleft.cap 7
+KPX Ydieresissmall quotedblright.cap 8
+
+EndKernPairs
+EndKernData
+EndFontMetrics

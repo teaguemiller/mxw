@@ -1,0 +1,23 @@
+FontName (ChaletBook-BoldItalic)
+FullName (ChaletBook Bold Italic)
+FamilyName (ChaletBook)
+Version (001.000)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -12
+CapHeight 680
+UnderlinePosition -59
+UnderlineThickness 8
+StemWidth 93
+Serif false
+AppleName (ChaletBook BoldItalic)
+MSMenuName (ChaletBook)
+VPMenuName (ChaletBook)
+WORDMenuName (ChaletBook)
+AppleFONDID 128
+VPStyle (T)
+WindowsCharSet 200
+WindowsFirstChar 32
+WindowsLastChar 255

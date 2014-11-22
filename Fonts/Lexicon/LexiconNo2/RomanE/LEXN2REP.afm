@@ -1,0 +1,84 @@
+StartFontMetrics 2.0
+Comment UniqueID 5013386
+Comment Panose 2 0 0 0 8 0 0 2 0 4
+FullName LexiconNo2RomanE-Pi
+FontName LexiconNo2RomanE-Pi
+FamilyName LexiconNo2RomanE
+Weight Pi
+Notice \251 Copyright by The Ensched\216 Font Foundry, 1992.  All Rights reserved.  Lexicon is a registered TradeMark of TEFF.  Lexicon\250 is protected by copyright law.  Unauthorized copying or modification of any of its data is illegal.
+Version 001.000
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -291 -335 791 929
+Ascender 780
+Descender -220
+XHeight 500
+CapHeight 700
+UnderlinePosition 0
+UnderlineThickness 0
+StdHW 61
+StdVW 170
+EncodingScheme FontSpecific
+StartCharMetrics 60
+C 32 ; WX 218 ; N space ; B 0 0 0 0 ;
+C 38 ; WX 646 ; N ampersand ; B 32 -15 636 548 ;
+C 48 ; WX 439 ; N zero ; B 18 246 421 733 ;
+C 49 ; WX 439 ; N one ; B 50 256 401 762 ;
+C 50 ; WX 439 ; N two ; B 7 256 420 733 ;
+C 51 ; WX 439 ; N three ; B 23 245 395 735 ;
+C 52 ; WX 439 ; N four ; B -4 256 437 745 ;
+C 53 ; WX 439 ; N five ; B 35 246 395 749 ;
+C 54 ; WX 439 ; N six ; B 19 246 420 733 ;
+C 55 ; WX 439 ; N seven ; B 35 244 449 722 ;
+C 56 ; WX 439 ; N eight ; B 27 245 412 735 ;
+C 57 ; WX 439 ; N nine ; B 20 245 420 733 ;
+C 65 ; WX 611 ; N A ; B 4 0 605 663 ;
+C 67 ; WX 569 ; N C ; B 32 -12 562 752 ;
+C 69 ; WX 582 ; N E ; B 18 0 559 663 ;
+C 71 ; WX 671 ; N G ; B 33 -11 650 740 ;
+C 73 ; WX 370 ; N I ; B 11 0 376 663 ;
+C 79 ; WX 678 ; N O ; B 34 -14 645 663 ;
+C 83 ; WX 494 ; N S ; B 28 -13 454 752 ;
+C 85 ; WX 689 ; N U ; B 19 -13 672 663 ;
+C 90 ; WX 564 ; N Z ; B 8 0 553 752 ;
+C 96 ; WX 0 ; N grave ; B -139 727 69 929 ;
+C 136 ; WX 0 ; N circumflex ; B -145 729 181 917 ;
+C 149 ; WX 439 ; N bullet ; B 27 -102 412 388 ;
+C 152 ; WX 0 ; N tilde ; B -240 731 279 900 ;
+C 153 ; WX 439 ; N trademark ; B 7 -91 420 386 ;
+C 160 ; WX 218 ; N nbspace ; B 0 0 0 0 ;
+C 161 ; WX 439 ; N exclamdown ; B 50 -91 401 415 ;
+C 162 ; WX 439 ; N cent ; B -4 -91 437 398 ;
+C 163 ; WX 439 ; N sterling ; B 23 -102 395 388 ;
+C 167 ; WX 439 ; N section ; B 19 -102 420 385 ;
+C 168 ; WX 0 ; N dieresis ; B -185 740 212 900 ;
+C 169 ; WX 612 ; N copyright ; B 25 -304 609 722 ;
+C 170 ; WX 439 ; N ordfeminine ; B 20 -102 420 385 ;
+C 175 ; WX 0 ; N macron ; B -180 765 198 830 ;
+C 180 ; WX 0 ; N acute ; B -22 727 183 929 ;
+C 182 ; WX 439 ; N paragraph ; B 35 -103 449 375 ;
+C 184 ; WX 0 ; N cedilla ; B -175 -335 160 22 ;
+C 186 ; WX 439 ; N ordmasculine ; B 18 -102 421 386 ;
+C 196 ; WX 729 ; N Adieresis ; B 6 0 721 830 ;
+C 199 ; WX 682 ; N Ccedilla ; B 37 -15 673 926 ;
+C 203 ; WX 677 ; N Edieresis ; B 22 0 652 830 ;
+C 204 ; WX 791 ; N Igrave ; B 37 -15 763 914 ;
+C 205 ; WX 575 ; N Iacute ; B 33 -17 530 926 ;
+C 207 ; WX 407 ; N Idieresis ; B 22 0 401 830 ;
+C 214 ; WX 804 ; N Odieresis ; B 38 -17 766 830 ;
+C 219 ; WX 666 ; N Ucircumflex ; B 8 0 655 926 ;
+C 220 ; WX 812 ; N Udieresis ; B 23 -17 791 830 ;
+C 223 ; WX 463 ; N germandbls ; B 24 -17 428 809 ;
+C 228 ; WX 553 ; N adieresis ; B 27 -17 551 644 ;
+C 231 ; WX 496 ; N ccedilla ; B 32 -17 495 809 ;
+C 235 ; WX 538 ; N edieresis ; B 32 -18 525 644 ;
+C 239 ; WX 356 ; N idieresis ; B 4 0 369 644 ;
+C 246 ; WX 621 ; N odieresis ; B 32 -15 589 644 ;
+C 252 ; WX 694 ; N udieresis ; B 26 -19 675 644 ;
+C -1 ; WX 548 ; N Omega ; B 8 0 533 809 ;
+C -1 ; WX 0 ; N breve ; B -180 746 182 914 ;
+C -1 ; WX 0 ; N caron ; B -132 743 188 926 ;
+C -1 ; WX 97 ; N fraction1 ; B -291 -115 383 745 ;
+C -1 ; WX 439 ; N infinity ; B 35 -101 395 402 ;
+EndCharMetrics
+EndFontMetrics

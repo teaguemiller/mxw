@@ -1,0 +1,98 @@
+StartFontMetrics 2.0
+Comment UniqueID 4001833
+Comment Panose 2 0 6 6 2 0 0 2 0 4
+FullName InfoPict-One
+FontName InfoPict-One
+FamilyName InfoPict
+Weight Medium
+Notice < info@fontfont.de > Copyright BVG + MetaDesign, 1997. Published by FontShop International.  FontFont Release 21
+Version 001.000
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -880 -202 962 762
+Ascender 800
+Descender -200
+XHeight 500
+CapHeight 700
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 282
+StdVW 122
+EncodingScheme FontSpecific
+StartCharMetrics 74
+C 32 ; WX 480 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 480 ; N exclam ; B -404 -54 400 614 ;
+C 34 ; WX 480 ; N quotedbl ; B -400 -54 404 614 ;
+C 35 ; WX 480 ; N numbersign ; B -334 -124 334 680 ;
+C 36 ; WX 480 ; N dollar ; B -334 -120 334 684 ;
+C 37 ; WX 480 ; N percent ; B -280 0 321 602 ;
+C 38 ; WX 480 ; N ampersand ; B -321 0 280 602 ;
+C 39 ; WX 480 ; N quotesingle ; B -280 -42 321 560 ;
+C 40 ; WX 480 ; N parenleft ; B -321 -42 280 560 ;
+C 41 ; WX 480 ; N parenright ; B -403 -40 400 600 ;
+C 42 ; WX 480 ; N asterisk ; B -400 -40 403 600 ;
+C 43 ; WX 480 ; N plus ; B -320 -123 320 680 ;
+C 44 ; WX 480 ; N comma ; B -320 -120 320 683 ;
+C 47 ; WX 240 ; N slash ; B -880 -120 -80 680 ;
+C 48 ; WX 480 ; N zero ; B -2 -202 962 762 ;
+C 52 ; WX 480 ; N four ; B 0 -200 960 760 ;
+C 53 ; WX 480 ; N five ; B 0 -200 960 760 ;
+C 58 ; WX 480 ; N colon ; B -320 -120 320 682 ;
+C 59 ; WX 480 ; N semicolon ; B -320 -120 320 682 ;
+C 60 ; WX 480 ; N less ; B -361 -81 361 641 ;
+C 61 ; WX 480 ; N equal ; B -320 200 320 360 ;
+C 62 ; WX 480 ; N greater ; B -320 -120 400 680 ;
+C 63 ; WX 480 ; N question ; B -400 -120 400 680 ;
+C 64 ; WX 480 ; N at ; B -400 -3 400 563 ;
+C 65 ; WX 480 ; N A ; B -317 -120 360 680 ;
+C 66 ; WX 480 ; N B ; B -360 -120 317 680 ;
+C 67 ; WX 480 ; N C ; B -400 -120 397 667 ;
+C 68 ; WX 480 ; N D ; B -397 -120 400 667 ;
+C 69 ; WX 480 ; N E ; B -400 -120 376 680 ;
+C 70 ; WX 480 ; N F ; B -376 -120 400 680 ;
+C 71 ; WX 480 ; N G ; B -400 -120 400 680 ;
+C 72 ; WX 480 ; N H ; B -400 -120 400 680 ;
+C 73 ; WX 480 ; N I ; B -400 -120 360 680 ;
+C 74 ; WX 480 ; N J ; B -360 -120 400 680 ;
+C 75 ; WX 480 ; N K ; B -400 -120 400 680 ;
+C 76 ; WX 480 ; N L ; B -400 -120 400 680 ;
+C 77 ; WX 480 ; N M ; B -263 -120 200 680 ;
+C 78 ; WX 480 ; N N ; B -204 -120 259 680 ;
+C 79 ; WX 480 ; N O ; B -400 -120 401 680 ;
+C 80 ; WX 480 ; N P ; B -401 -120 400 680 ;
+C 81 ; WX 480 ; N Q ; B -400 -120 400 680 ;
+C 82 ; WX 480 ; N R ; B -360 -120 336 680 ;
+C 83 ; WX 480 ; N S ; B -145 -120 145 680 ;
+C 84 ; WX 480 ; N T ; B -153 -120 153 680 ;
+C 85 ; WX 480 ; N U ; B -400 -124 401 680 ;
+C 86 ; WX 841 ; N V ; B -386 76 389 497 ;
+C 87 ; WX 480 ; N W ; B -400 -120 115 680 ;
+C 88 ; WX 480 ; N X ; B -388 -120 400 680 ;
+C 89 ; WX 841 ; N Y ; B -400 157 400 428 ;
+C 90 ; WX 480 ; N Z ; B -400 158 404 401 ;
+C 92 ; WX 240 ; N backslash ; B -880 -120 -80 680 ;
+C 97 ; WX 480 ; N a ; B -175 120 175 500 ;
+C 98 ; WX 480 ; N b ; B -175 60 175 440 ;
+C 99 ; WX 480 ; N c ; B -360 160 360 400 ;
+C 100 ; WX 480 ; N d ; B -400 160 400 400 ;
+C 101 ; WX 480 ; N e ; B -160 -80 200 680 ;
+C 102 ; WX 480 ; N f ; B -320 -40 320 600 ;
+C 103 ; WX 480 ; N g ; B -320 -40 320 600 ;
+C 104 ; WX 480 ; N h ; B -400 -120 360 680 ;
+C 105 ; WX 480 ; N i ; B -400 -120 360 680 ;
+C 106 ; WX 480 ; N j ; B -400 -120 400 680 ;
+C 107 ; WX 480 ; N k ; B -400 80 400 440 ;
+C 108 ; WX 480 ; N l ; B -400 -120 400 680 ;
+C 109 ; WX 480 ; N m ; B -400 -120 400 680 ;
+C 110 ; WX 480 ; N n ; B -200 -80 120 640 ;
+C 111 ; WX 480 ; N o ; B -400 -120 400 680 ;
+C 112 ; WX 480 ; N p ; B -400 -120 400 680 ;
+C 113 ; WX 480 ; N q ; B -394 -120 400 680 ;
+C 114 ; WX 480 ; N r ; B -400 -120 404 680 ;
+C 115 ; WX 480 ; N s ; B -400 -120 404 680 ;
+C 116 ; WX 480 ; N t ; B 0 -200 960 760 ;
+C 117 ; WX 200 ; N u ; B -400 80 400 480 ;
+C 118 ; WX 280 ; N v ; B -556 118 162 447 ;
+C 160 ; WX 480 ; N nbspace ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

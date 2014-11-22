@@ -1,0 +1,23 @@
+FontName (Corpid-Bold)
+FullName (Corpid Bold)
+AppleName (Corpid Bold)
+AppleFONDID 12515
+FamilyName (Corpid)
+Version (001.072)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle 0
+CapHeight 698
+UnderlinePosition -175
+UnderlineThickness 94
+StemWidth 134
+Serif false
+MSMenuName (Corpid Bold)
+VPMenuName (Corpid Bold)
+WORDMenuName (CorpidBold)
+VPStyle (N)
+WindowsCharSet 200
+WindowsFirstChar 5
+WindowsLastChar 255

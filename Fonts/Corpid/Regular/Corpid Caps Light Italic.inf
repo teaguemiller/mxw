@@ -1,0 +1,23 @@
+FontName (CorpidCaps-LightItalic)
+FullName (Corpid Caps Light Italic)
+AppleName (Corpid Caps Light)
+AppleFONDID 12522
+FamilyName (Corpid Caps)
+Version (001.072)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -12
+CapHeight 698
+UnderlinePosition -196
+UnderlineThickness 50
+StemWidth 66
+Serif false
+MSMenuName (Corpid Caps Light)
+VPMenuName (Corpid Caps Light)
+WORDMenuName (CorpidCapsLight)
+VPStyle (I)
+WindowsCharSet 200
+WindowsFirstChar 5
+WindowsLastChar 255

@@ -1,0 +1,102 @@
+StartFontMetrics 2.0
+Comment UniqueID 4001835
+Comment Panose 2 0 6 6 3 0 0 2 0 4
+FullName InfoPict-Three
+FontName InfoPict-Three
+FamilyName InfoPict-Three
+Weight Medium
+Notice < info@fontfont.de > Copyright BVG + MetaDesign, 1997. Published by FontShop International.  FontFont Release 21
+Version 001.000
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -880 -202 962 762
+Ascender 800
+Descender -200
+XHeight 500
+CapHeight 700
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 39
+StdVW 41
+EncodingScheme FontSpecific
+StartCharMetrics 78
+C 32 ; WX 480 ; N space ; B 0 0 0 0 ;
+C 33 ; WX 480 ; N exclam ; B -404 -54 400 614 ;
+C 34 ; WX 480 ; N quotedbl ; B -400 -54 404 614 ;
+C 35 ; WX 480 ; N numbersign ; B -334 -124 334 680 ;
+C 36 ; WX 480 ; N dollar ; B -334 -120 334 684 ;
+C 37 ; WX 480 ; N percent ; B -280 0 321 602 ;
+C 38 ; WX 480 ; N ampersand ; B -321 0 280 602 ;
+C 39 ; WX 480 ; N quotesingle ; B -280 -42 321 560 ;
+C 40 ; WX 480 ; N parenleft ; B -321 -42 280 560 ;
+C 41 ; WX 480 ; N parenright ; B -403 -40 400 600 ;
+C 42 ; WX 480 ; N asterisk ; B -400 -40 403 600 ;
+C 43 ; WX 480 ; N plus ; B -320 -123 320 680 ;
+C 44 ; WX 480 ; N comma ; B -320 -120 320 683 ;
+C 47 ; WX 240 ; N slash ; B -880 -120 -80 680 ;
+C 48 ; WX 480 ; N zero ; B -2 -202 962 762 ;
+C 52 ; WX 480 ; N four ; B 0 -200 960 760 ;
+C 53 ; WX 480 ; N five ; B 0 -200 960 760 ;
+C 57 ; WX 480 ; N nine ; B -220 -120 220 680 ;
+C 58 ; WX 480 ; N colon ; B -361 -81 361 641 ;
+C 59 ; WX 480 ; N semicolon ; B -424 -132 390 712 ;
+C 60 ; WX 480 ; N less ; B -400 -120 400 681 ;
+C 61 ; WX 480 ; N equal ; B -332 -89 366 609 ;
+C 62 ; WX 480 ; N greater ; B -400 6 400 640 ;
+C 63 ; WX 480 ; N question ; B -320 -120 320 680 ;
+C 64 ; WX 480 ; N at ; B -400 -97 387 680 ;
+C 65 ; WX 480 ; N A ; B -400 100 400 680 ;
+C 66 ; WX 480 ; N B ; B -396 -120 400 540 ;
+C 67 ; WX 480 ; N C ; B -400 -120 360 680 ;
+C 68 ; WX 480 ; N D ; B -400 40 400 600 ;
+C 69 ; WX 480 ; N E ; B -400 -120 400 640 ;
+C 70 ; WX 480 ; N F ; B -234 -120 234 680 ;
+C 71 ; WX 480 ; N G ; B -240 -120 337 680 ;
+C 72 ; WX 480 ; N H ; B -360 -22 360 572 ;
+C 73 ; WX 480 ; N I ; B -405 -120 400 600 ;
+C 74 ; WX 480 ; N J ; B -400 -80 407 680 ;
+C 75 ; WX 480 ; N K ; B -400 13 400 525 ;
+C 76 ; WX 480 ; N L ; B -360 0 360 520 ;
+C 77 ; WX 480 ; N M ; B -400 -80 400 640 ;
+C 78 ; WX 480 ; N N ; B -279 -126 300 682 ;
+C 79 ; WX 480 ; N O ; B -377 -98 357 639 ;
+C 80 ; WX 480 ; N P ; B -417 -138 400 680 ;
+C 81 ; WX 480 ; N Q ; B -400 -122 400 680 ;
+C 82 ; WX 480 ; N R ; B -400 -120 400 513 ;
+C 83 ; WX 480 ; N S ; B -400 -120 400 680 ;
+C 84 ; WX 480 ; N T ; B -400 -120 400 680 ;
+C 85 ; WX 480 ; N U ; B -400 -120 400 680 ;
+C 86 ; WX 480 ; N V ; B -400 -120 400 680 ;
+C 87 ; WX 480 ; N W ; B -400 -120 400 680 ;
+C 88 ; WX 480 ; N X ; B -400 -120 400 680 ;
+C 89 ; WX 480 ; N Y ; B -400 -120 400 680 ;
+C 90 ; WX 480 ; N Z ; B -400 -120 400 680 ;
+C 92 ; WX 240 ; N backslash ; B -880 -120 -80 680 ;
+C 97 ; WX 480 ; N a ; B -312 -120 334 680 ;
+C 98 ; WX 480 ; N b ; B -360 -122 320 680 ;
+C 99 ; WX 480 ; N c ; B -400 -120 400 680 ;
+C 100 ; WX 480 ; N d ; B -400 -120 400 680 ;
+C 101 ; WX 480 ; N e ; B -340 -120 240 680 ;
+C 102 ; WX 480 ; N f ; B -400 -120 365 682 ;
+C 103 ; WX 480 ; N g ; B -408 -120 400 680 ;
+C 104 ; WX 480 ; N h ; B -400 0 400 520 ;
+C 105 ; WX 480 ; N i ; B -400 -120 347 680 ;
+C 106 ; WX 480 ; N j ; B -400 -120 400 680 ;
+C 107 ; WX 480 ; N k ; B -400 -120 400 680 ;
+C 108 ; WX 480 ; N l ; B -320 -80 320 640 ;
+C 109 ; WX 480 ; N m ; B -395 -121 403 680 ;
+C 110 ; WX 480 ; N n ; B -400 -120 400 680 ;
+C 111 ; WX 480 ; N o ; B -400 0 400 581 ;
+C 112 ; WX 480 ; N p ; B -399 -120 400 680 ;
+C 113 ; WX 480 ; N q ; B -400 -120 400 680 ;
+C 114 ; WX 480 ; N r ; B -400 -120 400 680 ;
+C 115 ; WX 480 ; N s ; B -399 -120 400 680 ;
+C 116 ; WX 480 ; N t ; B -401 -89 402 633 ;
+C 117 ; WX 480 ; N u ; B -416 -120 375 680 ;
+C 118 ; WX 480 ; N v ; B -360 -66 360 640 ;
+C 119 ; WX 480 ; N w ; B -320 -120 320 680 ;
+C 120 ; WX 480 ; N x ; B -400 -120 400 680 ;
+C 121 ; WX 480 ; N y ; B -400 -120 400 658 ;
+C 160 ; WX 480 ; N nbspace ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

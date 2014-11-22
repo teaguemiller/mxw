@@ -1,0 +1,30 @@
+
+About this version
+------------------
+
+This is NOT the OpenType version of Swift which Linotype is selling those days. These Linotype's new "Pro" and "Com" versions of Swift does not have small caps! This is a conversion-update, which is working on the PC and on the Mac, of the Gerard Unger's Mac Type 1 version "Swift 2.0" (Linotype 1995).
+
+This version is "full OpenType": the features of the small caps fonts has been integrated into the main fonts, and, in the OpenType-aware applications (InDesign, XPress 7), you access to them through the OpenType features. Then the ten main "full OpenType" fonts are enough.
+
+If you want small caps and old style figures in the OpenType-blind applications (MS Word...), you must install the ten "basic OpenType" SC fonts, which are in the folder "For the OT-blind applications".
+
+
+-----------------------------------------------
+
+Swift font family
+-----------------
+
+Designer: Gerard Unger, 1989
+ 
+Gerard Unger developed Swift between 1984 and 1987, with the intention of making a modern digital type for newspapers. The project was undertaken for the German firm Dr.-Ing Rudolf Hell GmbH. At that time, newspapers were produced on high-speed presses with low quality paper. Unger says Swift is "designed to be a survivor." It has chunky triangular serifs, sturdy connections at junctures, condensed forms with open counters, and a tall x-height.
+
+The work of William A. Dwiggins (1880-1956) was Unger's major design influence for Swift. Dwiggins was a American type designer for Mergenthaler Linotype who, as early as 1930, was focusing on legibility in the design of alternative fonts for newspaper printing. Swift has become a contemporary classic, and is now used more often for corporate identities and magazines than for newspapers. Austere and concise, firm and original, Swift is a typeface suited to almost any purpose.
+
+-----------------------------------------------
+
+Gerard Unger about Swift:
+-------------------------
+
+"Many of my type designs have been the result of my own initiative, particularly my newsfaces. The first of these was Swift, later produced by the Hell company. At the beginning of the eighties there were only a handful of types that were suitable for newsprint, and most newspapers were using either Times or Excelsior — both of which dated way back to 1932. At the same time, papers were less carefully produced than now. This is why Swift has such a robust appearance, large serifs and pronounced character: it is designed to be a survivor. Today, Swift is used more outside newspapers than in them, especially for corporate identities and as a text type for periodicals. The first Postscript Type 1 version of Swift is somewhat defective, so in the mid nineteen-nineties I gave it a thorough going-over, considerably expanded the family and relaunched it under my own steam."
+
+http://www.gerardunger.com/allmytypedesigns/allmytypedesigns08.html

@@ -1,0 +1,23 @@
+FontName (CorpidCd-Italic)
+FullName (Corpid Cd Italic)
+FamilyName (Corpid Cd)
+Version (001.000)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -9
+CapHeight 698
+UnderlinePosition 0
+UnderlineThickness 0
+StemWidth 193
+Serif false
+AppleName (Corpid Cd Italic)
+MSMenuName (Corpid Cd)
+VPMenuName (Corpid Cd)
+WORDMenuName (Corpid Cd)
+AppleFONDID 128
+VPStyle (I)
+WindowsCharSet 200
+WindowsFirstChar 32
+WindowsLastChar 255

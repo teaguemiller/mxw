@@ -1,0 +1,23 @@
+FontName (CorpidCd-Light)
+FullName (Corpid Cd Light)
+FamilyName (Corpid Cd)
+Version (001.000)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle 0
+CapHeight 698
+UnderlinePosition 0
+UnderlineThickness 0
+StemWidth 190
+Serif false
+AppleName (Corpid Cd Light)
+MSMenuName (Corpid Cd Light)
+VPMenuName (Corpid Cd Light)
+WORDMenuName (Corpid Cd Light)
+AppleFONDID 128
+VPStyle (N)
+WindowsCharSet 200
+WindowsFirstChar 32
+WindowsLastChar 255

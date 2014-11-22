@@ -1,0 +1,46 @@
+StartFontMetrics 2.0
+Comment UniqueID 4002033
+Comment Panose 2 0 6 0 6 0 0 2 0 4
+FullName InfoPict-Plus
+FontName InfoPict-Plus
+FamilyName InfoPict-Plus
+Weight Medium
+Notice < info@fontfont.de > Copyright BVG + MetaDesign, 1997. Published by FontShop International.  FontFont Release 21
+Version 001.000
+IsFixedPitch false
+ItalicAngle 0.00
+FontBBox -960 -202 1900 762
+Ascender 800
+Descender -200
+XHeight 500
+CapHeight 700
+UnderlinePosition -133
+UnderlineThickness 20
+StdHW 41
+StdVW 60
+EncodingScheme FontSpecific
+StartCharMetrics 22
+C 32 ; WX 480 ; N space ; B 0 0 0 0 ;
+C 47 ; WX 240 ; N slash ; B -880 -120 -80 680 ;
+C 48 ; WX 480 ; N zero ; B -2 -202 962 762 ;
+C 52 ; WX 480 ; N four ; B 0 -200 960 760 ;
+C 53 ; WX 480 ; N five ; B 0 -200 960 760 ;
+C 65 ; WX 960 ; N A ; B 20 -180 1900 740 ;
+C 66 ; WX 960 ; N B ; B -960 -200 960 760 ;
+C 67 ; WX 960 ; N C ; B -960 -200 960 760 ;
+C 68 ; WX 960 ; N D ; B -960 -200 960 760 ;
+C 69 ; WX 960 ; N E ; B -960 -200 960 760 ;
+C 70 ; WX 960 ; N F ; B -960 -200 960 760 ;
+C 71 ; WX 960 ; N G ; B -960 -200 960 760 ;
+C 72 ; WX 960 ; N H ; B -960 -200 960 760 ;
+C 73 ; WX 960 ; N I ; B -960 -200 960 760 ;
+C 92 ; WX 240 ; N backslash ; B -880 -120 -80 680 ;
+C 97 ; WX 841 ; N a ; B -400 -120 401 680 ;
+C 98 ; WX 841 ; N b ; B -400 -124 318 680 ;
+C 99 ; WX 480 ; N c ; B -349 139 302 455 ;
+C 100 ; WX 841 ; N d ; B -400 120 404 476 ;
+C 101 ; WX 480 ; N e ; B -320 -80 116 640 ;
+C 102 ; WX 480 ; N f ; B -400 -80 403 680 ;
+C 160 ; WX 480 ; N nbspace ; B 0 0 0 0 ;
+EndCharMetrics
+EndFontMetrics

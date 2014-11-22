@@ -1,0 +1,23 @@
+FontName (CorpidCaps-Black)
+FullName (Corpid Caps Black)
+AppleName (Corpid Caps Black)
+AppleFONDID 12529
+FamilyName (Corpid Caps)
+Version (001.072)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle 0
+CapHeight 698
+UnderlinePosition -148
+UnderlineThickness 146
+StemWidth 218
+Serif false
+MSMenuName (Corpid Caps Black)
+VPMenuName (Corpid Caps Black)
+WORDMenuName (CorpidCapsBlack)
+VPStyle (N)
+WindowsCharSet 200
+WindowsFirstChar 5
+WindowsLastChar 255

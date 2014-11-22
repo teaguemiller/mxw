@@ -1,0 +1,23 @@
+FontName (Corpid-HeavyItalic)
+FullName (Corpid Heavy Italic)
+AppleName (Corpid Heavy)
+AppleFONDID 12518
+FamilyName (Corpid)
+Version (001.072)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -12
+CapHeight 698
+UnderlinePosition -162
+UnderlineThickness 120
+StemWidth 175
+Serif false
+MSMenuName (Corpid Heavy)
+VPMenuName (Corpid Heavy)
+WORDMenuName (CorpidHeavy)
+VPStyle (I)
+WindowsCharSet 200
+WindowsFirstChar 5
+WindowsLastChar 255

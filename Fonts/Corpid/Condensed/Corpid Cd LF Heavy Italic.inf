@@ -1,0 +1,22 @@
+FontName (CorpidCdLF-HeavyItalic)
+FullName (Corpid Cd LF Heavy Italic)
+AppleName (CorpidCdLF-HeavyItalic)
+FamilyName (Corpid Cd LF)
+Version (001.000)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -9
+CapHeight 698
+UnderlinePosition 0
+UnderlineThickness 0
+StemWidth 193
+Serif false
+MSMenuName (Corpid Cd LF Heavy)
+VPMenuName (Corpid Cd LF Heavy)
+WORDMenuName (Corpid Cd LF Heavy)
+VPStyle (I)
+WindowsCharSet 200
+WindowsFirstChar 32
+WindowsLastChar 255

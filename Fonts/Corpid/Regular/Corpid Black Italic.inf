@@ -1,0 +1,23 @@
+FontName (Corpid-BlackItalic)
+FullName (Corpid Black Italic)
+AppleName (Corpid Black)
+AppleFONDID 12520
+FamilyName (Corpid)
+Version (001.072)
+isFixedPitch false
+CharacterSet (custom)
+Encoding (SpecificEncoding)
+Pi true
+ItalicAngle -12
+CapHeight 698
+UnderlinePosition -148
+UnderlineThickness 146
+StemWidth 218
+Serif false
+MSMenuName (Corpid Black)
+VPMenuName (Corpid Black)
+WORDMenuName (CorpidBlack)
+VPStyle (I)
+WindowsCharSet 200
+WindowsFirstChar 5
+WindowsLastChar 255
