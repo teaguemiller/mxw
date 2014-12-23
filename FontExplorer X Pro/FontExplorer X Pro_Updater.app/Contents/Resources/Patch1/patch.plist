@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Compression</key>
+	<string>YES</string>
+	<key>File1</key>
+	<dict>
+		<key>SHA1</key>
+		<string>&lt;9d4261d5 586cb884 84f43e26 5cdc35d1 b79c150e&gt;</string>
+		<key>fileCreationDate</key>
+		<date>2011-04-12T09:19:07Z</date>
+		<key>fileModificationDate</key>
+		<date>2011-04-12T20:31:16Z</date>
+		<key>fileOwner</key>
+		<string>NSfileOwnerAccountName:NSfileGroupOwnerAccountName</string>
+		<key>filePosixPermissions</key>
+		<integer>493</integer>
+		<key>name</key>
+		<string>FontExplorer X Pro</string>
+		<key>newPath</key>
+		<string>/Contents/MacOS/FontExplorer X Pro</string>
+		<key>originalPath</key>
+		<string>/Contents/MacOS/FontExplorer X Pro</string>
+		<key>type</key>
+		<string>DataForkCmp</string>
+	</dict>
+	<key>NumberOfFile</key>
+	<string>1</string>
+	<key>NumberOfScripts</key>
+	<string>0</string>
+	<key>NumberOfSpecialFile</key>
+	<string>0</string>
+	<key>fileToChecksum</key>
+	<string>/Contents/MacOS/FontExplorer X Pro</string>
+	<key>md5Checksum</key>
+	<string>ad3f0caa8fd1eb4d21a634fb13fbbcd1</string>
+	<key>nameOfApp</key>
+	<string>FontExplorer X Pro.app</string>
+	<key>prebindingSupport</key>
+	<string>NO</string>
+	<key>rsrcToChecksum</key>
+	<string>0</string>
+</dict>
+</plist>

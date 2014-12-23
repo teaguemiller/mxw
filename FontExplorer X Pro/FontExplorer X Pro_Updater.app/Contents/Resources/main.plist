@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NumberOfPatch</key>
+	<string>1</string>
+	<key>displayMenu</key>
+	<string>YES</string>
+	<key>interface</key>
+	<string>0</string>
+	<key>rtfFileMD5</key>
+	<string>da39a3ee5e6b4b0d3255bfef95601890afd80709</string>
+	<key>rtfdFileMD5</key>
+	<string>0c7fa3c1890af4fb0a760f413b3e975ba62f1f3a</string>
+	<key>theApptoPatchName</key>
+	<string>FontExplorer X Pro_App</string>
+	<key>windowPosition</key>
+	<string>161</string>
+	<key>windowSize</key>
+	<string>85</string>
+	<key>windowTitle</key>
+	<string>FontExplorer X Pro_Updater</string>
+</dict>
+</plist>
